@@ -1,0 +1,1 @@
+while true; do ./commands.sh; sleep 3600; done
