@@ -1,5 +1,6 @@
-while true;  
-sleep 3600
+while true; 
 git add -A
 git commit -m "More Data"
-git push origin master;
+git push origin master
+sleep 3600
+done
