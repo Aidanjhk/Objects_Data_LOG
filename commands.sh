@@ -12,4 +12,4 @@ git add -A
 git commit -m "Update Current"
 git push origin master
 
-killall -q -15 chrome
+kill chrome
