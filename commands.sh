@@ -6,8 +6,9 @@ git add -A
 git commit -m "More Data"
 git push origin master
 
-./Data_Sorting.exe
-./Data_synthesis.exe
+./Data_Sorting_MAJOR.exe
+./Data_Sorting_MINOR.exe
+
 git add -A
 git commit -m "Update Current"
 git push origin master
