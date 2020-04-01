@@ -11,7 +11,3 @@ git push origin master
 git add -A
 git commit -m "Update Current"
 git push origin master
-
-kill -TERM $pidChrome1
-
-stop chrome
