@@ -6,6 +6,8 @@ git add -A
 git commit -m "More Data"
 git push origin master
 
+sleep 2
+
 ./Data_Sorting_MAJOR.exe
 ./Data_Sorting_MINOR.exe
 
