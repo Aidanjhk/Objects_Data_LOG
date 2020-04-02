@@ -9,7 +9,7 @@ git push origin master
 sleep 2
 
 ./Data_Sorting_MAJOR.exe
-./Data_Sorting.exe
+./Data_Sorting_MINOR.exe
 
 git add -A
 git commit -m "Update Current"
