@@ -1,9 +1,7 @@
 
 start chrome "https://www.minorplanetcenter.net/iau/MPEph/MPEph.html"
-sleep .5
 ./Planet_Data_Request.exe
 ./planet_hunt.sh
-sleep 14
 
 git add -A
 git commit -m "More Data"
