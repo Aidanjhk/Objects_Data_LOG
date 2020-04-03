@@ -1,3 +1,4 @@
+./Pre_Process.exe
 start chrome "https://www.minorplanetcenter.net/iau/MPEph/MPEph.html"
 ./Planet_Data_Request.exe
 ./planet_hunt.sh
