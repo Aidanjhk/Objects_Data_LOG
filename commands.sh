@@ -11,7 +11,7 @@ sleep 2
 
 ./Data_Sorting_MAJOR.exe
 ./Data_Sorting_MINOR.exe
-./Cleanup
+./Data_Sorting.exe
 sleep 6
 
 git add -A
