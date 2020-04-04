@@ -4,7 +4,7 @@ sleep 1
 ./Planet_Data_Request.exe
 ./planet_hunt.sh
 
-sleep 2
+sleep 4
 
 ./Data_Sorting_MAJOR.exe
 ./Data_Sorting_MINOR.exe
@@ -15,7 +15,7 @@ sleep 6
 sleep 1
 ./Pre_Process.exe
 
-sleep 2
+sleep 4
 git add -A
 git commit -m "Data"
 git push origin master
