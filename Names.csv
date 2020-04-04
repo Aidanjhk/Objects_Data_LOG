@@ -1,3001 +1,3001 @@
-Name
-         Ceres
-         Pallas
-         Juno
-         Vesta
-         Astraea
-         Hebe
-         Iris
-         Flora
-         Metis
-         Hygiea
-         Parthenope
-         Victoria
-         Egeria
-         Irene
-         Eunomia
-         Psyche
-         Thetis
-         Melpomene
-         Fortuna
-         Massalia
-         Lutetia
-         Kalliope
-         Thalia
-         Themis
-         Phocaea
-         Proserpina
-         Euterpe
-         Bellona
-         Amphitrite
-         Urania
-         Euphrosyne
-         Pomona
-         Polyhymnia
-         Circe
-         Leukothea
-         Atalante
-         Fides
-         Leda
-         Laetitia
-         Harmonia
-         Daphne
-         Isis
-         Ariadne
-         Nysa
-         Eugenia
-         Hestia
-         Aglaja
-         Doris
-         Pales
-         Virginia
-         Nemausa
-         Europa
-         Kalypso
-         Alexandra
-         Pandora
-         Melete
-         Mnemosyne
-         Concordia
-         Elpis
-         Echo
-         Danae
-         Erato
-         Ausonia
-         Angelina
-         Cybele
-         Maja
-         Asia
-         Leto
-         Hesperia
-         Panopaea
-         Niobe
-         Feronia
-         Klytia
-         Galatea
-         Eurydike
-         Freia
-         Frigga
-         Diana
-         Eurynome
-         Sappho
-         Terpsichore
-         Alkmene
-         Beatrix
-         Klio
-         Io
-         Semele
-         Sylvia
-         Thisbe
-         Julia
-         Antiope
-         Aegina
-         Undina
-         Minerva
-         Aurora
-         Arethusa
-         Aegle
-         Klotho
-         Ianthe
-         Dike
-         Hekate
-         Helena
-         Miriam
-         Hera
-         Klymene
-         Artemis
-         Dione
-         Camilla
-         Hecuba
-         Felicitas
-         Lydia
-         Ate
-         Iphigenia
-         Amalthea
-         Kassandra
-         Thyra
-         Sirona
-         Lomia
-         Peitho
-         Althaea
-         Lachesis
-         Hermione
-         Gerda
-         Brunhild
-         Alkeste
-         Liberatrix
-         Velleda
-         Johanna
-         Nemesis
-         Antigone
-         Elektra
-         Vala
-         Aethra
-         Cyrene
-         Sophrosyne
-         Hertha
-         Austria
-         Meliboea
-         Tolosa
-         Juewa
-         Siwa
-         Lumen
-         Polana
-         Adria
-         Vibilia
-         Adeona
-         Lucina
-         Protogeneia
-         Gallia
-         Medusa
-         Nuwa
-         Abundantia
-         Atala
-         Hilda
-         Bertha
-         Scylla
-         Xanthippe
-         Dejanira
-         Koronis
-         Aemilia
-         Una
-         Athor
-         Laurentia
-         Erigone
-         Eva
-         Loreley
-         Rhodope
-         Urda
-         Sibylla
-         Zelia
-         Maria
-         Ophelia
-         Baucis
-         Ino
-         Phaedra
-         Andromache
-         Iduna
-         Irma
-         Belisana
-         Klytaemnestra
-         Garumna
-         Eucharis
-         Elsa
-         Istria
-         Dejopeja
-         Eunike
-         Celuta
-         Lamberta
-         Menippe
-         Phthia
-         Ismene
-         Kolga
-         Nausikaa
-         Ambrosia
-         Prokne
-         Eurykleia
-         Philomela
-         Arete
-         Ampella
-         Byblis
-         Dynamene
-         Penelope
-         Chryseis
-         Pompeja
-         Kallisto
-         Martha
-         Hersilia
-         Hedda
-         Lacrimosa
-         Dido
-         Isabella
-         Isolda
-         Medea
-         Lilaea
-         Aschera
-         Oenone
-         Kleopatra
-         Eudora
-         Bianca
-         Thusnelda
-         Stephania
-         Eos
-         Lucia
-         Rosa
-         Oceana
-         Henrietta
-         Weringia
-         Philosophia
-         Agathe
-         Adelinda
-         Athamantis
-         Vindobona
-         Russia
-         Asterope
-         Barbara
-         Carolina
-         Honoria
-         Coelestina
-         Hypatia
-         Adrastea
-         Vanadis
-         Germania
-         Kriemhild
-         Ida
-         Sita
-         Vera
-         Asporina
-         Eukrate
-         Lameia
-         Ilse
-         Bettina
-         Sophia
-         Clementina
-         Mathilde
-         Augusta
-         Oppavia
-         Walpurga
-         Silesia
-         Tyche
-         Aletheia
-         Huberta
-         Prymno
-         Valda
-         Dresda
-         Libussa
-         Anna
-         Aline
-         Tirza
-         Adorea
-         Justitia
-         Anahita
-         Penthesilea
-         Antonia
-         Atropos
-         Philagoria
-         Sapientia
-         Adelheid
-         Elvira
-         Paulina
-         Thule
-         Philia
-         Lucretia
-         Clorinde
-         Emma
-         Amalia
-         Regina
-         Iclea
-         Nephthys
-         Glauke
-         Nenetta
-         Bruna
-         Alice
-         Ludovica
-         Brasilia
-         Felicia
-         Theresia
-         Phaetusa
-         Caecilia
-         Baptistina
-         Thora
-         Geraldina
-         Bavaria
-         Clarissa
-         Josephina
-         Olga
-         Gordonia
-         Unitas
-         Nike
-         Polyxo
-         Fraternitas
-         Margarita
-         Claudia
-         Pierretta
-         Chaldaea
-         Rosalia
-         Constantia
-         Goberta
-         Roxane
-         Magdalena
-         Leona
-         Katharina
-         Florentina
-         Phaeo
-         Brucia
-         Bamberga
-         Heidelberga
-         Tamara
-         Columbia
-         Gudrun
-         Svea
-A910 CB  Adalberta
-         Etheridgea
-         Siri
-1892 A   Badenia
-1892 L   Chicago
-1892 C   Roberta
-1892 D   Lacadiera
-1892 E   Devosa
-1892 F   Budrosa
-1892 G   Dorothea
-1892 H   Eduarda
-1892 J   California
-1892 K   Endymion
-1892 N   Ostara
-1892 M   Desiderata
-1892 O   Tercidina
-1892 P   Hermentaria
-1892 Q   Pariana
-1892 R   May
-1892 T   Dembowska
-1892 U   Ornamenta
-1892 V   Yrsa
-1893 B   Gisela
-1893 F   Ruperto-Carola
-1893 A   Eleonora
-1893 E   Gabriella
-1893 G   Liguria
-1893 J   Ninina
-1893 K   Apollonia
-1893 M   Georgia
-1893 N   Carlova
-1893 P   Bononia
-1893 R   Havnia
-1893 S   Padua
-1893 T   Isara
-1893 V   Corduba
-1893 W   Vincentina
-1893 AA  Amicitia
-1893 AB  Haidea
-1893 AE  Aeria
-1893 AC  Modestia
-1893 AD  Bohemia
-1893 AH  Palma
-1893 AJ  Melusina
-1893 AK  Burgundia
-1893 AL  Ursula
-1893 AM  Geometria
-1893 AN  Campania
-1893 AP  Holmia
-1894 AQ  Huenna
-1894 AR  Fiducia
-1894 AS  Myrrha
-1894 AT  Dodona
-1894 AU  Janina
-1894 AV  Burdigala
-1894 AX  Ilmatar
-1894 AY  Siegena
-1894 AZ  Aquitania
-1894 BA  Charybdis
-1894 BB  Industria
-1894 BC  Alma
-1894 BE  Ingeborg
-1894 BF  Wilhelmina
-1894 BG  Lampetia
-1894 BH  Arduina
-1894 BK  Delia
-1894 BL  Aeolia
-1894 BM  Vienna
-1894 BN  Admete
-1895 BP  Persephone
-1895 BU  Ducrosa
-1895 BT  Ottilia
-1895 BW  Chloe
-1895 BX  Cyane
-1895 BY  Arsinoe
-1895 BZ  Thia
-1895 CB  Erna
-1895 CC  Arachne
-1895 CD  Fama
-1895 CE  Aspasia
-1896 CH  Chloris
-1896 CJ  Xanthe
-1896 CK  Elisabetha
-1896 CL  Edburga
-1896 CN  Liriope
-1896 CO  Palatia
-1896 CS  Vaticana
-1896 CT  Suevia
-1896 CV  Alemannia
-1896 CW  Aurelia
-1896 CY  Bertholda
-1896 CZ  Zahringia
-1896 DA  Berolina
-1896 DB  Diotima
-1896 DF  Gratia
-1896 DC  Cornelia
-1897 DH  Hippo
-1897 DJ  Galene
-1897 DK  Monachia
-1897 DL  Lotis
-1897 DM  Hybris
-1897 DN  Nephele
-1897 DO  Pythia
-1898 DQ  Eros
-1898 DR  Hungaria
-1898 DS  Ella
-1898 DT  Patricia
-1898 DP  Rhodia
-1898 DU  Zeuxo
-1898 EB  Ohio
-1898 EC  Theodora
-1898 ED  Bathilde
-1899 EE  Eichsfeldia
-1899 EF  Photographica
-1899 EL  Gyptis
-1899 EX  Edna
-1899 ER  Aeternitas
-1899 ES  Valentine
-1899 ET  Natalie
-1899 EU  Hamburga
-1899 EV  Brigitta
-1899 EY  Patientia
-1899 FD  Hamiltonia
-1900 FA  Tea
-1900 FC  Mathesis
-1900 FG  Bruchsalia
-1900 FH  Abnoba
-1900 FJ  Alleghenia
-1900 FK  Hercynia
-1900 FM  Signe
-1900 FN  Scania
-1900 FP  Saskia
-1900 FQ  Eriphyla
-1900 FS  Lola
-1901 FV  Megaira
-1901 FW  Alekto
-1901 FX  Tisiphone
-1901 FY  Laura
-1901 FZ  Lina
-1901 GE  Argentina
-1901 GJ  Kilia
-1901 GN  Papagena
-1901 GP  Roma
-1901 GC  Nolli
-1901 GD  Prudentia
-1901 HN  Ocllo
-1901 GQ  Hedwig
-1901 GR  Italia
-1901 GU  Tergeste
-1901 HJ  Caprera
-1901 GL  Hansa
-1902 HP  Emita
-1902 HT  Petrina
-1902 HU  Seppina
-1902 HX  Pittsburghia
-1902 HZ  Genua
-1902 JB  Cremona
-1902 JL  Venetia
-1902 JG  Kreusa
-1902 JM  Comacina
-1902 JP  Veritas
-1902 JQ  Carina
-1902 JR  Gismonda
-1902 JS  Griseldis
-1902 JV  Virtus
-1902 KG  Eulalia
-1902 KH  Gryphia
-1902 KJ  Iva
-1902 KU  Tokio
-1902 KX  Venusia
-1903 LA  Selinur
-1903 LB  Urhixidur
-1903 LC  Sigune
-1903 LF  Evelyn
-1902 LK  Cora
-1902 LL  Cava
-1903 LN  Marion
-1903 LO  Laodica
-1903 LQ  Princetonia
-1903 LR  Iolanda
-1903 LT  Mabella
-1903 LU  Davida
-1903 LV  Taurinensis
-1903 LY  Centesima
-1903 MB  Armida
-1903 ME  Athalia
-1903 MG  Amherstia
-1903 MH  Edith
-1903 MO  Halawe
-1903 MP  Sylvania
-1903 MV  Franziska
-1904 NB  Brixia
-1904 NC  Helga
-1904 ND  Ada
-1904 NN  Fidelio
-1908 EKa Adelaide
-1904 NQ  Jena
-1904 NR  Euryanthe
-1904 NS  Rezia
-1904 NT  Preziosa
-1904 NV  Turandot
-1904 NW  Zerlina
-1904 NY  Herculina
-1904 NZ  Sara
-1904 OA  Nassovia
-1904 OC  Montague
-1904 OF  Merapi
-1904 OG  Pauly
-1904 OK  Friederike
-1904 OL  Pamina
-1904 ON  Rosamunde
-1904 OO  Deborah
-1904 OQ  Susanna
-1904 OT  Charlotte
-1904 OU  Jetta
-1904 OY  Messalina
-1904 PA  Herodias
-1904 PB  Praxedis
-1904 PC  Kressida
-1904 PK  Jessonda
-1904 PL  Senta
-1904 PM  Ortrud
-1904 PO  Sigelinde
-1904 PP  Kundry
-1905 PS  Peraga
-1905 PT  Norma
-1905 PW  Phyllis
-1905 PY  Violetta
-1905 QB  Carmen
-1905 QD  Nanon
-1905 QF  Delila
-1905 QG  Ingwelde
-1905 QH  Salome
-1905 QK  Suleika
-1905 QM  Dudu
-1905 QN  Marbachia
-1905 QO  Stereoskopia
-1905 QP  Eleutheria
-1905 QS  Cheruskia
-1905 QT  Misa
-1905 QX  Kythera
-1905 QZ  Dulcinea
-1905 RB  Rebekka
-1905 RC  Recha
-1905 RD  Reginhild
-1905 RE  Renate
-1905 RF  Emanuela
-1905 RH  Rhea
-1905 RZ  Happelia
-1905 SD  Sidonia
-1905 SE  Selene
-1905 SH  Tauntonia
-1906 SO  Olympia
-1905 SP  Klotilde
-1906 SY  Semiramis
-1906 TA  Bilkis
-1906 TC  Thekla
-1906 TF  Hypsipyle
-1906 TG  Achilles
-1906 TM  Croatia
-1906 TO  Tomyris
-1906 TP  Irmgard
-1906 TS  Bathseba
-1906 TT  Titania
-1906 TW  Mireille
-1906 TZ  Polyxena
-1906 UA  Scheila
-1906 UB  Bandusia
-1906 UC  Octavia
-1906 UJ  Luisa
-1906 UM  Musa
-1906 UN  Nerthus
-1906 TE  Marianna
-1906 TJ  Timandra
-1906 TK  Tekmessa
-1906 UU  Juvisia
-1906 VB  Brangane
-1906 VC  Jenny
-1906 VD  Adolfine
-1906 VF  Fulvia
-1906 VK  Valeska
-1906 VL  Valeria
-1906 VN  Veronika
-1906 VP  Ginevra
-1906 VQ  Pia
-1906 VR  Roswitha
-1906 VT  Elly
-1906 VY  Patroclus
-1906 VZ  Elfriede
-1906 WC  Triberga
-1906 WE  Drakonia
-1906 WJ  Werdandi
-1906 WP  Esther
-1907 XJ  Chimaera
-1907 XM  Hektor
-1907 XN  Xenia
-1907 XO  Notburga
-1907 XS  Charis
-1907 XT  Christine
-1907 XU  Bernardina
-1907 XW  Euphemia
-1907 YJ  Philippina
-1907 YX  Pyrrha
-1907 ZM  Zelima
-1907 ZN  Ute
-1907 ZS  Vundtia
-1907 XP  Erika
-1907 YE  Chrysothemis
-1907 ZQ  Moira
-1907 ZT  Latona
-1907 ZW  Brambilla
-1907 ZX  Agnes
-1907 ZY  Clara
-1907 ZZ  Scheherezade
-1907 AA  Cosima
-1907 AG  Agrippina
-1907 AC  Kastalia
-1907 AD  Adelgunde
-1907 AE  Pippa
-1907 AF  Josefa
-1907 AM  Amalasuntha
-1907 AN  Antikleia
-1907 AU  Jubilatrix
-1907 BK  Berenike
-1908 BM  Zelinda
-1907 BF  Briseis
-1908 BU  Beagle
-1908 BV  Gunlod
-1908 BW  Asteria
-1908 CS  Nestor
-1908 CC  Crescentia
-1908 CL  Cloelia
-1908 CW  Newtonia
-1908 DG  Gerlinde
-1908 DH  Judith
-1908 DK  Sabine
-1908 DM  Desdemona
-1908 DN  Denise
-1908 DO  Dora
-1908 DQ  Kypria
-1908 DR  Ottegebe
-1908 DV  Carnegia
-1908 DY  Astarte
-1908 EA  Edda
-1908 EP  Rachele
-1908 DU  Ludmilla
-1909 FN  Melitta
-1909 FR  Aaltje
-1909 FS  Fredegundis
-1909 FY  Pax
-1909 GW  Genoveva
-1909 GZ  Gorgo
-1909 HA  Hagar
-1909 HC  Lanzia
-1909 HD  Hildburg
-1909 HE  Hermia
-1909 HF  Gersuind
-1909 HG  Tinette
-1909 HH  Melanie
-1909 HJ  Zita
-1909 HZ  Wratislavia
-1909 JG  Lehigh
-1901 HD  Hippodamia
-1909 HN  Zerbinetta
-1909 JA  Ekard
-1909 JB  Bella
-1910 JJ  Leonora
-1910 JO  Galilea
-1910 JX  Ernestina
-1910 KD  Hela
-1910 KE  Auravictrix
-1910 KN  Oriola
-1910 KQ  Alauda
-1910 KT  Noemi
-1910 KU  Interamnia
-1910 KV  Erminia
-1910 KX  Hirundo
-1910 LD  Steina
-1911 LJ  Raphaela
-1911 LK  Fringilla
-1911 LM  Gertrud
-1911 LN  Marmulla
-1911 LO  Boliviana
-1911 LS  Luscinia
-1911 LW  Ulula
-1911 LX  Transvaalia
-1911 MD  Berkeley
-1911 MJ  Wisibada
-1911 MS  Erida
-1911 MT  Albert
-1911 MW  Bohlinia
-1911 MZ  Tabora
-1911 NA  Frieda
-1911 NB  Hammonia
-1911 NC  Hapag
-1911 ND  Amanda
-1911 NM  Joella
-1912 NT  Nipponia
-1912 NU  Leonisis
-1912 OD  Watsonia
-1912 OK  Athanasia
-1912 OQ  Sorga
-1912 OR  Tjilaki
-1912 PF  Mocia
-1912 PH  Benda
-1912 PY  Marghanna
-1912 PZ  Harvard
-1912 QB  Arequipa
-1913 QO  Alagasta
-1913 QR  Mandeville
-1913 QS  Cantabia
-1913 QT  Botolphia
-1913 QU  Edisona
-1913 QV  Eugenisis
-1913 QW  Aguntina
-1913 QX  Mauritia
-1913 QY  Marlu
-1913 QZ  Winchester
-1913 RD  Simeisa
-1913 RF  Malzovia
-1913 RG  Oskar
-1913 RK  Faina
-1913 RL  Sulamitis
-1913 RM  Tiflis
-1906 UT  Malabar
-1908 CZ  Quintilla
-1908 DC  Lilliana
-1908 EJ  Portlandia
-1912 PE  Mancunia
-1913 SJ  Vinifera
-1913 SL  Massinga
-1913 SO  Brendelia
-1913 SQ  Pulcova
-1913 ST  Cupido
-1913 SU  Gedania
-1913 SV  Mattiaca
-1913 SW  Moguntia
-1913 SX  Bondia
-1913 SZ  Struveana
-1913 TA  Tatjana
-1913 TE  Bali
-1913 TO  Libera
-1913 TR  Tanete
-1913 TV  Irmintraud
-1913 TW  Armor
-1914 TX  Lumiere
-1914 TY  Berbericia
-1914 TZ  Gutemberga
-1914 UA  Theobalda
-1914 UB  Nina
-1914 UC  Armenia
-1914 UF  Kartvelia
-1914 UK  Montefiore
-1914 UL  Nora
-1914 UM  Pickeringia
-1914 UN  Zwetana
-1914 UO  Bredichina
-1914 UQ  Moskva
-1914 UR  Hohensteina
-1914 UU  Lena
-1912 NW  Pretoria
-1914 UV  Ani
-1907 ZC  Metcalfia
-1907 ZD  Arizona
-1914 VB  Irenaea
-1914 VE  Fini
-1914 VH  Sarita
-1914 VR  Montana
-1914 VT  Ruth
-1915 WO  Gudula
-1915 WP  Kressmannia
-1915 WQ  Helwerthia
-1915 WR  Epyaxa
-1915 WS  Picka
-1915 WT  Hispania
-1915 WW  Hormuthia
-1915 WX  Gyldenia
-1915 WY  Ceraskia
-1901 GY  Merxia
-1915 XP  Lundia
-1915 XQ  Atossa
-1915 XR  Nauheima
-1915 XV  Adele
-1915 YR  Baumeia
-1916 YT  Tauris
-1916 YU  Coppelia
-1916 YV  Juliana
-1916 YW  Annika
-1916 YZ  Kapteynia
-1916 ZA  Barnardiana
-1916 ZB  Adriana
-1916 ZC  Fanny
-1916 ZD  Lalage
-1916 ZG  Sisigambis
-1916 ZH  Anastasia
-1916 ZL  Tanina
-1916 ZO  Henrika
-1916 ZW  Wolfiana
-1916 ZX  Lindemannia
-1916 ZY  Academia
-1916 ZZ  Petropolitana
-1916 AA  Stateira
-1916 AB  Karin
-1916 AC  Monica
-1916 AD  Burnhamia
-1916 AE  Olivia
-1916 AF  Jole
-1916 AG  Schwarzschilda
-1916 AH  Seraphina
-1916 AJ  Valborg
-1916 AK  Zenobia
-1916 AL  Arabella
-1916 AM  Kerstin
-1916 AN  Nicolaia
-1916 AP  Leontina
-1916 AS  Naema
-1916 AT  Lipperta
-1915 XX  Agnia
-1915 XS  Inna
-1912 NY  Ara
-1916 S24 Altona
-1916 S26 Zeissia
-1916 S27 Wladilena
-1916 S28 Nansenia
-1916 S29 Frostia
-1916 ZP  Newcombia
-1916 S30 Backlunda
-1916 S33 Glasenappia
-1916 a   El Djezair
-1916 c   Bouzareah
-1917 BD  Ursina
-1917 BE  Aida
-1917 BF  Franzia
-1917 BH  Benkoela
-A921 SB  Aase
-1917 BO  Zubaida
-1917 BQ  Fatme
-1917 BS  Kovacia
-1917 BU  Lova
-1917 BV  Mellena
-1917 BX  Manto
-1917 BY  Amneris
-1917 BZ  Holda
-1917 CA  Mechthild
-1917 CC  Rotraut
-1917 CF  Nymphe
-1917 CH  Scott
-1915 S7  Walkure
-1916 f   Mildred
-1917 CJ  Ricarda
-1917 CK  Herba
-1917 CL  Athene
-1917 CM  Swetlana
-1917 CP  Matterania
-1917 CQ  Priamus
-1917 CX  Ulrike
-1917 b   Washingtonia
-1918 DB  Alinda
-1918 DC  Parysatis
-1918 DG  Erynia
-1918 DK  Waltraut
-1918 DQ  Gunhild
-1918 DR  Seeligeria
-1918 DS  Leopoldina
-1918 DT  Erda
-1918 DU  Helio
-1918 DV  Sphinx
-1918 DZ  Lysistrata
-1918 EA  Hildegard
-1918 EB  Jokaste
-1918 EC  Rosalinde
-1918 EE  Brunsia
-1918 EJ  Probitas
-1918 EM  Nealley
-1918 EO  Rockefellia
-1918 ES  Universitas
-1918 ET  Repsolda
-1918 EU  Rhoda
-1918 EX  Buda
-1919 FA  Ulla
-1919 FB  Anneliese
-1919 FD  Agamemnon
-1919 FJ  Maritima
-1919 FL  Otila
-1919 FN  Palisana
-1918 b   Cosette
-1915 S1  America
-1915 S4  Lyka
-1919 FR  Itha
-1918 EQ  Ilsebill
-1919 FT  Rogeria
-1919 FV  Jovita
-1919 FW  Schlutia
-1919 GB  Herluga
-1919 GC  Toni
-1920 GM  Alphonsina
-1920 GN  Imhilde
-1920 GO  Ratisbona
-1920 GP  Hildrun
-1920 GR  Algunde
-1920 GS  Westphalia
-1920 GU  Whittemora
-1920 GV  Hooveria
-1927 CH  Susi
-1920 HK  Thuringia
-1920 HM  Clivia
-1920 HN  Kunigunde
-1920 HO  Bethgea
-1920 HQ  Chlosinde
-1920 HR  Isberga
-1920 HT  Kordula
-1920 HV  Murray
-1920 HW  Romilda
-1920 HX  Begonia
-1920 HZ  Hidalgo
-1921 JB  Barcelona
-1921 JC  Poesia
-1921 JD  Monterosa
-1921 JE  Jucunda
-1921 JK  Hel
-1921 JP  Ahrensa
-1916 S45 Gaspra
-1916 S61 Caia
-1921 JT  Painleva
-1921 JU  Li
-1921 JV  Alstede
-1921 JW  Elisa
-1921 JX  Camelia
-1921 KC  Asplinda
-1921 KF  Arne
-1921 KH  Birgit
-1921 KM  Gunnie
-1921 KP  Aslog
-1921 KR  Iduberga
-1921 KS  Subamara
-1921 KT  Angelica
-1921 KU  Muschi
-1921 KV  Helionape
-1921 KW  Petunia
-1921 KZ  Leocadia
-1921 LB  Primula
-1921 LF  Alsatia
-1922 LK  Cohnia
-1922 LR  Aralia
-1922 LS  Lioba
-1922 LT  Perseverantia
-1922 LU  Benjamina
-1922 LV  Philippa
-1922 LY  Aidamina
-1922 MC  Ilsewa
-1921 W19 Anacostia
-1917 S92 Martina
-1922 MD  Franklina
-1922 ME  Gunila
-1922 MH  Gretia
-1922 MO  Rosina
-1922 MQ  Amelia
-1922 MR  Wallia
-1922 MT  Appella
-1922 MW  Schwassmannia
-1922 MZ  Yerkes
-1922 NB  McDonalda
-1922 ND  Swasey
-1923 NJ  Moultona
-1923 NL  Otthild
-1923 NP  Sternberga
-1923 NM  Hilaritas
-1923 NR  Priska
-1923 NU  Bodea
-1923 NW  Zachia
-1923 NZ  Piazzia
-1923 OA  Gaussia
-1923 OB  Olbersia
-1923 OK  Lilofee
-1923 OS  Belopolskya
-1923 OT  Arago
-1923 OU  Lagrangea
-1923 OX  Pawlowia
-1923 PD  La Paz
-1923 PE  Sirene
-1923 PF  Marlene
-1924 PK  Laodamia
-1924 PM  Sarema
-1924 PQ  Tombecka
-1924 PW  Semphyra
-1924 QF  Christa
-1924 QG  Anitra
-1924 QL  Jacqueline
-1924 QM  Arnolda
-1924 QN  Strackea
-1924 QV  Arcadia
-1924 RG  Flammario
-1924 RT  Olympiada
-1924 RU  Thomana
-1923 Y13 Hale
-1923 NX  Riema
-1923 NY  Ingrid
-1923 Y11 Aesculapia
-1923 PG  Lydina
-1924 RK  La Plata
-1924 RQ  Vitja
-1924 RR  Arctica
-1924 SA  Pafuri
-1924 SM  Simona
-1924 SS  Mozartia
-1924 SW  Amata
-1924 TD  Ganymed
-1924 TF  Davidweilla
-1924 TK  Tuckia
-1924 TL  Sonneberga
-1925 BD  Klumpkea
-1925 FA  Asta
-1925 HA  Amazone
-1925 HB  Beate
-1924 RO  Teutonia
-1924 TR  Michela
-1924 UA  Edwin
-1924 TE  Geisha
-1924 TP  Feodosia
-1925 RB  Gotho
-1925 RC  Meta
-1925 SA  Merope
-1925 VD  Belgica
-1925 WA  Vigdis
-1925 WD  Forsytia
-1925 WG  Tynka
-1924 QD  Azalea
-1925 QB  Wanda
-1925 MA  Grubba
-1925 OA  Mussorgskia
-1925 PA  Magnolia
-1925 TB  Paeonia
-1925 TD  Ljuba
-1925 XA  Aquilegia
-1926 PA  Aethusa
-1926 PD  Amundsenia
-1926 RA  Lobelia
-1926 RG  Lunaria
-1926 RK  Nofretete
-1927 BC  Planckia
-1926 RB  Tunica
-1924 RE  Brita
-1926 TA  Malva
-1923 OW  Gellivara
-1925 BE  Beljawskya
-1926 SC  Helina
-1926 TE  Viola
-1926 TK  Campanula
-1926 XB  Mentha
-1927 AD  Mimosa
-1927 QB  Orchis
-1927 QF  Reseda
-1927 UC  Pirola
-1928 BC  Salvia
-1926 CC  Tamariwa
-1927 QH  Amaryllis
-1927 QL  Nata
-1927 RD  Arabis
-1927 WA  Mitaka
-1927 WB  Tama
-1928 DG  Sumida
-1928 DT  Spiraea
-1924 PN  Lilium
-1925 LA  Freda
-1926 CB  Siberia
-1926 GS  Tulipa
-1928 OB  Reunerta
-1928 PC  Vicia
-1928 RJ  Hakone
-1928 RQ  Figneria
-1928 SD  Arnica
-1928 SJ  Clematis
-1928 VA  Pepita
-1928 VB  Sequoia
-1928 XA  Syringa
-1929 AB  Fragaria
-1929 CW  Cydonia
-1929 FB  Lictoria
-1929 KA  Demeter
-1929 CU  Tata
-1928 PD  Jaroslawa
-1927 CO  Reinmuthia
-1928 PE  Polonia
-1928 QC  Katja
-1928 WA  Lorraine
-1928 XC  Sabauda
-1929 GD  Catriona
-1927 KA  Reginita
-1927 QD  Hanskya
-1927 UB  Euboea
-1928 RV  Cannonia
-1928 RZ  Natascha
-1928 SB  Neith
-1928 ST  Shapleya
-1928 TB  Stroobantia
-1957 UN1 China
-1929 AC  Otero
-1929 AJ  Mimi
-1929 EB  Astrid
-1929 PH  Neujmina
-1929 RC  Skuld
-1929 RO  Porzia
-1929 RB1 Hollandia
-1929 RC1 Lugduna
-1929 SA  Kepler
-1929 TA  Colchis
-1929 UA  Mercedes
-1929 WB  Raissa
-1929 WF  Attica
-1929 XE  Atami
-1929 YC  Crimea
-1930 AA  Bohmia
-1930 BC  Aetolia
-1930 BH  Odysseus
-1930 BJ  Oda
-1929 CC  Robelmonte
-1929 JF  Biarmia
-1929 LF  Stavropolis
-1929 NA  Rarahu
-1929 PF  Volga
-1929 RB  Achaia
-1929 RK  Ithaka
-1930 AD  Pawona
-1924 SL  Wallenbergia
-1927 CB  Astronomia
-1928 BD  Aenna
-1928 DA  Kira
-1929 QC  Arabia
-1929 QF  Luda
-1929 RD  Granada
-1929 RL  Illyria
-1929 SF  Thessalia
-1930 AC  Larissa
-1930 BA  Saga
-1930 FB  Kobolda
-1930 HM  Imprinetta
-1930 MA  Sakuntala
-1930 PB  Dubiago
-1930 QA  Brandia
-1930 QH  Alwine
-1930 SQ  Siva
-1930 TA  Rusthawelia
-1930 UA  Aneas
-1930 UB  Anchises
-1930 UC  Marmara
-1930 UD  Margo
-1930 VE  Lucidor
-1930 WA  Gonnessia
-1931 EC  Irmela
-1931 FD  Mally
-1931 GE  Rita
-1927 CQ  Lilith
-1927 EA  Ilona
-1930 DC  Jutta
-1926 RE  Gaea
-1927 WC  Nikko
-1929 PL  Turnera
-1929 XC  Afra
-1930 SB  Gothlandia
-1930 SG  Terentia
-1930 SL  Pelagia
-1931 CA  Alfaterna
-1931 FE  Prisma
-1931 HB  Africa
-1931 JG  Aletta
-1931 KD  Orangia
-1931 KE  Sheba
-1931 LD  Rhodesia
-1931 RA  Atlantis
-1931 RF  Geldonia
-1931 RH  Imperatrix
-1931 RK  Strenua
-1931 RL  Marina
-1931 TA  Nanna
-1931 TE  Renzia
-1931 TB1 Ebella
-1931 UH  Numerowia
-1931 VT  Ostenia
-1931 YA  Troilus
-1927 HA  Pumma
-1931 LB  Morosovia
-1931 XA  Bressole
-1931 XC  Francette
-1931 XD  Algeria
-1932 AA  Richilde
-1932 BA  Boyer
-1932 BL  Askania
-1932 EC  Maximiliana
-1932 BJ  Aster
-1932 CJ  Britta
-1932 CU  Crocus
-1932 EA1 Amor
-1932 LA  Tina
-1931 TG  Neckar
-1927 SD  Fantasia
-1930 HK  Ariane
-1930 HL  Golia
-1931 TD  Geranium
-1931 TU  Scabiosa
-1931 TP1 Tilia
-1931 TX1 Riceia
-1931 TE2 Auricula
-1931 TF2 Cortusa
-1931 TG2 Kobresia
-1931 UF  Elyna
-1931 UJ  Schorria
-1931 VX  Thais
-1931 XB  Genevieve
-1932 CA  Predappia
-1932 CB  Queteleta
-1932 CD  Centenaria
-1932 EB1 Dysona
-1932 HL  Zambesia
-1932 JE  Pamela
-1932 KE  Deira
-1932 KF  Calvinia
-1932 OA  Chaka
-1932 QA  Memoria
-1932 RO  Jugurtha
-1932 VB  Rutherfordia
-1933 BD  Galanthus
-1933 BE  Hedera
-1933 DG  Celestia
-1931 TV1 Frisia
-1932 JA  Erfordia
-1932 NC  Schilowa
-1932 PD  Normannia
-1932 PE  Mora
-1932 PG  Sicilia
-1933 BT  Ogyalla
-1933 BW  Walhalla
-1933 FB  Legia
-1933 FE  Sniadeckia
-1933 FF  Varsavia
-1933 HG  Letaba
-1911 MV  Schweikarda
-1927 BD  Tone
-1930 HD  Geertruida
-1930 HJ  Libya
-1930 SH  Rollandia
-1930 YE  Datura
-1931 TN  Isergina
-1931 TZ1 Gefion
-1932 PF  Helma
-1932 WC  Delportia
-1932 WG  Cimbria
-1933 BA  Ucclia
-1933 HA  Dolores
-1933 LA  Kenya
-1933 LB  Uganda
-1933 QB  Baillauda
-1933 QJ  Jeanne
-1933 QM1 Utopia
-1925 SC  Komsomolia
-1933 OP  Latvia
-1933 QF  Julietta
-1933 QH  Banachiewicza
-1933 QL  Lorcia
-1933 QM  Santa
-1933 QR  Kutaissi
-1933 QL1 Albertine
-1933 RA  Phryne
-1933 SH  Luce
-1933 SO  Sonja
-1933 UB1 Antwerpia
-1933 WD  Deflotte
-1933 WE  Andree
-1934 AD  Quadea
-1934 AE  Nocturna
-1934 BA  Mertona
-1934 CL  Marcelle
-1934 EA  Yvonne
-1924 SV  Werra
-1928 FP  Luthera
-1928 KC  Arosa
-1928 OC  Pongola
-1930 OB  Scythia
-1930 UF  Cimmeria
-1931 EB  Halleria
-1931 TO  Hyperborea
-1932 DB  Villigera
-1933 FF1 Knopfia
-1933 OT  Vassar
-1933 QG  Berna
-1933 SC  Paula
-1933 SF1 Bronislawa
-1933 WC  Kasan
-1935 RC  Silvretta
-1934 FG  Nerina
-1934 FO  Disa
-1934 JG  Impala
-1934 JH  Majuba
-1934 LA  Coppernicus
-1934 LD  Tugela
-1934 LL  Knysna
-1934 NR  Inanda
-1934 NS  Losaka
-1934 RT  Namaqua
-1925 UA  Devota
-1933 FL  Eliane
-1925 DB  Spiridonia
-1933 QS  Solvejg
-1934 AA  Marconia
-1934 DA  Cevenola
-1934 OB  Lundmarka
-1934 RE  Demoulina
-1934 RW  Zeelandia
-1934 RA1 Gerarda
-1934 XA  Duponta
-1934 XB  Desagneauxa
-1934 YA  Yvette
-1935 BA  Edmee
-1935 CV  Brabantia
-1935 FC  Nicole
-1935 GA  Caubeta
-1908 CG  Potomac
-1929 CY  Gotha
-1931 VW  Patria
-1933 FD  Michel
-1934 LJ  Bechuana
-1934 TA  Rosselia
-1934 TF  Uzbekistania
-1935 CE  Wawel
-1935 CU  Maartje
-1935 GK  Botha
-1935 HE  Magoeba
-1935 JH  Nyanza
-1935 ND  Khama
-1935 OB  Gaika
-1935 OC  Prieska
-1935 OD  Tarka
-1935 QA  Leuschneria
-1935 QG1 Griqua
-1935 RA  Herberta
-1935 VB  Safara
-1928 RK  Henyey
-1932 WA  Piccolo
-1934 NA  Nongoma
-1935 HD  Numidia
-1935 QB  Ostanina
-1935 QG  Hella
-1935 QJ  Resi
-1935 QK  Haremari
-1935 QN  Cincinnati
-1935 UA  Isora
-1935 UB  Alfreda
-1935 UH  Michelle
-1936 CD  Roberbauxa
-1936 DB  Leonce
-1936 FC  Lomonosowa
-1936 FM  Volodia
-1930 QJ  Danubia
-1925 BB  Gerti
-1934 RV  Limburgia
-1934 RX  Kniertje
-1935 MJ  Gelria
-1935 PA  Storeria
-1935 QD  Kama
-1935 SS  Aphrodite
-1935 SS1 Onnie
-1935 TA  Abastumani
-1936 DA  Carelia
-1936 FO  Pierre
-1936 KD  Sofala
-1936 LK  Algoa
-1936 OB  Aribeda
-1936 PF  Outeniqua
-1936 PG  Umtata
-1936 QL  Donnera
-1936 QY  Teneriffa
-1936 WA  Tirela
-1935 UD  Lavonne
-1936 OC  Eri
-1936 QA  Idelsonia
-1936 QW  Ajax
-1936 RE  Sibelius
-1936 RF  Komppa
-1936 WC  Lindelof
-1936 WF  Trusanda
-1937 AK  Isko
-1937 AL  Margret
-1937 AM  Brauna
-1937 BA  Lagrula
-1937 CD  Roucarie
-1937 CE  Jerome
-1937 EA  Malautra
-1937 EC  Renauxa
-1937 GH  Walinskia
-1903 RG  Fayeta
-1929 RF  Danzig
-1931 RJ  Radcliffe
-1936 FQ  Esperanto
-1936 QF  Stromgrenia
-1936 QM  Jose
-1937 AJ  Sundmania
-1937 GB  Tuorla
-1937 GF  Riviera
-1937 KB  Ruvuma
-1937 NO  Mombasa
-1937 NH  Pemba
-1937 NK  Somalia
-1937 OB  Luanda
-1937 PG  Ethiopia
-1937 UC  Geramtina
-1936 FD1 Margot
-1936 WE  Garlena
-1936 YA  Salonta
-1937 PB  Diomedes
-1937 TC  Wendeline
-1937 TE  Vogtia
-1937 TF  Rostia
-1937 WA  Bolyai
-1937 YF  Corvina
-1937 YG  Ruppina
-1938 AE  Pannonia
-1938 AF  Konkolya
-1938 BA  Sillanpaa
-1938 BB  Utra
-1938 DF  Lindbladia
-1938 DO  Virtanen
-1938 DP  Raimonda
-1938 DT  Grano
-1938 DZ1 Hunnia
-1938 ED1 Fennia
-1936 DO  Kalevala
-1937 LF  Mitchella
-1937 NG  Saldanha
-1937 PA  Ankara
-1937 RC  Mineura
-1937 VA  Magnya
-1937 WC  Haltia
-1937 YL  Jean-Jacques
-1938 CA  Zamenhof
-1938 CB  Nordenmarkia
-1939 VO  Armisticia
-1938 FA  Autonoma
-1938 KA  Mundleria
-1938 OE  Mashona
-1938 PA  Zomba
-1938 QD  Linzia
-1938 SD  Carla
-1938 SL1 Tornio
-1938 UQ  Muonio
-1938 UT  Ounas
-1935 QY  Beira
-1935 SM  Yalta
-1936 RA  Cox
-1938 CC  Bonsdorffia
-1938 CF  Vihuri
-1938 DE  Inkeri
-1938 DK  Aunus
-1938 DR  Tubingia
-1938 DA1 Sebastiana
-1938 DJ1 Hakoila
-1938 HC  Postrema
-1938 OB  Isa
-1938 QA  Marilyn
-1938 WC  Boda
-1938 XE  Aura
-1939 GC  Attila
-1936 LB  Limpopo
-1938 EJ  Balduinus
-1938 FL  Oppolzer
-1938 QB  Sigrid
-1938 SJ  Savo
-1938 SW  Helsinki
-1938 SA1 Turku
-1938 SB1 Tampere
-1938 SK1 Lahti
-1938 UF  Pori
-1938 UH  Jyvaskyla
-1938 UJ  Baade
-1938 WB  Arenda
-1938 XD  Kuopio
-1939 FM  Lappeenranta
-1939 HH  Koranna
-1939 JC  Xosa
-1939 RD  Vaasa
-1938 UP  Kemi
-1938 YG  Esclangona
-1939 DC  Charlois
-1939 FB  Dalera
-1939 FE  Oulu
-1940 EB  Matra
-1906 UR  Ricouxa
-1936 VG  Perrotin
-1938 BG  Henry
-1938 FD  Beograd
-1938 UA  Rovaniemi
-1938 UB  Kajaani
-1938 UY  Imatra
-1938 UB1 Seinajoki
-1938 WO  Kokkola
-1939 BC  Pieksamaki
-1939 SB  Joensuu
-1939 SC  Savonlinna
-1939 TF  Mikkeli
-1939 UG  Malmquista
-1940 CA  Conrada
-1938 BC  Oterma
-1938 SG  Rantaseppa
-1938 SH  Hartmut
-1938 SM  Inari
-1939 BD  Saimaa
-1939 BK  Nasi
-1939 RC  Paijanne
-1939 SE  Pielinen
-1940 QA  Transylvania
-1940 RF  Detre
-1940 UB  Borrelly
-1938 WK  Kevola
-1939 CK  Estonia
-1941 QE  Schalen
-1941 SJ  Bourgeois
-1941 UK  Vinterhansenia
-1941 UW  Thernoe
-1941 SG1 Izsak
-1929 CZ  Nele
-1935 FK  Palomaa
-1937 GA  Mikko
-1937 WD  Tito
-1938 DC1 Argelander
-1938 DE1 Bessel
-1940 AD  Bauersfelda
-1940 RE  Yugoslavia
-1941 SA  Dejan
-1942 AA  Wingolfia
-1942 AD  Roehla
-1942 BD  Jarnefelt
-1942 BF  Kustaanheimo
-1942 XB  Strattonia
-1941 CG  Fricke
-1943 EE  Gondolatsch
-1943 EG  Noel
-1936 TB  Srbija
-1948 WA  Lemaitre
-1949 MA  Icarus
-1941 HN  Alikoski
-1946 QB  Aisleen
-1948 PA  Evita
-1948 TX  Brunonia
-1950 FJ  Cesco
-1949 SC  Posnania
-1949 UA  Vaisala
-1949 FD  Meyer
-1950 HH  Winifred
-1948 SA  Fabiola
-1949 BA  Reiss
-1951 AT  Kirkwood
-1948 SB  Herrick
-1950 KA  Betulia
-1950 LA1 Abanderada
-1950 LY  Martir
-1950 SA  Antilochus
-1927 CR  Fuji
-1947 RG  Union
-1939 CJ  Thiele
-1933 FS1 Kahrstedt
-1951 MH  Descamisada
-1950 RK  Fanatica
-1933 NA  Tsiolkovskaja
-1951 KA  Baize
-1951 LA  Mathieu
-1951 LB  Fagnes
-1949 WA  Danjon
-1930 ME  Tanga
-1951 EV  Itzigsohn
-1949 EB  Laugier
-1950 CA  Paloque
-1950 WA  Giomus
-1947 UC  Vyssotsky
-1942 KA  Patry
-1950 GF  Indiana
-1926 VH  Neva
-1931 FH  Tombaugh
-1936 GA  Milankovitch
-1950 RH  Jekhovsky
-1950 RA  Mavis
-1951 RZ  Munoz
-1951 NL  Brenda
-1928 RT  Mirnaya
-1950 DJ  Beyer
-1950 BJ  Hirose
-1950 SD  Smiley
-1952 HA  Goldschmidt
-1950 BW  Bardwell
-1950 EA  Filipoff
-1952 FB  Alschmitt
-1948 NF  Dawn
-1953 TA  Ueta
-1951 RA  Geographos
-1926 TM  Druzhba
-1952 EA  Chacornac
-1948 PL  Vivian
-1931 TT1 Rabe
-1953 RB  The NORC
-1927 AA  Sadeya
-1929 SH  Ivar
-1923 OG  Strobel
-1952 DB  Pecker
-1952 DA  Milet
-1936 UC  Kopff
-1941 DF  Siebohme
-1929 EC  Chimay
-1935 QP  Ndola
-1924 QW  Bohrmann
-1950 BH  Porter
-1936 QO  Swings
-1935 JF  Ruanda
-1951 RB  Bower
-1951 QA  Nemo
-1935 OJ  Tana
-1951 RU  Hill
-1951 RQ  Brown
-1935 YA  Rafita
-1933 OJ  Waterfield
-1939 BG  Rosseland
-1957 MK  Menelaus
-1935 RF  Shajna
-1951 DE  Fabre
-1937 TG  Heckmann
-1936 HD  Behrens
-1953 PA  Herge
-1937 RA  Yakhontovia
-1931 TL  Bojeva
-1929 WG  Comas Sola
-1942 EC  Suomi
-1961 EA  Roemera
-1953 NA  Innes
-1940 YL  Punkaharju
-1953 GA  Wood
-A916 FA  Granule
-A923 RB  Hoffmann
-1926 PE  van den Bos
-1929 CD  Felix
-1930 DQ  Gaby
-1930 OG  van Gent
-1930 SY  Pels
-1933 OK  Hanna
-1934 RS  Dagmar
-1934 RZ  Minnaert
-1934 TD  Chaika
-1935 BD  Gezelle
-1937 TH  van Houten
-1938 DS  Groeneveld
-1938 FB  Simonida
-1939 LC  Kariba
-1940 RO  Tycho Brahe
-1940 YH  Hveen
-1941 FR  Nevanlinna
-1942 CH  Per Brahe
-1948 WE  Steinmetz
-1949 PH  Karel
-1950 SL  Castafiore
-1951 QE  Iguassu
-1948 OA  Toro
-1935 SR1 De Sitter
-1965 SC  Glarona
-1951 EQ1 Wilkens
-1930 SO  Floris-Jan
-1948 VB  Mayrhofer
-1956 RB  Oort
-1936 QD  Subbotina
-1935 LA  Hertzsprung
-1934 SB  Kaiser
-1941 UO  Walbeck
-1939 FF  Nurmela
-1940 RM  Koskenniemi
-1934 CS  Christophe
-1941 QD  Honkasalo
-1940 QC  Zvezdara
-1953 NJ  Okavango
-A924 NC  Kalahari
-1930 RB  Barry
-A924 EE  Wachmann
-1941 SL1 Tapio
-1931 TS  Dieckvoss
-1932 RL  Chantal
-1929 XA  Polit
-1925 QA  Ukraina
-1941 UF  Gothard
-1935 BB  Sandrine
-1935 KC  Angola
-1951 SC  Bancilhon
-1951 OA  Sy
-1938 GK  Salli
-1934 GF  Peter
-1954 AC  Arlon
-1942 RX  Namibia
-1950 DP  Jens
-1935 CQ  Niels
-1953 TD3 Wells
-1938 EG  Goffin
-1936 FX  Klemola
-1932 DC  Vladimir
-1930 SK  CrAO
-1933 OE  Hoffmeister
-1965 BA  Mette
-1964 TO  Goethe Link
-1963 SL  Beryl
-1936 UA  Marceline
-1948 PH  Smuts
-1943 EY  Heike
-1938 DL1 Silke
-1928 TJ  Zhongolovich
-1948 RJ1 ITA
-1967 RA  Floirac
-1966 TJ  Severny
-1930 SP  Oosterhoff
-1939 PF  Meyermann
-1939 UA  Paavo Nurmi
-1960 BC  Giclas
-1934 RO  Schaifers
-4109 P-L Schmidt
-6557 P-L Harriet
-1941 SY1 Ferguson
-1963 RF  Brouwer
-1947 NH  Wright
-1966 RA  Mauderli
-1949 SB  Telamon
-1950 NA1 Eckert
-1955 OC  Herget
-1930 OK  van Herk
-1934 JM  Mieke
-1935 FE  Cunningham
-1936 VD  Lorbach
-1937 YA  Giacobini
-1939 FC  Porvoo
-1942 DK  Naantali
-1942 RF  Kienle
-1950 GB  Sandra
-1952 FN  Edmondson
-1953 TZ  Russell
-1953 TN2 Williams
-1953 VM1 Cogshall
-1957 XB  Wrubel
-1962 RF  Slipher
-1962 RJ  Lampland
-1965 SA  Appenzella
-1966 QP  Carlostorres
-1967 JR  Schlesinger
-1968 BD  Makover
-1968 CB  Gagarin
-1968 HE  Rumpelstilz
-1968 UG1 Kulikov
-1969 JA  Zimmerwald
-2520 P-L Kuiper
-4007 P-L Gehrels
-4506 P-L Alfven
-1950 LZ  Parana
-A906 RA  Kippes
-A906 UB  Van Biesbroeck
-1931 TL1 Schneller
-1935 FJ  Albitskij
-1935 MG  Benguella
-1941 CD  Wurm
-1948 TL  Raahe
-1950 SK  Chiny
-1952 OZ  Kiess
-1966 QC  Dobrovolsky
-1967 ER  Volkov
-1967 RE  Patsayev
-1968 BG  Reni
-1968 DW  Zoya
-1970 GA  Finsen
-4010 P-L Woltjer
-1966 KB  Riga
-1936 VH  Schaumasse
-1949 GC  Watts
-1950 OE  Koussevitzky
-1950 RJ  Aguilar
-1952 SP1 Titicaca
-1964 TW1 Zhang Heng
-1967 CA  Zwicky
-1967 GG  Chebotarev
-1970 GD  Dirikis
-1971 LC  Derice
-1971 QA  Slovakia
-2517 P-L Bellerophon
-2522 P-L Prometheus
-4196 P-L Epimetheus
-4576 P-L Bruwer
-4645 P-L Gilgamesh
-7589 P-L Imhotep
-1931 TW1 Bach
-1932 CE1 Beethoven
-1936 BD  Liberia
-1939 MB  Katanga
-1939 PE  Brahms
-1948 PC  Laputa
-1949 PO  Lohmann
-1950 MB  Aconcagua
-1950 OO  Waterman
-1951 RD  Gliese
-1952 FM  Haworth
-1954 QH  Klare
-1955 RC1 Miller
-1962 RK  Atkinson
-1966 PH  Kashirina
-1967 JJ  Dawson
-1968 HA  Pogson
-1968 HC  Nicholson
-1969 PC  Mrkos
-1969 PN  Shmakova
-1969 QP  Palach
-1970 OE  Gajdariya
-1971 OT  Komarov
-1971 QZ1 Osita
-1971 UC  Ursa
-1971 UF  Ragazza
-1971 UY  Hus
-1971 UO1 Masaryk
-1972 AA  Hynek
-1972 AB  Jarmila
-1972 UB  Susilva
-1972 UC  Helewalda
-6553 P-L Bengt
-A916 CA  Stobbe
-1933 QD  Delvaux
-1942 AB  Kresak
-1942 EN  Kohoutek
-1950 VA  Lacroute
-1955 GA  Carpenter
-1957 XE  McElroy
-1968 UE1 Skvortsov
-1969 TU1 Korolev
-1969 TW1 Ruzena
-1971 QS1 Parchomenko
-1972 QL  Lobachevskij
-1972 RS2 Kovalevskaya
-         Celuta
-1970 WB  Komensky
-1932 HA  Apollo
-1948 EA  Antinous
-1971 FA  Daedalus
-1971 UA  Cerberus
-1972 XA  Sisyphus
-1971 EA  Deiphobus
-2008 P-L Thersites
-4596 P-L Philoctetes
-1971 FE  Glaukos
-1971 FF  Astyanax
-1971 FG  Helenos
-1971 FH  Agenor
-A924 RC  Kacivelia
-1969 QQ  Neruda
-1970 BA  Napolitania
-1971 FC  Marsden
-1933 QC  Hughes
-1935 UN  Broederstroom
-1940 AN  McCrosky
-1940 PC  Shao
-1941 UJ  Rauma
-1942 XA  Rimito
-1943 EB1 Skip
-1948 PJ  Herero
-1949 MP  Lowell
-1950 TD  Virton
-1964 VO1 Zu Chong-Zhi
-1968 BE  Pakhmutova
-1968 CD  Konoshenkova
-1969 RA  Gondola
-1971 SD  Lucienne
-1971 UD  Jakoba
-1971 UH  Haffner
-1971 UZ  Larink
-1971 UC1 Beer
-1971 UE1 Hind
-1971 UF1 Cowell
-1971 UR1 Crommelin
-1971 YB  Katyusha
-1972 AD  Moravia
-1972 HU  Shaposhnikov
-1972 JL  Adzhimushkaj
-1972 JM  Massevitch
-1972 JZ  Ambartsumian
-1972 RC  Naef
-1972 RC2 Rudneva
-1972 RL2 Pobeda
-1972 RW2 Alekhin
-1972 TZ1 Mikhailov
-1973 UD  Schubart
-6534 P-L Anubis
-1928 SF  Sekanina
-1930 SB1 Hartbeespoortdam
-1953 EA  Quetzalcoatl
-1953 RA  Boreas
-1968 AA  Cuyo
-1968 UA  Aiguillon
-1971 SA  Clemence
-1971 VO  Sarmiento
-1973 SE  Pala
-1949 HC  Zulu
-4011 P-L Osiris
-4023 P-L Horus
-1934 RY  Franklin-Adams
-1935 JA  Demiddelaer
-1936 FP  Suvanto
-1938 SO  Summa
-1939 BS  Kollaa
-1964 UA  Lucifer
-1969 QB  Capek
-1971 UB1 Jansky
-1972 AC  Tinchen
-1972 XB  Jeffers
-1973 RB  Lucerna
-1973 WD  Lugano
-1973 YA  Locarno
-1974 HC  Lausanna
-1974 UC  Loretta
-1975 CA  Whipple
-1931 TN1 Wild
-1972 SA  Jablunka
-1973 EC  Anteros
-1925 RA  Gunter
-1930 OL  Wesselink
-1931 PH  Walraven
-1935 EA  Iso-Heikkila
-1935 GL  Kampala
-1936 NE  Messina
-1942 EO  Wempe
-1949 OA  Lick
-1951 JC  Hesburgh
-1951 UK  Rupertwildt
-1952 PH  Kukarkin
-1963 SR  McMath
-1969 TX1 Artek
-1970 GF  Angara
-1970 SB  Chandra
-1972 NB  Karbyshev
-1973 UA  Guisan
-1973 WA  Dufour
-1973 WE  Dunant
-1975 CB  Bezovec
-2007 P-L Luyten
-2521 P-L van de Kamp
-2552 P-L Tristan
-A905 VC  Menzel
-1932 BK  Mehltretter
-1935 CG  Alain
-1954 ER  Sumeria
-1955 RD1 Hagihara
-1964 VQ1 Yi Xing
-1968 OA  Colocolo
-1968 OE  Caupolican
-1969 PH  Pikelner
-1970 GC  Kaverin
-1970 QY  Shura
-1971 LD  Patrice
-2006 P-L Sakharov
-1950 LA  Tezcatlipoca
-1973 EA  Midas
-1975 VA  Cline
-1975 LB  Bok
-1926 TN  Fedynskij
-1929 AE  Hopmann
-1935 SV1 Plaut
-1952 RH  Kaplan
-1952 SV  Delores
-1955 FG  Tatry
-1956 EE  Pilcher
-1967 JL  Darwin
-1968 OD  Galvarino
-1968 OH1 Guacolda
-1961 TE  Shane
-1971 UP1 Hajek
-1961 UA  Adams
-1963 RC  Leverrier
-1938 DX1 Titius
-1973 DR  Hirayama
-1960 OA  Herschel
-1973 EB  Einstein
-1973 QQ1 Euler
-6559 P-L Harding
-1973 SV2 Lexell
-1973 RA  Hencke
-1973 SB3 Polonskaya
-1963 SQ  McCuskey
-1973 SV4 Konstitutsiya
-1968 UL  Voloshina
-1969 TL4 Chebyshev
-1970 QB1 Veteraniya
-1964 TE2 Guo Shou-Jing
-1971 UH4 Tucapel
-1973 JA  Vasilevskis
-1972 RA3 Kachuevskaya
-1938 SE  Heinemann
-A903 SC  Wesson
-1931 UC  Schuster
-1935 SX1 van Albada
-1936 FR  Ukko
-1936 MA  Poincare
-1938 CK  West
-1952 SA  Asaph
-1952 UR  McLaughlin
-1953 LG  Nortia
-1955 FF  Cottrell
-1964 VR1 Shen Guo
-1968 OB1 Janequeo
-1969 RB  Binomi
-1969 TA2 Belyaev
-1969 TG2 BAM
-1970 OH  Ethel
-1973 CA  Basilea
-1973 EE  Bernoulli
-1973 SC  Stearns
-1973 SY2 Sheragul
-1973 UB  Tripaxeptalis
-1973 WF  Bistro
-1974 CA  Payne-Gaposchkin
-1974 HA  Chalonge
-2523 P-L Lancelot
-4633 P-L Sitarski
-1936 TH  Ortutay
-1950 VE  Wirt
-1964 TB1 Peking
-1968 UD1 Leningrad
-1971 UA1 Smetana
-1973 QA  Dwornik
-1973 SH  Grietje
-1974 KA  Francis
-1976 UC  Chang
-1976 UN  Tamriko
-1976 UO  Nuki
-4097 P-L Gawain
-1974 DB  Dvorak
-A909 TB  Nancy
-1934 RQ  Rosemary
-1938 BH  Roka
-1963 UA  Baboquivari
-1977 UB  Chiron
-1960 UA  Anza
-1976 AA  Aten
-1977 HB  Bacchus
-1942 RQ  Thomsen
-1959 RN  Spicer
-1934 LB  Palala
-1936 DD  Aksnes
-1948 AD  Dangreen
-1955 FT  Hubble
-1964 TQ  Humason
-1971 QS  Nadezhda
-1973 QE2 Kosmodemyanskaya
-1974 DK  Janacek
-1974 UA  Shoemaker
-1974 VA  Martinez
-1974 WA  Levin
-1974 YA  Kiangsu
-1975 AD  Nanking
-1976 DB  Jacchia
-1976 DG  Jihlava
-1976 DH  Sazava
-7588 P-L Galahad
-1973 WB  Smither
-1935 CK  Okayama
-1965 YA  Henan
-1966 BC  Newell
-1975 YC  Kochera
-1976 DJ  Sahlia
-1977 VF  Cetacea
-1978 EA  Mizuho
-1941 HO  Sampo
-1969 UP  Sumiana
-1971 HX  Genichesk
-1971 TC2 Magnitka
-6036 P-L Parsifal
-1939 UC  Vaino
-1953 PV  Galle
-1972 QE  Zyskin
-1977 VB  Opik
-1978 RA  Ra-Shalom
-1936 CA  Adonis
-1975 YA  Tantalus
-1960 FL  Laverna
-1963 PD  Toronto
-1976 DA  Gudy
-1936 UF  Hugo
-1941 VA  Ilmari
-1948 TR1 Otto Schmidt
-1950 TH2 Dhotel
-1962 RD  Moore-Sitterly
-1969 LG  Tselina
-1972 NP  Ulyanov
-1972 RJ2 Ehrdni
-1976 HA  Wallenquist
-1976 UD  Irakli
-1976 UM  Mtskheta
-1978 AC  Danmark
-1978 PB  Flagstaff
-1930 QG  Schwall
-1967 RM  Tyumenia
-1971 ME  Sevastopol
-1971 XB  Pyatiletka
-1973 SL2 Vltava
-1974 MK  Nissen
-2005 P-L Karl-Ontjes
-1970 QZ  Gerasimovich
-1971 KB1 Tanya
-1973 SB  Wetherill
-1973 SJ  Cosicosi
-1974 QH1 Evdokiya
-1975 RA  Mayall
-1975 TW3 Zhukov
-1976 WB  Franceswright
-1976 YB  Dennispalm
-1977 HA  Aristaeus
-1933 OC  Jugta
-1936 QZ  Priscilla
-1968 HB  Swissair
-1970 MC  Makharadze
-1970 PE  Kemerovo
-1970 QC1 Simferopol
-1972 GA  Landau
-1973 SA  Jimarnold
-1975 BC1 Marietta
-1976 UF  Blaauw
-1976 UQ  Stentor
-1976 US  Kharadze
-1976 UW  Epeios
-1977 FX  Schwambraniya
-1977 TA  Nyctimene
-1977 VX  Hadwiger
-1978 WK  Hannibal
-1978 XD  Akiyama
-2015 P-L Underhill
-6542 P-L Wodan
-A917 SH  Kate
-A924 EF  Ashbrook
-1933 OS  Tietjen
-1941 UX  Kukkamaki
-1956 RL  Spitzer
-1963 UD  Grissom
-1966 BE  Anhui
-1971 SP1 Korczak
-1972 RM2 Lyalya
-1956 RJ  Young
-1936 QB  Handahl
-1971 LA  Erin
-1955 RF1 Swope
-1964 VP1 Taiwan
-1971 SZ  Byelorussia
-1973 QD1 Kiev
-1973 QA2 Plavsk
-1974 QG1 Maresjev
-1975 TA  Asmodeus
-1977 TY  Andrea Doria
-2529 P-L Donar
-6551 P-L Oliver
-1972 RA2 Kazakhstania
-1965 MA  Platzeck
-1940 RJ  Marjaleena
-1942 YA  Fogelin
-1953 FH1 Semirot
-1959 OB  Neufang
-1964 TV2 Fujian
-1965 WO  Guangdong
-1973 SQ4 Keldysh
-1976 UH  La Silla
-1976 UL4 Orlenok
-1975 QK  Zaragoza
-1976 GV3 Coubertin
-1977 PA1 Uppsala
-1972 HP  Pyatigoriya
-1926 KB  Jackson
-1940 GE  Arpola
-1941 SP1 Tengstrom
-1965 BC  Ellicott
-1965 YN  Shanghai
-1975 VF  Ceplecha
-1978 LA  Klet
-6090 P-L Pasadena
-1947 XC  Oljato
-1972 RA  Pele
-1935 SQ1 van Rhijn
-1943 EQ  Lyyli
-1973 SU4 Glinka
-1976 GR3 Gabrova
-1977 QH1 Antenor
-1977 QL3 Pushkin
-1978 US1 Tianjin
-9597 P-L Lois
-1951 WO2 Hanuman
-1978 SB  Hephaistos
-1935 SO1 Meeus
-1953 GF  Carol
-1964 VX2 Sichuan
-1971 LF  Kerch
-1971 SK2 Eltigen
-1975 AK  Wotho
-1975 LU  Mannucci
-1975 VB  Hicks
-1976 QC  Chilton
-1977 ST1 Lermontov
-1977 TL3 Sarpedon
-2528 P-L Tucson
-6546 P-L Serkowski
-1936 QC1 Cunitza
-1955 RX  Otto Struve
-1977 OH  Soyuz-Apollo
-1977 RO  Mezzarco
-1978 UT1 Yunnan
-1941 SG  Durrell
-1969 RD2 Altaj
-1972 XE1 Kuznetsov
-1977 HD  Schmadel
-A924 GA  Vittore
-1933 FX  Austrasia
-1938 TB  Melnikov
-1972 RQ1 Steshenko
-1978 RC  Paracelsus
-1978 YA  Tsai
-1979 WM  Alcathous
-1936 TG  Balaton
-1941 SA1 Lonnrot
-1952 UW1 Tesla
-1968 BC  Hekatostos
-1979 XH  Bowell
-6512 P-L Hiroshima
-1933 DE  Kanda
-1942 GA  Yamamoto
-1972 HN  Stalingrad
-1977 SU1 Tikhov
-1978 VT  CERGA
-1932 PB  Espinette
-1977 QJ1 Requiem
-1977 VK1 Qinghai
-4519 P-L Wisniewski
-1939 QB  Kaarina
-1939 TA  Viipuri
-1971 OG  Sofievka
-1975 WM1 Neoptolemus
-1977 HC  Keeler
-1978 RB  Mitidika
-1978 UW1 Shaanxi
-1979 YK  Sabrina
-1950 DB  Verbaandert
-1974 VK  Tchaikovsky
-1977 RF  Agassiz
-1942 VW  Szmytowna
-1976 JA2 Efremiana
-1980 ED  Yazhi
-1976 UV5 Kiso
-1972 FA  Montezuma
-1975 EV1 Yarilo
-1976 EA  Ehrsson
-1979 MH  Cuitlahuac
-1933 QA  Warck
-1950 DS  Moreau
-1953 GE  Gotz
-1968 DL  Barto
-1971 SL2 Kunikov
-1971 UQ1 Biela
-1974 FE  Andres Bello
-1974 SV4 Bunke
-1974 TG1 San Juan
-1976 QB  Ron Helin
-1977 NH  Fesenkov
-1977 QK3 Kalmykia
-1979 UZ  Karolinum
-6567 P-L McMillan
-1932 CD1 Helffrich
-1941 FS  Kevo
-1942 RM  Seili
-1977 EH1 Guernica
-1977 PL1 Andronikov
-1977 QD1 Matusovskij
-1975 BA1 Kugultinov
-1978 RE  Daghestan
-A915 TA  Cindijon
-1941 SZ  Hanko
-1953 TG2 Stebbins
-1965 WJ  Whitford
-1972 TL2 Florya
-1979 FK  Retsina
-1979 KB  Slavia
-1980 RJ1 King
-1939 PM  Bauschinger
-1957 HJ  Garuda
-1967 JM  Schilt
-1971 QX1 Mr. Spock
-1974 SU4 Olshaniya
-1974 TA1 El Leoncito
-1976 GU2 Duboshin
-1976 TA  Aruna
-1977 VD  Field
-1980 DZ  Czechoslovakia
-1980 RH  Jo-Ann
-2524 P-L Galya
-6521 P-L Lubarsky
-7631 P-L Aristides
-1979 QJ  Blarney
-1980 DB1 Luznice
-1954 UQ2 Kitt Peak
-1976 SF2 Zverev
-1978 VS4 Janice
-1979 SP  Chernykh
-1965 QC  Tololo
-1969 TQ4 Gershberg
-1972 HW  Robeson
-1976 WA  Orthos
-1977 DS3 Ontake
-1936 EA  Parvulesco
-1940 GH  Kalm
-1943 EP  Porthan
-1962 HD  Cuffey
-1974 UB  James
-1975 WL1 Xinjiang
-1976 UH1 Boubin
-1977 QA3 Bokhan
-2509 P-L Anacreon
-1976 UA  Hathor
-1976 YU1 Aoluta
-1968 UQ  Lebedev
-1979 MD4 Siding Spring
-1979 SC1 Xizang
-1974 OS  Fucik
-1934 CB  Lilio
-1936 TK  Vinata
-1939 AA  Michkovitch
-1970 OG  Kurchenko
-1938 CG  von Lude
-1964 VD  O'Higgins
-1969 RY  Kurchatov
-1975 UD  Alva
-1978 PZ3 Lavrov
-1978 UV1 Nei Monggol
-1979 UJ  Hirons
-1981 AC  Phereclos
-1929 RE  Bahner
-1931 TV  Debehogne
-1975 VD3 Volgo-Don
-1976 GQ1 Gogol
-1976 SH2 Mark Twain
-1977 TJ3 Cebriones
-1978 GD  Seillier
-1980 YQ  Interkosmos
-1981 AC1 Aaryn
-1981 AK1 Praha
-1977 RA  Beltrovata
-1976 GC8 Chekhov
-1965 LA  van Altena
-1975 VR3 Dimitrov
-1977 RA8 Proskurin
-1929 PC  Immo
-1974 QE1 Vladvysotskij
-1975 AA  Radek
-1977 QG3 Martynov
-1978 QT1 Shcheglov
-1935 CY  Pannekoek
-1941 ST  Heiskanen
-1965 SN  Heilongjiang
-1976 AF  Landi
-1977 GA  Nonie
-1981 GN  Bradley
-1943 EC1 Schulhof
-1969 VW  Mustel
-1974 SN1 Nikonov
-1975 FX  Xi'an
-1977 EA2 Gase
-1977 QC1 Dibaj
-1980 PA1 Nezarka
-1957 AA  Tomita
-1979 MN1 Jonathan Murray
-1955 WB  Suzuki
-1973 SZ2 Nadeev
-1977 FA  Aho
-1981 CB  Kochi
-1938 DV  Lappajarvi
-1965 UD2 Jilin
-1971 MA  Terradas
-1972 KJ  Derevskaya
-1975 VM2 Aehlita
-1979 OR13Satpaev
-1979 SQ  Sumava
-1980 TE  Antarctica
-1963 UF  Welch
-1966 QG  Orelskaya
-1973 DH  Haug
-1978 QK1 Astapovich
-1979 UG  Chapman
-1981 AF  Morrison
-1981 JK  Zellner
-3537 P-L Wil
-6816 P-L van de Hulst
-1931 UG  Vibeke
-1978 UJ  Ganesa
-1979 OF13Sharonov
-1964 CD  McVittie
-1971 UV  Voskovec-Werich
-1974 SJ  Moldavia
-1975 TN  Ciurlionis
-1979 UD  Nininger
-1968 HK1 Perovskaya
-1972 NC  Ibarruri
-1973 UT5 Tautenburg
-1975 FW  Shenzhen
-1976 KV  Simonov
-1976 YQ7 Kobzar
-1977 RZ6 Kamenyar
-1977 TZ  Schurer
-1977 VC  Bruce Helin
-1978 PF3 Skovoroda
-1981 FA  Soomana
-1981 GJ  Sootiyo
-1981 KA  Bateson
-4578 P-L Horemheb
-6066 P-L Hatshepsut
-1942 RZ  Amnestia
-1975 VO2 Oleshko
-1977 QX2 Ulugbek
-1978 VQ4 Educatio
-1979 MN2 Hibbs
-1980 TO  Corbett
-A906 BJ  Tomeileen
-1934 CD  Lederle
-1935 TC  Blazhko
-1971 TS2 Lunacharsky
-1973 QY1 Kronstadt
-1975 BU  Sholokhov
-1978 GC  Kenos
-1978 RP  Ioannisiani
-1980 RQ  Dollfus
-1981 FE  Lyot
-A921 SA  Wabash
-1941 SS  Olaus Magnus
-1950 TO4 Somville
-1966 BA1 Palamedes
-1975 TU2 Rublyov
-1977 RC7 Veniakaverin
-1980 LB1 Spellmann
-1980 TX4 Mitlincoln
-1981 EC1 Clavel
-6578 P-L Nehalennia
-1934 FF  Sterpin
-1939 BF  Nordenskiold
-1949 PK  Wilson
-1959 RJ  Golson
-1966 PJ  Kollontai
-1969 TO1 Repin
-1970 HA  Tadjikistan
-1976 UW15Agematsu
-6545 P-L Ultrajectum
-1973 DG  Bradman
-1977 RX7 Heyerdahl
-1979 PB  Ruby
-1972 TF2 Semenov
-1976 JF2 Andersen
-1977 PY1 Biryukov
-1981 JC  Tokai
-1942 CB  Sodankyla
-1976 YS1 Papanov
-1977 UQ  Burgi
-1980 CO  Perkin
-1928 QB  Guinevere
-1928 TK  Parenago
-1932 BH  Scheffler
-1939 FY  Metsahovi
-1940 RL  Juhani
-1952 UT  Bryan
-1975 NY  Suvorov
-1976 AG  Bussolini
-1977 CB  Tvashtri
-1977 NT  Kutuzov
-1978 XC  Elmer
-1981 LF  Inge
-7071 P-L Noviomagum
-1953 TC1 Fernandus
-1977 PZ1 Kulikovskij
-1977 QM3 Tsesevich
-1978 VJ7 Brunk
-1926 GC  Alascattalo
-1942 GD  Lohja
-1943 EO  Nummela
-1965 UB1 Liaoning
-1967 JO  Gaviola
-1975 UJ  Hebei
-1976 QG1 Pirogov
-1976 WB1 Bobone
-1977 ET1 Alupka
-1977 NG  Chukotka
-1979 TH  Shandong
-1980 LM  Patterson
-1940 GG  Tavastia
-1950 SH  Baetsle
-1964 TA1 Taiyuan
-1964 TX1 Gansu
-1964 VY  Roman
-1968 SB  Orma
-1974 FG  Rutllant
-1975 VD2 Annagerman
-1976 QF1 Novorossijsk
-1979 DK  Heidi
-1980 PP  Triglav
-1980 PV  Ryba
-1981 QB1 Budovicium
-1981 VG  O'Steen
-1979 KX  Alisary
-1981 RE  Gregory
-1953 TF1 Mohler
-1977 QL2 Rockwell Kent
-1978 NC3 Shipka
-1980 LD  Cambridge
-1980 TU5 Sutton
-A905 VA  Fechtig
-1931 VD  Houzeau
-1939 DH  Hameenlinna
-1939 PJ  Kozyrev
-1951 RL  Gilmore
-1954 UD  Vanderlinden
-1964 TS2 Ningxia
-1971 TH2 Blok
-1973 DE  Edebono
-1980 CF  Calpurnia
-1980 LJ  Machado
-1980 PS  Gubarev
-1933 BB  Verbiest
-1950 FC  Libitina
-1964 TC2 Hubei
-1975 DA  Leloir
-1976 UB  Baker
-1976 UP20Houssay
-1976 YX1 Decabrina
-1978 SP  Remek
-1979 FS2 Viljev
-1980 OB  Skiff
-1980 OC  Thomas
-1981 CS  Louise
-1981 SL1 Putnam
-1981 SP1 Viv
-1981 UH  Svoboda
-1932 CW  Siegma
-1969 TK2 Margolin
-1973 FF1 Chaliapin
-1977 FZ  Boyarchuk
-1977 QX  Kayala
-1977 TB1 Grogler
-1979 FR2 Kirghizia
-1979 KA  Elba
-1980 GH  Maksutov
-1980 MA  Madeline
-1980 PG  Porphyro
-1981 UC  Geisei
-1950 DL  Annschnell
-1953 EN  Hannu Olavi
-1968 UP  Ladoga
-1970 PL  Bulgaria
-1974 QL  Yesenin
-1975 EE3 Litva
-1975 VW3 Saint-Exupery
-1977 PA2 Spartacus
-1977 QP4 Smilevskia
-1980 VX  Radegast
-1981 SA  Harimaya-Bashi
-1975 XA3 Fatyanov
-1979 FG2 Turkmenia
-1979 OJ15Irpedina
-1980 LO  Matson
-1980 OH  Gardner
-1981 VQ  Flavia
-1979 QU2 Daniel
-1980 KJ  Mourao
-1949 PS  Dworetsky
-1966 BW  Hunan
-1976 GB8 Buryatia
-1978 TB  Acamas
-1979 KL  Gudiachvili
-1979 KN  Vainu Bappu
-1980 PN  Arthur
-1980 RY  Merlin
-1980 SO  Veseli
-1980 VP  Lumme
-1980 XA  Bologna
-1982 BR  Moore
-1982 BW1 Taylor
-1972 LD1 Marshak
-1974 QA  Sahade
-1976 GX2 Odessa
-1977 NR  Yakutia
-1978 DA  Seneca
-1978 PB4 Kiril-Metodi
-1978 RO1 Tuva
-1978 VQ5 Boyce
-1979 DE  Kathryn
-1979 QE  Plzen
-1980 LP  Torrence
-1951 RJ  Saito
-1970 QV  Lesya
-1975 WO1 Jiangxi
-1979 MX2 Coonabarabran
-1979 MZ3 Skalnate Pleso
-1980 TN  Santana
-1981 CA  Goto
-1981 CM  Bolzano
-A919 SA  Zech
-1962 RE  Samitchell
-1976 JQ2 Jack London
-1978 PP2 Belnika
-1978 PP3 Churyumov
-1979 MS8 Kopal
-1980 RB1 Rudra
-1980 TF3 Hermod
-1980 TY5 Zhejiang
-1980 VJ1 Guizhou
-1981 WR1 Bishop
-1982 DL  James Bradley
-1982 DS  Huggins
-1982 DZ  Lassell
-A919 SB  Bobrovnikoff
-1939 SG  Gadolin
-1940 GN  Planman
-1941 FN  Hallstrom
-1949 GJ  Lipschutz
-1961 RA  Vesale
-1973 SD  Bernhard
-1973 SO2 Victor Jara
-1976 QD  Daphne Plane
-1977 EC1 Abetti
-1980 SP  Sova
-1980 VJ  Owa
-1980 WA  Oongaq
-1931 EG  Elinor
-1949 QD  Karen
-1953 GM  Yabuuti
-1964 VP  Principia
-1968 OG  Ristenpart
-1974 XX  Guangxi
-1979 HD5 Evenkia
-1979 SB7 Bashkiria
-1980 CK  Gingerich
-1981 JX  Millis
-1982 FG  Wasserman
-1982 FC1 Bydzovsky
-4021 P-L Kandinsky
-6561 P-L Miltiades
-1934 RR  Everhart
-1938 DW1 Schrutka
-1951 TA  Gramme
-1967 UO  Oikawa
-1976 QV  Tataria
-1976 YQ2 Shostakovich
-1977 PW1 Chuvashia
-1977 QR2 Abkhazia
-1979 KC  Pisek
-1980 KN  Lossignol
-1982 BC3 Pandarus
-1982 GB  Tolkien
-1933 QV  Aarhus
-1935 FF  Joan
-1938 DF1 Aavasaksa
-1939 TG  Kittisvaara
-1975 NF  Mateo
-1975 VF2 Ostrovskij
-1979 MF4 Soromundi
-1981 AD1 Brian
-1981 AH1 Douglas
-1981 JN  Masursky
-1981 JW1 Linda Susan
-1982 HG  Tortali
-1982 HG1 Halley
-1935 CF  Bruxelles
-1938 DG1 Ristiina
-1974 KB  Sersic
-1976 YT3 Chkalov
-1977 VM1 Yan'an
-1979 QL1 Pino Torinese
-1979 UE  Christabel
-1980 HB  Magion
-1969 TC3 Albina
-1971 TZ  Azerbajdzhan
-1976 YX  Kalinin
-1976 YP7 Baikonur
-1978 RT  Cherson
-1978 SZ2 Batrakov
-1979 FT2 Rodari
-1979 MR4 Julian Loewe
-1980 TD4 Wu
-1980 VW  Borovsky
-1981 QS3 Ueferji
-1981 WT  Burns
-1982 FH  Sagan
-1982 FQ  Veverka
-1978 QB2 Aleksandrov
-1937 YD  Keaton
-1938 EA  Luxembourg
-1938 GC  Matti
-1938 US  Mielikki
-1939 TM  Tuulikki
-1940 WJ  Tellervo
-1951 OM  Handley
-1965 SU  Suzhou
-1972 RV3 Pyotr Pervyj
-1973 SP2 Vsekhsvyatskij
-1976 GM2 Abalakin
-1978 QL2 Gorshkov
-1978 RZ5 Orlov
-1978 VG3 David Bender
-1979 SE9 Kotelnikov
-1979 SO9 Paton
-1979 ST9 Yatskiv
-1979 UA2 Urumqi
-1981 QH  Barks
-1982 KJ  Cucula
-1926 FG  Witt
-1938 DQ  Hamina
-1976 GJ3 Hasek
-1977 RB  Ellen
-1979 OC  Ops
-1938 DU  Kotka
-1940 EC  Viracocha
-1952 UZ1 Taguacipa
-1974 SY4 Tsoj
-1975 XG  Valdivia
-1981 JG3 Gibson
-1965 WR  Chengdu
-1975 RB  Birgitta
-1976 SR10San Martin
-1979 SJ9 Hissao
-1980 DW  Cesky Krumlov
-1981 JF2 Patrick Gene
-1937 TD  Walterhorn
-1940 YK  Loviisa
-1962 RP  Campbell
-1965 SP  Wu Chien-Shiung
-1966 DH  Duncan
-1966 PD  Efimov
-1973 SJ4 Avicenna
-1974 SG1 Dzhangar
-1977 VN  Crisser
-1978 RF  Cordelia
-1980 GC  Idomeneus
-1980 TU6 Kacha
-1981 AE  Eddington
-1981 AT  Fowler
-1982 OG  Jeans
-1981 CN  Moeller
-1981 EY  Dinant
-1982 FE1 Leeuwenhoek
-1967 UM  Takenouchi
-1972 RX3 Gorky
-1976 GZ2 Mendeleev
-1977 SM1 Tsvet
-1978 SP7 Polzunov
-1979 XE  Dugan
-1981 JZ2 Brooks
-1942 TJ  Tenojoki
-1953 TX2 Odishaw
-1976 SZ7 Baikal
-1979 SY11Shukshin
-1979 XP  Tangshan
-1981 CX  Mary
-1981 DO2 Monnig
-1982 QH  Kleczek
-2605 P-L Leonidas
-1974 RA2 Chernyshevskij
-1975 GA  Domeyko
-1978 QN2 Sedov
-1978 RR5 Grinevia
-1978 RC6 Tovarishch
-1981 EL  Andenne
-1956 XA  Foshan
-1965 UU1 Needham
-1977 CA  Paradise
-1977 EY1 Ponomarev
-1977 QV  Valdaj
-1978 PS3 Kulik
-1979 YM  Lepage
-1980 EC  Kron
-1981 LK  Teucer
-2009 P-L Vergilius
-3071 P-L Justus
-4585 P-L Ovidius
-1935 SU1 Huygens
-1939 BU  Weisell
-1940 WG  Vilho
-1941 HF  Yrjo
-1941 UM  Kalle
-1953 GG  Graz
-1969 TH6 Karl Marx
-1976 HS  Belgrano
-1978 QW2 Vernadskij
-1978 RU5 Lev Tolstoj
-1980 JA  Stremchovi
-1981 FN  Scaltriti
-1981 WZ  Zappala
-1982 FA3 Vieira
-1982 RL  Soma
-1982 SO  Pien
-1982 UJ  Perec
-2580 P-L Juvenalis
-1933 UR  Ensor
-1942 RU  Iisalmi
-1978 SQ  Slavka
-1980 EG  Sacajawea
-2010 P-L van der Laan
-1934 CZ  Franke
-1938 SD1 Crosby
-1939 UJ  Ahti
-1942 CC  Vellamo
-1942 DL  Iku-Turso
-1948 PK  Bobhope
-1980 GA  Greenwich
-1930 SZ  Stevin
-1975 EC1 Lada
-1978 PC4 Radishchev
-1980 TB4 Christy Carol
-1982 WF  Ryoma
-1978 YQ  Sobolev
-1971 TJ2 Griboedov
-1971 UM1 Takase
-1929 TP  Annette
-1941 UP  Kallavesi
-1943 DM  Puijo
-1950 OD  Unsold
-1975 XQ  Yeti
-1981 JP  Hess
-1981 OF  Franklinken
-1942 CJ  Ylppo
-1959 CC1 Parvati
-1959 VF  ASP
-1976 GN3 Shklovskij
-1978 TM7 Mozhaiskij
-1978 UQ2 Harbin
-1981 QU2 Declercq
-1963 RG  Harvill
-1964 JE  Rawson
-1931 TB2 Bastian
-1933 GB  Roser
-1942 DA  NOT
-1975 XB  Carlosporter
-1978 RW1 Paganini
-1978 TA  Pasacentennium
-1981 VL2 Lambrecht
-1977 JP  Vavilov
-1981 QG2 Ben Mayer
-1983 AZ  Soderblom
-1935 OK  Laurel
-1961 TA  Hardy
-1969 VC  Steins
-1972 UA  Upupa
-1980 RM2 Nepryadva
-1981 LD  Haupt
-1981 QC2 Schober
-1981 RU  Gentelec
-1982 FR  Binzel
-1982 TH  Jim Young
-1983 CL  Lagerkvist
-6558 P-L Aeschylus
-1969 TR2 Likhachev
-1980 RX  Panacea
-1932 CB1 Shimizu
-1983 CA  Nihondaira
-1983 AA1 Meiden
-1981 OG  Tedesco
-1978 RG6 Barabashov
-1981 ES22Reddish
-1939 TC  Palva
-1965 YG  Tinkaping
-1977 QD5 Krinov
-1982 TO  Hodgson
-1981 WT1 Brno
-1978 SY7 Vilyujsk
-1980 MD  McGetchin
-1983 AX2 Filipenko
-1975 QD  Peiroos
-1978 SH5 Kakhovka
-1981 AE1 Memnon
-1931 RN  Preiss
-1932 CK  Ole Romer
-1938 DN  Neuvo
-1964 TR2 Runrun Shaw
-1972 AR  Lubos Perek
-1973 DP  Bagehot
-1980 FN3 Westerlund
-1981 UV9 Zhuhai
-1981 YB  Millman
-1982 BZ2 Plaskett
-1983 AE2 Caltech
-1975 TT2 Nekrasov
-1981 WA  Shimoyama
-1983 JA  Hoshi-no-ie
-1980 TK13Yoshkar-Ola
-1938 GJ  Miahelena
-1942 DM  Lapalma
-1931 TK  Horta
-1965 SB  Glarnisch
-1977 QY2 Moskvina
-1978 PW2 Voronveliya
-1980 RR  Sawyer Hogg
-1980 TU4 Salazar
-1981 EX18Dali
-1981 JR  Automedon
-6525 P-L Sophocles
-1976 GY1 Dikan'ka
-1977 DA  Schuyler
-1977 DJ2 Mitake-mura
-1978 VC5 Beatty
-1980 KG  Caldeira
-1981 TM  Alamosa
-1976 GN8 Epstein
-1982 BK1 Harris
-6554 P-L Euripides
-1969 UC  Mayakovsky
-1980 TK4 Kempchinsky
-1983 HN  Amber
-4006 P-L Aristophanes
-1976 UU  Naerum
-1979 SF  Nechvile
-1980 LA  Gibbs
-1980 LB  Hopi
-1982 DP  Coconino
-3042 P-L Bacon
-1930 YV  Alden
-1932 BG  Cordie
-1933 QU  Heinrich
-1935 QF  Peyo
-1935 ST1 Zanstra
-1941 UV  Muchachos
-1955 QP1 Kippenhahn
-1969 TD2 Amosov
-1970 PR  Kaverznev
-1974 VQ2 Rousseau
-1977 RB8 Perepadin
-1979 SF2 Lilliputia
-1979 SV11Vysheslavia
-1982 BT1 Delsemme
-1982 BX1 Newburn
-1982 HN1 Yeomans
-1934 CB1 Tatsuo
-1981 DG  Arpetito
-1983 RE2 Scholl
-1977 DK3 Ohtaki
-1982 XA  Katsurahama
-1940 YF  Otto
-1964 VM1 Chen Jiageng
-1974 OA1 Jaschek
-1975 BX  Surikov
-1977 EB2 Korsunia
-1977 SS1 Vladisvyat
-1978 QJ  Iliya
-1978 RU1 Mikula
-1978 UC  Pestalozzi
-1980 YL  Mohr
-1939 TB  Niilo
-1951 AJ  Paola
-1955 QK  Holden
-1970 AF1 Spahr
-1974 HR  Lautaro
-1974 SP  Chivilikhin
-1978 SR  Roudebush
-1978 TB7 Murmansk
-1981 EU17Cameron
-1981 EE20Chagall
-1981 JA3 Muriel
-1981 RW2 Poltava
-1981 YD  Chaucer
-1983 TV1 Shakespeare
-2525 P-L Mrinalini
-4583 P-L Sarabhai
-1943 EM  Korhonen
-1976 UF1 Imago
-1981 EN27Trimberger
-1982 HV  Bilbo
-2540 P-L Vondel
-1970 PA  Wendy
-1975 PA  Flynn
-1978 QK  Taratuta
-1954 RJ  Bowman
-1974 MJ  Cabrera
-1975 TR3 Berendeya
-1981 CY  Dante
-1981 EG19Leonardo
+Name, 0
+         Ceres, 0
+         Pallas, 0
+         Juno, 0
+         Vesta, 0
+         Astraea, 0
+         Hebe, 0
+         Iris, 0
+         Flora, 0
+         Metis, 0
+         Hygiea, 0
+         Parthenope, 0
+         Victoria, 0
+         Egeria, 0
+         Irene, 0
+         Eunomia, 0
+         Psyche, 0
+         Thetis, 0
+         Melpomene, 0
+         Fortuna, 0
+         Massalia, 0
+         Lutetia, 0
+         Kalliope, 0
+         Thalia, 0
+         Themis, 0
+         Phocaea, 0
+         Proserpina, 0
+         Euterpe, 0
+         Bellona, 0
+         Amphitrite, 0
+         Urania, 0
+         Euphrosyne, 0
+         Pomona, 0
+         Polyhymnia, 0
+         Circe, 0
+         Leukothea, 0
+         Atalante, 0
+         Fides, 0
+         Leda, 0
+         Laetitia, 0
+         Harmonia, 0
+         Daphne, 0
+         Isis, 0
+         Ariadne, 0
+         Nysa, 0
+         Eugenia, 0
+         Hestia, 0
+         Aglaja, 0
+         Doris, 0
+         Pales, 0
+         Virginia, 0
+         Nemausa, 0
+         Europa, 0
+         Kalypso, 0
+         Alexandra, 0
+         Pandora, 0
+         Melete, 0
+         Mnemosyne, 0
+         Concordia, 0
+         Elpis, 0
+         Echo, 0
+         Danae, 0
+         Erato, 0
+         Ausonia, 0
+         Angelina, 0
+         Cybele, 0
+         Maja, 0
+         Asia, 0
+         Leto, 0
+         Hesperia, 0
+         Panopaea, 0
+         Niobe, 0
+         Feronia, 0
+         Klytia, 0
+         Galatea, 0
+         Eurydike, 0
+         Freia, 0
+         Frigga, 0
+         Diana, 0
+         Eurynome, 0
+         Sappho, 0
+         Terpsichore, 0
+         Alkmene, 0
+         Beatrix, 0
+         Klio, 0
+         Io, 0
+         Semele, 0
+         Sylvia, 0
+         Thisbe, 0
+         Julia, 0
+         Antiope, 0
+         Aegina, 0
+         Undina, 0
+         Minerva, 0
+         Aurora, 0
+         Arethusa, 0
+         Aegle, 0
+         Klotho, 0
+         Ianthe, 0
+         Dike, 0
+         Hekate, 0
+         Helena, 0
+         Miriam, 0
+         Hera, 0
+         Klymene, 0
+         Artemis, 0
+         Dione, 0
+         Camilla, 0
+         Hecuba, 0
+         Felicitas, 0
+         Lydia, 0
+         Ate, 0
+         Iphigenia, 0
+         Amalthea, 0
+         Kassandra, 0
+         Thyra, 0
+         Sirona, 0
+         Lomia, 0
+         Peitho, 0
+         Althaea, 0
+         Lachesis, 0
+         Hermione, 0
+         Gerda, 0
+         Brunhild, 0
+         Alkeste, 0
+         Liberatrix, 0
+         Velleda, 0
+         Johanna, 0
+         Nemesis, 0
+         Antigone, 0
+         Elektra, 0
+         Vala, 0
+         Aethra, 0
+         Cyrene, 0
+         Sophrosyne, 0
+         Hertha, 0
+         Austria, 0
+         Meliboea, 0
+         Tolosa, 0
+         Juewa, 0
+         Siwa, 0
+         Lumen, 0
+         Polana, 0
+         Adria, 0
+         Vibilia, 0
+         Adeona, 0
+         Lucina, 0
+         Protogeneia, 0
+         Gallia, 0
+         Medusa, 0
+         Nuwa, 0
+         Abundantia, 0
+         Atala, 0
+         Hilda, 0
+         Bertha, 0
+         Scylla, 0
+         Xanthippe, 0
+         Dejanira, 0
+         Koronis, 0
+         Aemilia, 0
+         Una, 0
+         Athor, 0
+         Laurentia, 0
+         Erigone, 0
+         Eva, 0
+         Loreley, 0
+         Rhodope, 0
+         Urda, 0
+         Sibylla, 0
+         Zelia, 0
+         Maria, 0
+         Ophelia, 0
+         Baucis, 0
+         Ino, 0
+         Phaedra, 0
+         Andromache, 0
+         Iduna, 0
+         Irma, 0
+         Belisana, 0
+         Klytaemnestra, 0
+         Garumna, 0
+         Eucharis, 0
+         Elsa, 0
+         Istria, 0
+         Dejopeja, 0
+         Eunike, 0
+         Celuta, 0
+         Lamberta, 0
+         Menippe, 0
+         Phthia, 0
+         Ismene, 0
+         Kolga, 0
+         Nausikaa, 0
+         Ambrosia, 0
+         Prokne, 0
+         Eurykleia, 0
+         Philomela, 0
+         Arete, 0
+         Ampella, 0
+         Byblis, 0
+         Dynamene, 0
+         Penelope, 0
+         Chryseis, 0
+         Pompeja, 0
+         Kallisto, 0
+         Martha, 0
+         Hersilia, 0
+         Hedda, 0
+         Lacrimosa, 0
+         Dido, 0
+         Isabella, 0
+         Isolda, 0
+         Medea, 0
+         Lilaea, 0
+         Aschera, 0
+         Oenone, 0
+         Kleopatra, 0
+         Eudora, 0
+         Bianca, 0
+         Thusnelda, 0
+         Stephania, 0
+         Eos, 0
+         Lucia, 0
+         Rosa, 0
+         Oceana, 0
+         Henrietta, 0
+         Weringia, 0
+         Philosophia, 0
+         Agathe, 0
+         Adelinda, 0
+         Athamantis, 0
+         Vindobona, 0
+         Russia, 0
+         Asterope, 0
+         Barbara, 0
+         Carolina, 0
+         Honoria, 0
+         Coelestina, 0
+         Hypatia, 0
+         Adrastea, 0
+         Vanadis, 0
+         Germania, 0
+         Kriemhild, 0
+         Ida, 0
+         Sita, 0
+         Vera, 0
+         Asporina, 0
+         Eukrate, 0
+         Lameia, 0
+         Ilse, 0
+         Bettina, 0
+         Sophia, 0
+         Clementina, 0
+         Mathilde, 0
+         Augusta, 0
+         Oppavia, 0
+         Walpurga, 0
+         Silesia, 0
+         Tyche, 0
+         Aletheia, 0
+         Huberta, 0
+         Prymno, 0
+         Valda, 0
+         Dresda, 0
+         Libussa, 0
+         Anna, 0
+         Aline, 0
+         Tirza, 0
+         Adorea, 0
+         Justitia, 0
+         Anahita, 0
+         Penthesilea, 0
+         Antonia, 0
+         Atropos, 0
+         Philagoria, 0
+         Sapientia, 0
+         Adelheid, 0
+         Elvira, 0
+         Paulina, 0
+         Thule, 0
+         Philia, 0
+         Lucretia, 0
+         Clorinde, 0
+         Emma, 0
+         Amalia, 0
+         Regina, 0
+         Iclea, 0
+         Nephthys, 0
+         Glauke, 0
+         Nenetta, 0
+         Bruna, 0
+         Alice, 0
+         Ludovica, 0
+         Brasilia, 0
+         Felicia, 0
+         Theresia, 0
+         Phaetusa, 0
+         Caecilia, 0
+         Baptistina, 0
+         Thora, 0
+         Geraldina, 0
+         Bavaria, 0
+         Clarissa, 0
+         Josephina, 0
+         Olga, 0
+         Gordonia, 0
+         Unitas, 0
+         Nike, 0
+         Polyxo, 0
+         Fraternitas, 0
+         Margarita, 0
+         Claudia, 0
+         Pierretta, 0
+         Chaldaea, 0
+         Rosalia, 0
+         Constantia, 0
+         Goberta, 0
+         Roxane, 0
+         Magdalena, 0
+         Leona, 0
+         Katharina, 0
+         Florentina, 0
+         Phaeo, 0
+         Brucia, 0
+         Bamberga, 0
+         Heidelberga, 0
+         Tamara, 0
+         Columbia, 0
+         Gudrun, 0
+         Svea, 0
+A910 CB  Adalberta, 0
+         Etheridgea, 0
+         Siri, 0
+1892 A   Badenia, 0
+1892 L   Chicago, 0
+1892 C   Roberta, 0
+1892 D   Lacadiera, 0
+1892 E   Devosa, 0
+1892 F   Budrosa, 0
+1892 G   Dorothea, 0
+1892 H   Eduarda, 0
+1892 J   California, 0
+1892 K   Endymion, 0
+1892 N   Ostara, 0
+1892 M   Desiderata, 0
+1892 O   Tercidina, 0
+1892 P   Hermentaria, 0
+1892 Q   Pariana, 0
+1892 R   May, 0
+1892 T   Dembowska, 0
+1892 U   Ornamenta, 0
+1892 V   Yrsa, 0
+1893 B   Gisela, 0
+1893 F   Ruperto-Carola, 0
+1893 A   Eleonora, 0
+1893 E   Gabriella, 0
+1893 G   Liguria, 0
+1893 J   Ninina, 0
+1893 K   Apollonia, 0
+1893 M   Georgia, 0
+1893 N   Carlova, 0
+1893 P   Bononia, 0
+1893 R   Havnia, 0
+1893 S   Padua, 0
+1893 T   Isara, 0
+1893 V   Corduba, 0
+1893 W   Vincentina, 0
+1893 AA  Amicitia, 0
+1893 AB  Haidea, 0
+1893 AE  Aeria, 0
+1893 AC  Modestia, 0
+1893 AD  Bohemia, 0
+1893 AH  Palma, 0
+1893 AJ  Melusina, 0
+1893 AK  Burgundia, 0
+1893 AL  Ursula, 0
+1893 AM  Geometria, 0
+1893 AN  Campania, 0
+1893 AP  Holmia, 0
+1894 AQ  Huenna, 0
+1894 AR  Fiducia, 0
+1894 AS  Myrrha, 0
+1894 AT  Dodona, 0
+1894 AU  Janina, 0
+1894 AV  Burdigala, 0
+1894 AX  Ilmatar, 0
+1894 AY  Siegena, 0
+1894 AZ  Aquitania, 0
+1894 BA  Charybdis, 0
+1894 BB  Industria, 0
+1894 BC  Alma, 0
+1894 BE  Ingeborg, 0
+1894 BF  Wilhelmina, 0
+1894 BG  Lampetia, 0
+1894 BH  Arduina, 0
+1894 BK  Delia, 0
+1894 BL  Aeolia, 0
+1894 BM  Vienna, 0
+1894 BN  Admete, 0
+1895 BP  Persephone, 0
+1895 BU  Ducrosa, 0
+1895 BT  Ottilia, 0
+1895 BW  Chloe, 0
+1895 BX  Cyane, 0
+1895 BY  Arsinoe, 0
+1895 BZ  Thia, 0
+1895 CB  Erna, 0
+1895 CC  Arachne, 0
+1895 CD  Fama, 0
+1895 CE  Aspasia, 0
+1896 CH  Chloris, 0
+1896 CJ  Xanthe, 0
+1896 CK  Elisabetha, 0
+1896 CL  Edburga, 0
+1896 CN  Liriope, 0
+1896 CO  Palatia, 0
+1896 CS  Vaticana, 0
+1896 CT  Suevia, 0
+1896 CV  Alemannia, 0
+1896 CW  Aurelia, 0
+1896 CY  Bertholda, 0
+1896 CZ  Zahringia, 0
+1896 DA  Berolina, 0
+1896 DB  Diotima, 0
+1896 DF  Gratia, 0
+1896 DC  Cornelia, 0
+1897 DH  Hippo, 0
+1897 DJ  Galene, 0
+1897 DK  Monachia, 0
+1897 DL  Lotis, 0
+1897 DM  Hybris, 0
+1897 DN  Nephele, 0
+1897 DO  Pythia, 0
+1898 DQ  Eros, 0
+1898 DR  Hungaria, 0
+1898 DS  Ella, 0
+1898 DT  Patricia, 0
+1898 DP  Rhodia, 0
+1898 DU  Zeuxo, 0
+1898 EB  Ohio, 0
+1898 EC  Theodora, 0
+1898 ED  Bathilde, 0
+1899 EE  Eichsfeldia, 0
+1899 EF  Photographica, 0
+1899 EL  Gyptis, 0
+1899 EX  Edna, 0
+1899 ER  Aeternitas, 0
+1899 ES  Valentine, 0
+1899 ET  Natalie, 0
+1899 EU  Hamburga, 0
+1899 EV  Brigitta, 0
+1899 EY  Patientia, 0
+1899 FD  Hamiltonia, 0
+1900 FA  Tea, 0
+1900 FC  Mathesis, 0
+1900 FG  Bruchsalia, 0
+1900 FH  Abnoba, 0
+1900 FJ  Alleghenia, 0
+1900 FK  Hercynia, 0
+1900 FM  Signe, 0
+1900 FN  Scania, 0
+1900 FP  Saskia, 0
+1900 FQ  Eriphyla, 0
+1900 FS  Lola, 0
+1901 FV  Megaira, 0
+1901 FW  Alekto, 0
+1901 FX  Tisiphone, 0
+1901 FY  Laura, 0
+1901 FZ  Lina, 0
+1901 GE  Argentina, 0
+1901 GJ  Kilia, 0
+1901 GN  Papagena, 0
+1901 GP  Roma, 0
+1901 GC  Nolli, 0
+1901 GD  Prudentia, 0
+1901 HN  Ocllo, 0
+1901 GQ  Hedwig, 0
+1901 GR  Italia, 0
+1901 GU  Tergeste, 0
+1901 HJ  Caprera, 0
+1901 GL  Hansa, 0
+1902 HP  Emita, 0
+1902 HT  Petrina, 0
+1902 HU  Seppina, 0
+1902 HX  Pittsburghia, 0
+1902 HZ  Genua, 0
+1902 JB  Cremona, 0
+1902 JL  Venetia, 0
+1902 JG  Kreusa, 0
+1902 JM  Comacina, 0
+1902 JP  Veritas, 0
+1902 JQ  Carina, 0
+1902 JR  Gismonda, 0
+1902 JS  Griseldis, 0
+1902 JV  Virtus, 0
+1902 KG  Eulalia, 0
+1902 KH  Gryphia, 0
+1902 KJ  Iva, 0
+1902 KU  Tokio, 0
+1902 KX  Venusia, 0
+1903 LA  Selinur, 0
+1903 LB  Urhixidur, 0
+1903 LC  Sigune, 0
+1903 LF  Evelyn, 0
+1902 LK  Cora, 0
+1902 LL  Cava, 0
+1903 LN  Marion, 0
+1903 LO  Laodica, 0
+1903 LQ  Princetonia, 0
+1903 LR  Iolanda, 0
+1903 LT  Mabella, 0
+1903 LU  Davida, 0
+1903 LV  Taurinensis, 0
+1903 LY  Centesima, 0
+1903 MB  Armida, 0
+1903 ME  Athalia, 0
+1903 MG  Amherstia, 0
+1903 MH  Edith, 0
+1903 MO  Halawe, 0
+1903 MP  Sylvania, 0
+1903 MV  Franziska, 0
+1904 NB  Brixia, 0
+1904 NC  Helga, 0
+1904 ND  Ada, 0
+1904 NN  Fidelio, 0
+1908 EKa Adelaide, 0
+1904 NQ  Jena, 0
+1904 NR  Euryanthe, 0
+1904 NS  Rezia, 0
+1904 NT  Preziosa, 0
+1904 NV  Turandot, 0
+1904 NW  Zerlina, 0
+1904 NY  Herculina, 0
+1904 NZ  Sara, 0
+1904 OA  Nassovia, 0
+1904 OC  Montague, 0
+1904 OF  Merapi, 0
+1904 OG  Pauly, 0
+1904 OK  Friederike, 0
+1904 OL  Pamina, 0
+1904 ON  Rosamunde, 0
+1904 OO  Deborah, 0
+1904 OQ  Susanna, 0
+1904 OT  Charlotte, 0
+1904 OU  Jetta, 0
+1904 OY  Messalina, 0
+1904 PA  Herodias, 0
+1904 PB  Praxedis, 0
+1904 PC  Kressida, 0
+1904 PK  Jessonda, 0
+1904 PL  Senta, 0
+1904 PM  Ortrud, 0
+1904 PO  Sigelinde, 0
+1904 PP  Kundry, 0
+1905 PS  Peraga, 0
+1905 PT  Norma, 0
+1905 PW  Phyllis, 0
+1905 PY  Violetta, 0
+1905 QB  Carmen, 0
+1905 QD  Nanon, 0
+1905 QF  Delila, 0
+1905 QG  Ingwelde, 0
+1905 QH  Salome, 0
+1905 QK  Suleika, 0
+1905 QM  Dudu, 0
+1905 QN  Marbachia, 0
+1905 QO  Stereoskopia, 0
+1905 QP  Eleutheria, 0
+1905 QS  Cheruskia, 0
+1905 QT  Misa, 0
+1905 QX  Kythera, 0
+1905 QZ  Dulcinea, 0
+1905 RB  Rebekka, 0
+1905 RC  Recha, 0
+1905 RD  Reginhild, 0
+1905 RE  Renate, 0
+1905 RF  Emanuela, 0
+1905 RH  Rhea, 0
+1905 RZ  Happelia, 0
+1905 SD  Sidonia, 0
+1905 SE  Selene, 0
+1905 SH  Tauntonia, 0
+1906 SO  Olympia, 0
+1905 SP  Klotilde, 0
+1906 SY  Semiramis, 0
+1906 TA  Bilkis, 0
+1906 TC  Thekla, 0
+1906 TF  Hypsipyle, 0
+1906 TG  Achilles, 0
+1906 TM  Croatia, 0
+1906 TO  Tomyris, 0
+1906 TP  Irmgard, 0
+1906 TS  Bathseba, 0
+1906 TT  Titania, 0
+1906 TW  Mireille, 0
+1906 TZ  Polyxena, 0
+1906 UA  Scheila, 0
+1906 UB  Bandusia, 0
+1906 UC  Octavia, 0
+1906 UJ  Luisa, 0
+1906 UM  Musa, 0
+1906 UN  Nerthus, 0
+1906 TE  Marianna, 0
+1906 TJ  Timandra, 0
+1906 TK  Tekmessa, 0
+1906 UU  Juvisia, 0
+1906 VB  Brangane, 0
+1906 VC  Jenny, 0
+1906 VD  Adolfine, 0
+1906 VF  Fulvia, 0
+1906 VK  Valeska, 0
+1906 VL  Valeria, 0
+1906 VN  Veronika, 0
+1906 VP  Ginevra, 0
+1906 VQ  Pia, 0
+1906 VR  Roswitha, 0
+1906 VT  Elly, 0
+1906 VY  Patroclus, 0
+1906 VZ  Elfriede, 0
+1906 WC  Triberga, 0
+1906 WE  Drakonia, 0
+1906 WJ  Werdandi, 0
+1906 WP  Esther, 0
+1907 XJ  Chimaera, 0
+1907 XM  Hektor, 0
+1907 XN  Xenia, 0
+1907 XO  Notburga, 0
+1907 XS  Charis, 0
+1907 XT  Christine, 0
+1907 XU  Bernardina, 0
+1907 XW  Euphemia, 0
+1907 YJ  Philippina, 0
+1907 YX  Pyrrha, 0
+1907 ZM  Zelima, 0
+1907 ZN  Ute, 0
+1907 ZS  Vundtia, 0
+1907 XP  Erika, 0
+1907 YE  Chrysothemis, 0
+1907 ZQ  Moira, 0
+1907 ZT  Latona, 0
+1907 ZW  Brambilla, 0
+1907 ZX  Agnes, 0
+1907 ZY  Clara, 0
+1907 ZZ  Scheherezade, 0
+1907 AA  Cosima, 0
+1907 AG  Agrippina, 0
+1907 AC  Kastalia, 0
+1907 AD  Adelgunde, 0
+1907 AE  Pippa, 0
+1907 AF  Josefa, 0
+1907 AM  Amalasuntha, 0
+1907 AN  Antikleia, 0
+1907 AU  Jubilatrix, 0
+1907 BK  Berenike, 0
+1908 BM  Zelinda, 0
+1907 BF  Briseis, 0
+1908 BU  Beagle, 0
+1908 BV  Gunlod, 0
+1908 BW  Asteria, 0
+1908 CS  Nestor, 0
+1908 CC  Crescentia, 0
+1908 CL  Cloelia, 0
+1908 CW  Newtonia, 0
+1908 DG  Gerlinde, 0
+1908 DH  Judith, 0
+1908 DK  Sabine, 0
+1908 DM  Desdemona, 0
+1908 DN  Denise, 0
+1908 DO  Dora, 0
+1908 DQ  Kypria, 0
+1908 DR  Ottegebe, 0
+1908 DV  Carnegia, 0
+1908 DY  Astarte, 0
+1908 EA  Edda, 0
+1908 EP  Rachele, 0
+1908 DU  Ludmilla, 0
+1909 FN  Melitta, 0
+1909 FR  Aaltje, 0
+1909 FS  Fredegundis, 0
+1909 FY  Pax, 0
+1909 GW  Genoveva, 0
+1909 GZ  Gorgo, 0
+1909 HA  Hagar, 0
+1909 HC  Lanzia, 0
+1909 HD  Hildburg, 0
+1909 HE  Hermia, 0
+1909 HF  Gersuind, 0
+1909 HG  Tinette, 0
+1909 HH  Melanie, 0
+1909 HJ  Zita, 0
+1909 HZ  Wratislavia, 0
+1909 JG  Lehigh, 0
+1901 HD  Hippodamia, 0
+1909 HN  Zerbinetta, 0
+1909 JA  Ekard, 0
+1909 JB  Bella, 0
+1910 JJ  Leonora, 0
+1910 JO  Galilea, 0
+1910 JX  Ernestina, 0
+1910 KD  Hela, 0
+1910 KE  Auravictrix, 0
+1910 KN  Oriola, 0
+1910 KQ  Alauda, 0
+1910 KT  Noemi, 0
+1910 KU  Interamnia, 0
+1910 KV  Erminia, 0
+1910 KX  Hirundo, 0
+1910 LD  Steina, 0
+1911 LJ  Raphaela, 0
+1911 LK  Fringilla, 0
+1911 LM  Gertrud, 0
+1911 LN  Marmulla, 0
+1911 LO  Boliviana, 0
+1911 LS  Luscinia, 0
+1911 LW  Ulula, 0
+1911 LX  Transvaalia, 0
+1911 MD  Berkeley, 0
+1911 MJ  Wisibada, 0
+1911 MS  Erida, 0
+1911 MT  Albert, 0
+1911 MW  Bohlinia, 0
+1911 MZ  Tabora, 0
+1911 NA  Frieda, 0
+1911 NB  Hammonia, 0
+1911 NC  Hapag, 0
+1911 ND  Amanda, 0
+1911 NM  Joella, 0
+1912 NT  Nipponia, 0
+1912 NU  Leonisis, 0
+1912 OD  Watsonia, 0
+1912 OK  Athanasia, 0
+1912 OQ  Sorga, 0
+1912 OR  Tjilaki, 0
+1912 PF  Mocia, 0
+1912 PH  Benda, 0
+1912 PY  Marghanna, 0
+1912 PZ  Harvard, 0
+1912 QB  Arequipa, 0
+1913 QO  Alagasta, 0
+1913 QR  Mandeville, 0
+1913 QS  Cantabia, 0
+1913 QT  Botolphia, 0
+1913 QU  Edisona, 0
+1913 QV  Eugenisis, 0
+1913 QW  Aguntina, 0
+1913 QX  Mauritia, 0
+1913 QY  Marlu, 0
+1913 QZ  Winchester, 0
+1913 RD  Simeisa, 0
+1913 RF  Malzovia, 0
+1913 RG  Oskar, 0
+1913 RK  Faina, 0
+1913 RL  Sulamitis, 0
+1913 RM  Tiflis, 0
+1906 UT  Malabar, 0
+1908 CZ  Quintilla, 0
+1908 DC  Lilliana, 0
+1908 EJ  Portlandia, 0
+1912 PE  Mancunia, 0
+1913 SJ  Vinifera, 0
+1913 SL  Massinga, 0
+1913 SO  Brendelia, 0
+1913 SQ  Pulcova, 0
+1913 ST  Cupido, 0
+1913 SU  Gedania, 0
+1913 SV  Mattiaca, 0
+1913 SW  Moguntia, 0
+1913 SX  Bondia, 0
+1913 SZ  Struveana, 0
+1913 TA  Tatjana, 0
+1913 TE  Bali, 0
+1913 TO  Libera, 0
+1913 TR  Tanete, 0
+1913 TV  Irmintraud, 0
+1913 TW  Armor, 0
+1914 TX  Lumiere, 0
+1914 TY  Berbericia, 0
+1914 TZ  Gutemberga, 0
+1914 UA  Theobalda, 0
+1914 UB  Nina, 0
+1914 UC  Armenia, 0
+1914 UF  Kartvelia, 0
+1914 UK  Montefiore, 0
+1914 UL  Nora, 0
+1914 UM  Pickeringia, 0
+1914 UN  Zwetana, 0
+1914 UO  Bredichina, 0
+1914 UQ  Moskva, 0
+1914 UR  Hohensteina, 0
+1914 UU  Lena, 0
+1912 NW  Pretoria, 0
+1914 UV  Ani, 0
+1907 ZC  Metcalfia, 0
+1907 ZD  Arizona, 0
+1914 VB  Irenaea, 0
+1914 VE  Fini, 0
+1914 VH  Sarita, 0
+1914 VR  Montana, 0
+1914 VT  Ruth, 0
+1915 WO  Gudula, 0
+1915 WP  Kressmannia, 0
+1915 WQ  Helwerthia, 0
+1915 WR  Epyaxa, 0
+1915 WS  Picka, 0
+1915 WT  Hispania, 0
+1915 WW  Hormuthia, 0
+1915 WX  Gyldenia, 0
+1915 WY  Ceraskia, 0
+1901 GY  Merxia, 0
+1915 XP  Lundia, 0
+1915 XQ  Atossa, 0
+1915 XR  Nauheima, 0
+1915 XV  Adele, 0
+1915 YR  Baumeia, 0
+1916 YT  Tauris, 0
+1916 YU  Coppelia, 0
+1916 YV  Juliana, 0
+1916 YW  Annika, 0
+1916 YZ  Kapteynia, 0
+1916 ZA  Barnardiana, 0
+1916 ZB  Adriana, 0
+1916 ZC  Fanny, 0
+1916 ZD  Lalage, 0
+1916 ZG  Sisigambis, 0
+1916 ZH  Anastasia, 0
+1916 ZL  Tanina, 0
+1916 ZO  Henrika, 0
+1916 ZW  Wolfiana, 0
+1916 ZX  Lindemannia, 0
+1916 ZY  Academia, 0
+1916 ZZ  Petropolitana, 0
+1916 AA  Stateira, 0
+1916 AB  Karin, 0
+1916 AC  Monica, 0
+1916 AD  Burnhamia, 0
+1916 AE  Olivia, 0
+1916 AF  Jole, 0
+1916 AG  Schwarzschilda, 0
+1916 AH  Seraphina, 0
+1916 AJ  Valborg, 0
+1916 AK  Zenobia, 0
+1916 AL  Arabella, 0
+1916 AM  Kerstin, 0
+1916 AN  Nicolaia, 0
+1916 AP  Leontina, 0
+1916 AS  Naema, 0
+1916 AT  Lipperta, 0
+1915 XX  Agnia, 0
+1915 XS  Inna, 0
+1912 NY  Ara, 0
+1916 S24 Altona, 0
+1916 S26 Zeissia, 0
+1916 S27 Wladilena, 0
+1916 S28 Nansenia, 0
+1916 S29 Frostia, 0
+1916 ZP  Newcombia, 0
+1916 S30 Backlunda, 0
+1916 S33 Glasenappia, 0
+1916 a   El Djezair, 0
+1916 c   Bouzareah, 0
+1917 BD  Ursina, 0
+1917 BE  Aida, 0
+1917 BF  Franzia, 0
+1917 BH  Benkoela, 0
+A921 SB  Aase, 0
+1917 BO  Zubaida, 0
+1917 BQ  Fatme, 0
+1917 BS  Kovacia, 0
+1917 BU  Lova, 0
+1917 BV  Mellena, 0
+1917 BX  Manto, 0
+1917 BY  Amneris, 0
+1917 BZ  Holda, 0
+1917 CA  Mechthild, 0
+1917 CC  Rotraut, 0
+1917 CF  Nymphe, 0
+1917 CH  Scott, 0
+1915 S7  Walkure, 0
+1916 f   Mildred, 0
+1917 CJ  Ricarda, 0
+1917 CK  Herba, 0
+1917 CL  Athene, 0
+1917 CM  Swetlana, 0
+1917 CP  Matterania, 0
+1917 CQ  Priamus, 0
+1917 CX  Ulrike, 0
+1917 b   Washingtonia, 0
+1918 DB  Alinda, 0
+1918 DC  Parysatis, 0
+1918 DG  Erynia, 0
+1918 DK  Waltraut, 0
+1918 DQ  Gunhild, 0
+1918 DR  Seeligeria, 0
+1918 DS  Leopoldina, 0
+1918 DT  Erda, 0
+1918 DU  Helio, 0
+1918 DV  Sphinx, 0
+1918 DZ  Lysistrata, 0
+1918 EA  Hildegard, 0
+1918 EB  Jokaste, 0
+1918 EC  Rosalinde, 0
+1918 EE  Brunsia, 0
+1918 EJ  Probitas, 0
+1918 EM  Nealley, 0
+1918 EO  Rockefellia, 0
+1918 ES  Universitas, 0
+1918 ET  Repsolda, 0
+1918 EU  Rhoda, 0
+1918 EX  Buda, 0
+1919 FA  Ulla, 0
+1919 FB  Anneliese, 0
+1919 FD  Agamemnon, 0
+1919 FJ  Maritima, 0
+1919 FL  Otila, 0
+1919 FN  Palisana, 0
+1918 b   Cosette, 0
+1915 S1  America, 0
+1915 S4  Lyka, 0
+1919 FR  Itha, 0
+1918 EQ  Ilsebill, 0
+1919 FT  Rogeria, 0
+1919 FV  Jovita, 0
+1919 FW  Schlutia, 0
+1919 GB  Herluga, 0
+1919 GC  Toni, 0
+1920 GM  Alphonsina, 0
+1920 GN  Imhilde, 0
+1920 GO  Ratisbona, 0
+1920 GP  Hildrun, 0
+1920 GR  Algunde, 0
+1920 GS  Westphalia, 0
+1920 GU  Whittemora, 0
+1920 GV  Hooveria, 0
+1927 CH  Susi, 0
+1920 HK  Thuringia, 0
+1920 HM  Clivia, 0
+1920 HN  Kunigunde, 0
+1920 HO  Bethgea, 0
+1920 HQ  Chlosinde, 0
+1920 HR  Isberga, 0
+1920 HT  Kordula, 0
+1920 HV  Murray, 0
+1920 HW  Romilda, 0
+1920 HX  Begonia, 0
+1920 HZ  Hidalgo, 0
+1921 JB  Barcelona, 0
+1921 JC  Poesia, 0
+1921 JD  Monterosa, 0
+1921 JE  Jucunda, 0
+1921 JK  Hel, 0
+1921 JP  Ahrensa, 0
+1916 S45 Gaspra, 0
+1916 S61 Caia, 0
+1921 JT  Painleva, 0
+1921 JU  Li, 0
+1921 JV  Alstede, 0
+1921 JW  Elisa, 0
+1921 JX  Camelia, 0
+1921 KC  Asplinda, 0
+1921 KF  Arne, 0
+1921 KH  Birgit, 0
+1921 KM  Gunnie, 0
+1921 KP  Aslog, 0
+1921 KR  Iduberga, 0
+1921 KS  Subamara, 0
+1921 KT  Angelica, 0
+1921 KU  Muschi, 0
+1921 KV  Helionape, 0
+1921 KW  Petunia, 0
+1921 KZ  Leocadia, 0
+1921 LB  Primula, 0
+1921 LF  Alsatia, 0
+1922 LK  Cohnia, 0
+1922 LR  Aralia, 0
+1922 LS  Lioba, 0
+1922 LT  Perseverantia, 0
+1922 LU  Benjamina, 0
+1922 LV  Philippa, 0
+1922 LY  Aidamina, 0
+1922 MC  Ilsewa, 0
+1921 W19 Anacostia, 0
+1917 S92 Martina, 0
+1922 MD  Franklina, 0
+1922 ME  Gunila, 0
+1922 MH  Gretia, 0
+1922 MO  Rosina, 0
+1922 MQ  Amelia, 0
+1922 MR  Wallia, 0
+1922 MT  Appella, 0
+1922 MW  Schwassmannia, 0
+1922 MZ  Yerkes, 0
+1922 NB  McDonalda, 0
+1922 ND  Swasey, 0
+1923 NJ  Moultona, 0
+1923 NL  Otthild, 0
+1923 NP  Sternberga, 0
+1923 NM  Hilaritas, 0
+1923 NR  Priska, 0
+1923 NU  Bodea, 0
+1923 NW  Zachia, 0
+1923 NZ  Piazzia, 0
+1923 OA  Gaussia, 0
+1923 OB  Olbersia, 0
+1923 OK  Lilofee, 0
+1923 OS  Belopolskya, 0
+1923 OT  Arago, 0
+1923 OU  Lagrangea, 0
+1923 OX  Pawlowia, 0
+1923 PD  La Paz, 0
+1923 PE  Sirene, 0
+1923 PF  Marlene, 0
+1924 PK  Laodamia, 0
+1924 PM  Sarema, 0
+1924 PQ  Tombecka, 0
+1924 PW  Semphyra, 0
+1924 QF  Christa, 0
+1924 QG  Anitra, 0
+1924 QL  Jacqueline, 0
+1924 QM  Arnolda, 0
+1924 QN  Strackea, 0
+1924 QV  Arcadia, 0
+1924 RG  Flammario, 0
+1924 RT  Olympiada, 0
+1924 RU  Thomana, 0
+1923 Y13 Hale, 0
+1923 NX  Riema, 0
+1923 NY  Ingrid, 0
+1923 Y11 Aesculapia, 0
+1923 PG  Lydina, 0
+1924 RK  La Plata, 0
+1924 RQ  Vitja, 0
+1924 RR  Arctica, 0
+1924 SA  Pafuri, 0
+1924 SM  Simona, 0
+1924 SS  Mozartia, 0
+1924 SW  Amata, 0
+1924 TD  Ganymed, 0
+1924 TF  Davidweilla, 0
+1924 TK  Tuckia, 0
+1924 TL  Sonneberga, 0
+1925 BD  Klumpkea, 0
+1925 FA  Asta, 0
+1925 HA  Amazone, 0
+1925 HB  Beate, 0
+1924 RO  Teutonia, 0
+1924 TR  Michela, 0
+1924 UA  Edwin, 0
+1924 TE  Geisha, 0
+1924 TP  Feodosia, 0
+1925 RB  Gotho, 0
+1925 RC  Meta, 0
+1925 SA  Merope, 0
+1925 VD  Belgica, 0
+1925 WA  Vigdis, 0
+1925 WD  Forsytia, 0
+1925 WG  Tynka, 0
+1924 QD  Azalea, 0
+1925 QB  Wanda, 0
+1925 MA  Grubba, 0
+1925 OA  Mussorgskia, 0
+1925 PA  Magnolia, 0
+1925 TB  Paeonia, 0
+1925 TD  Ljuba, 0
+1925 XA  Aquilegia, 0
+1926 PA  Aethusa, 0
+1926 PD  Amundsenia, 0
+1926 RA  Lobelia, 0
+1926 RG  Lunaria, 0
+1926 RK  Nofretete, 0
+1927 BC  Planckia, 0
+1926 RB  Tunica, 0
+1924 RE  Brita, 0
+1926 TA  Malva, 0
+1923 OW  Gellivara, 0
+1925 BE  Beljawskya, 0
+1926 SC  Helina, 0
+1926 TE  Viola, 0
+1926 TK  Campanula, 0
+1926 XB  Mentha, 0
+1927 AD  Mimosa, 0
+1927 QB  Orchis, 0
+1927 QF  Reseda, 0
+1927 UC  Pirola, 0
+1928 BC  Salvia, 0
+1926 CC  Tamariwa, 0
+1927 QH  Amaryllis, 0
+1927 QL  Nata, 0
+1927 RD  Arabis, 0
+1927 WA  Mitaka, 0
+1927 WB  Tama, 0
+1928 DG  Sumida, 0
+1928 DT  Spiraea, 0
+1924 PN  Lilium, 0
+1925 LA  Freda, 0
+1926 CB  Siberia, 0
+1926 GS  Tulipa, 0
+1928 OB  Reunerta, 0
+1928 PC  Vicia, 0
+1928 RJ  Hakone, 0
+1928 RQ  Figneria, 0
+1928 SD  Arnica, 0
+1928 SJ  Clematis, 0
+1928 VA  Pepita, 0
+1928 VB  Sequoia, 0
+1928 XA  Syringa, 0
+1929 AB  Fragaria, 0
+1929 CW  Cydonia, 0
+1929 FB  Lictoria, 0
+1929 KA  Demeter, 0
+1929 CU  Tata, 0
+1928 PD  Jaroslawa, 0
+1927 CO  Reinmuthia, 0
+1928 PE  Polonia, 0
+1928 QC  Katja, 0
+1928 WA  Lorraine, 0
+1928 XC  Sabauda, 0
+1929 GD  Catriona, 0
+1927 KA  Reginita, 0
+1927 QD  Hanskya, 0
+1927 UB  Euboea, 0
+1928 RV  Cannonia, 0
+1928 RZ  Natascha, 0
+1928 SB  Neith, 0
+1928 ST  Shapleya, 0
+1928 TB  Stroobantia, 0
+1957 UN1 China, 0
+1929 AC  Otero, 0
+1929 AJ  Mimi, 0
+1929 EB  Astrid, 0
+1929 PH  Neujmina, 0
+1929 RC  Skuld, 0
+1929 RO  Porzia, 0
+1929 RB1 Hollandia, 0
+1929 RC1 Lugduna, 0
+1929 SA  Kepler, 0
+1929 TA  Colchis, 0
+1929 UA  Mercedes, 0
+1929 WB  Raissa, 0
+1929 WF  Attica, 0
+1929 XE  Atami, 0
+1929 YC  Crimea, 0
+1930 AA  Bohmia, 0
+1930 BC  Aetolia, 0
+1930 BH  Odysseus, 0
+1930 BJ  Oda, 0
+1929 CC  Robelmonte, 0
+1929 JF  Biarmia, 0
+1929 LF  Stavropolis, 0
+1929 NA  Rarahu, 0
+1929 PF  Volga, 0
+1929 RB  Achaia, 0
+1929 RK  Ithaka, 0
+1930 AD  Pawona, 0
+1924 SL  Wallenbergia, 0
+1927 CB  Astronomia, 0
+1928 BD  Aenna, 0
+1928 DA  Kira, 0
+1929 QC  Arabia, 0
+1929 QF  Luda, 0
+1929 RD  Granada, 0
+1929 RL  Illyria, 0
+1929 SF  Thessalia, 0
+1930 AC  Larissa, 0
+1930 BA  Saga, 0
+1930 FB  Kobolda, 0
+1930 HM  Imprinetta, 0
+1930 MA  Sakuntala, 0
+1930 PB  Dubiago, 0
+1930 QA  Brandia, 0
+1930 QH  Alwine, 0
+1930 SQ  Siva, 0
+1930 TA  Rusthawelia, 0
+1930 UA  Aneas, 0
+1930 UB  Anchises, 0
+1930 UC  Marmara, 0
+1930 UD  Margo, 0
+1930 VE  Lucidor, 0
+1930 WA  Gonnessia, 0
+1931 EC  Irmela, 0
+1931 FD  Mally, 0
+1931 GE  Rita, 0
+1927 CQ  Lilith, 0
+1927 EA  Ilona, 0
+1930 DC  Jutta, 0
+1926 RE  Gaea, 0
+1927 WC  Nikko, 0
+1929 PL  Turnera, 0
+1929 XC  Afra, 0
+1930 SB  Gothlandia, 0
+1930 SG  Terentia, 0
+1930 SL  Pelagia, 0
+1931 CA  Alfaterna, 0
+1931 FE  Prisma, 0
+1931 HB  Africa, 0
+1931 JG  Aletta, 0
+1931 KD  Orangia, 0
+1931 KE  Sheba, 0
+1931 LD  Rhodesia, 0
+1931 RA  Atlantis, 0
+1931 RF  Geldonia, 0
+1931 RH  Imperatrix, 0
+1931 RK  Strenua, 0
+1931 RL  Marina, 0
+1931 TA  Nanna, 0
+1931 TE  Renzia, 0
+1931 TB1 Ebella, 0
+1931 UH  Numerowia, 0
+1931 VT  Ostenia, 0
+1931 YA  Troilus, 0
+1927 HA  Pumma, 0
+1931 LB  Morosovia, 0
+1931 XA  Bressole, 0
+1931 XC  Francette, 0
+1931 XD  Algeria, 0
+1932 AA  Richilde, 0
+1932 BA  Boyer, 0
+1932 BL  Askania, 0
+1932 EC  Maximiliana, 0
+1932 BJ  Aster, 0
+1932 CJ  Britta, 0
+1932 CU  Crocus, 0
+1932 EA1 Amor, 0
+1932 LA  Tina, 0
+1931 TG  Neckar, 0
+1927 SD  Fantasia, 0
+1930 HK  Ariane, 0
+1930 HL  Golia, 0
+1931 TD  Geranium, 0
+1931 TU  Scabiosa, 0
+1931 TP1 Tilia, 0
+1931 TX1 Riceia, 0
+1931 TE2 Auricula, 0
+1931 TF2 Cortusa, 0
+1931 TG2 Kobresia, 0
+1931 UF  Elyna, 0
+1931 UJ  Schorria, 0
+1931 VX  Thais, 0
+1931 XB  Genevieve, 0
+1932 CA  Predappia, 0
+1932 CB  Queteleta, 0
+1932 CD  Centenaria, 0
+1932 EB1 Dysona, 0
+1932 HL  Zambesia, 0
+1932 JE  Pamela, 0
+1932 KE  Deira, 0
+1932 KF  Calvinia, 0
+1932 OA  Chaka, 0
+1932 QA  Memoria, 0
+1932 RO  Jugurtha, 0
+1932 VB  Rutherfordia, 0
+1933 BD  Galanthus, 0
+1933 BE  Hedera, 0
+1933 DG  Celestia, 0
+1931 TV1 Frisia, 0
+1932 JA  Erfordia, 0
+1932 NC  Schilowa, 0
+1932 PD  Normannia, 0
+1932 PE  Mora, 0
+1932 PG  Sicilia, 0
+1933 BT  Ogyalla, 0
+1933 BW  Walhalla, 0
+1933 FB  Legia, 0
+1933 FE  Sniadeckia, 0
+1933 FF  Varsavia, 0
+1933 HG  Letaba, 0
+1911 MV  Schweikarda, 0
+1927 BD  Tone, 0
+1930 HD  Geertruida, 0
+1930 HJ  Libya, 0
+1930 SH  Rollandia, 0
+1930 YE  Datura, 0
+1931 TN  Isergina, 0
+1931 TZ1 Gefion, 0
+1932 PF  Helma, 0
+1932 WC  Delportia, 0
+1932 WG  Cimbria, 0
+1933 BA  Ucclia, 0
+1933 HA  Dolores, 0
+1933 LA  Kenya, 0
+1933 LB  Uganda, 0
+1933 QB  Baillauda, 0
+1933 QJ  Jeanne, 0
+1933 QM1 Utopia, 0
+1925 SC  Komsomolia, 0
+1933 OP  Latvia, 0
+1933 QF  Julietta, 0
+1933 QH  Banachiewicza, 0
+1933 QL  Lorcia, 0
+1933 QM  Santa, 0
+1933 QR  Kutaissi, 0
+1933 QL1 Albertine, 0
+1933 RA  Phryne, 0
+1933 SH  Luce, 0
+1933 SO  Sonja, 0
+1933 UB1 Antwerpia, 0
+1933 WD  Deflotte, 0
+1933 WE  Andree, 0
+1934 AD  Quadea, 0
+1934 AE  Nocturna, 0
+1934 BA  Mertona, 0
+1934 CL  Marcelle, 0
+1934 EA  Yvonne, 0
+1924 SV  Werra, 0
+1928 FP  Luthera, 0
+1928 KC  Arosa, 0
+1928 OC  Pongola, 0
+1930 OB  Scythia, 0
+1930 UF  Cimmeria, 0
+1931 EB  Halleria, 0
+1931 TO  Hyperborea, 0
+1932 DB  Villigera, 0
+1933 FF1 Knopfia, 0
+1933 OT  Vassar, 0
+1933 QG  Berna, 0
+1933 SC  Paula, 0
+1933 SF1 Bronislawa, 0
+1933 WC  Kasan, 0
+1935 RC  Silvretta, 0
+1934 FG  Nerina, 0
+1934 FO  Disa, 0
+1934 JG  Impala, 0
+1934 JH  Majuba, 0
+1934 LA  Coppernicus, 0
+1934 LD  Tugela, 0
+1934 LL  Knysna, 0
+1934 NR  Inanda, 0
+1934 NS  Losaka, 0
+1934 RT  Namaqua, 0
+1925 UA  Devota, 0
+1933 FL  Eliane, 0
+1925 DB  Spiridonia, 0
+1933 QS  Solvejg, 0
+1934 AA  Marconia, 0
+1934 DA  Cevenola, 0
+1934 OB  Lundmarka, 0
+1934 RE  Demoulina, 0
+1934 RW  Zeelandia, 0
+1934 RA1 Gerarda, 0
+1934 XA  Duponta, 0
+1934 XB  Desagneauxa, 0
+1934 YA  Yvette, 0
+1935 BA  Edmee, 0
+1935 CV  Brabantia, 0
+1935 FC  Nicole, 0
+1935 GA  Caubeta, 0
+1908 CG  Potomac, 0
+1929 CY  Gotha, 0
+1931 VW  Patria, 0
+1933 FD  Michel, 0
+1934 LJ  Bechuana, 0
+1934 TA  Rosselia, 0
+1934 TF  Uzbekistania, 0
+1935 CE  Wawel, 0
+1935 CU  Maartje, 0
+1935 GK  Botha, 0
+1935 HE  Magoeba, 0
+1935 JH  Nyanza, 0
+1935 ND  Khama, 0
+1935 OB  Gaika, 0
+1935 OC  Prieska, 0
+1935 OD  Tarka, 0
+1935 QA  Leuschneria, 0
+1935 QG1 Griqua, 0
+1935 RA  Herberta, 0
+1935 VB  Safara, 0
+1928 RK  Henyey, 0
+1932 WA  Piccolo, 0
+1934 NA  Nongoma, 0
+1935 HD  Numidia, 0
+1935 QB  Ostanina, 0
+1935 QG  Hella, 0
+1935 QJ  Resi, 0
+1935 QK  Haremari, 0
+1935 QN  Cincinnati, 0
+1935 UA  Isora, 0
+1935 UB  Alfreda, 0
+1935 UH  Michelle, 0
+1936 CD  Roberbauxa, 0
+1936 DB  Leonce, 0
+1936 FC  Lomonosowa, 0
+1936 FM  Volodia, 0
+1930 QJ  Danubia, 0
+1925 BB  Gerti, 0
+1934 RV  Limburgia, 0
+1934 RX  Kniertje, 0
+1935 MJ  Gelria, 0
+1935 PA  Storeria, 0
+1935 QD  Kama, 0
+1935 SS  Aphrodite, 0
+1935 SS1 Onnie, 0
+1935 TA  Abastumani, 0
+1936 DA  Carelia, 0
+1936 FO  Pierre, 0
+1936 KD  Sofala, 0
+1936 LK  Algoa, 0
+1936 OB  Aribeda, 0
+1936 PF  Outeniqua, 0
+1936 PG  Umtata, 0
+1936 QL  Donnera, 0
+1936 QY  Teneriffa, 0
+1936 WA  Tirela, 0
+1935 UD  Lavonne, 0
+1936 OC  Eri, 0
+1936 QA  Idelsonia, 0
+1936 QW  Ajax, 0
+1936 RE  Sibelius, 0
+1936 RF  Komppa, 0
+1936 WC  Lindelof, 0
+1936 WF  Trusanda, 0
+1937 AK  Isko, 0
+1937 AL  Margret, 0
+1937 AM  Brauna, 0
+1937 BA  Lagrula, 0
+1937 CD  Roucarie, 0
+1937 CE  Jerome, 0
+1937 EA  Malautra, 0
+1937 EC  Renauxa, 0
+1937 GH  Walinskia, 0
+1903 RG  Fayeta, 0
+1929 RF  Danzig, 0
+1931 RJ  Radcliffe, 0
+1936 FQ  Esperanto, 0
+1936 QF  Stromgrenia, 0
+1936 QM  Jose, 0
+1937 AJ  Sundmania, 0
+1937 GB  Tuorla, 0
+1937 GF  Riviera, 0
+1937 KB  Ruvuma, 0
+1937 NO  Mombasa, 0
+1937 NH  Pemba, 0
+1937 NK  Somalia, 0
+1937 OB  Luanda, 0
+1937 PG  Ethiopia, 0
+1937 UC  Geramtina, 0
+1936 FD1 Margot, 0
+1936 WE  Garlena, 0
+1936 YA  Salonta, 0
+1937 PB  Diomedes, 0
+1937 TC  Wendeline, 0
+1937 TE  Vogtia, 0
+1937 TF  Rostia, 0
+1937 WA  Bolyai, 0
+1937 YF  Corvina, 0
+1937 YG  Ruppina, 0
+1938 AE  Pannonia, 0
+1938 AF  Konkolya, 0
+1938 BA  Sillanpaa, 0
+1938 BB  Utra, 0
+1938 DF  Lindbladia, 0
+1938 DO  Virtanen, 0
+1938 DP  Raimonda, 0
+1938 DT  Grano, 0
+1938 DZ1 Hunnia, 0
+1938 ED1 Fennia, 0
+1936 DO  Kalevala, 0
+1937 LF  Mitchella, 0
+1937 NG  Saldanha, 0
+1937 PA  Ankara, 0
+1937 RC  Mineura, 0
+1937 VA  Magnya, 0
+1937 WC  Haltia, 0
+1937 YL  Jean-Jacques, 0
+1938 CA  Zamenhof, 0
+1938 CB  Nordenmarkia, 0
+1939 VO  Armisticia, 0
+1938 FA  Autonoma, 0
+1938 KA  Mundleria, 0
+1938 OE  Mashona, 0
+1938 PA  Zomba, 0
+1938 QD  Linzia, 0
+1938 SD  Carla, 0
+1938 SL1 Tornio, 0
+1938 UQ  Muonio, 0
+1938 UT  Ounas, 0
+1935 QY  Beira, 0
+1935 SM  Yalta, 0
+1936 RA  Cox, 0
+1938 CC  Bonsdorffia, 0
+1938 CF  Vihuri, 0
+1938 DE  Inkeri, 0
+1938 DK  Aunus, 0
+1938 DR  Tubingia, 0
+1938 DA1 Sebastiana, 0
+1938 DJ1 Hakoila, 0
+1938 HC  Postrema, 0
+1938 OB  Isa, 0
+1938 QA  Marilyn, 0
+1938 WC  Boda, 0
+1938 XE  Aura, 0
+1939 GC  Attila, 0
+1936 LB  Limpopo, 0
+1938 EJ  Balduinus, 0
+1938 FL  Oppolzer, 0
+1938 QB  Sigrid, 0
+1938 SJ  Savo, 0
+1938 SW  Helsinki, 0
+1938 SA1 Turku, 0
+1938 SB1 Tampere, 0
+1938 SK1 Lahti, 0
+1938 UF  Pori, 0
+1938 UH  Jyvaskyla, 0
+1938 UJ  Baade, 0
+1938 WB  Arenda, 0
+1938 XD  Kuopio, 0
+1939 FM  Lappeenranta, 0
+1939 HH  Koranna, 0
+1939 JC  Xosa, 0
+1939 RD  Vaasa, 0
+1938 UP  Kemi, 0
+1938 YG  Esclangona, 0
+1939 DC  Charlois, 0
+1939 FB  Dalera, 0
+1939 FE  Oulu, 0
+1940 EB  Matra, 0
+1906 UR  Ricouxa, 0
+1936 VG  Perrotin, 0
+1938 BG  Henry, 0
+1938 FD  Beograd, 0
+1938 UA  Rovaniemi, 0
+1938 UB  Kajaani, 0
+1938 UY  Imatra, 0
+1938 UB1 Seinajoki, 0
+1938 WO  Kokkola, 0
+1939 BC  Pieksamaki, 0
+1939 SB  Joensuu, 0
+1939 SC  Savonlinna, 0
+1939 TF  Mikkeli, 0
+1939 UG  Malmquista, 0
+1940 CA  Conrada, 0
+1938 BC  Oterma, 0
+1938 SG  Rantaseppa, 0
+1938 SH  Hartmut, 0
+1938 SM  Inari, 0
+1939 BD  Saimaa, 0
+1939 BK  Nasi, 0
+1939 RC  Paijanne, 0
+1939 SE  Pielinen, 0
+1940 QA  Transylvania, 0
+1940 RF  Detre, 0
+1940 UB  Borrelly, 0
+1938 WK  Kevola, 0
+1939 CK  Estonia, 0
+1941 QE  Schalen, 0
+1941 SJ  Bourgeois, 0
+1941 UK  Vinterhansenia, 0
+1941 UW  Thernoe, 0
+1941 SG1 Izsak, 0
+1929 CZ  Nele, 0
+1935 FK  Palomaa, 0
+1937 GA  Mikko, 0
+1937 WD  Tito, 0
+1938 DC1 Argelander, 0
+1938 DE1 Bessel, 0
+1940 AD  Bauersfelda, 0
+1940 RE  Yugoslavia, 0
+1941 SA  Dejan, 0
+1942 AA  Wingolfia, 0
+1942 AD  Roehla, 0
+1942 BD  Jarnefelt, 0
+1942 BF  Kustaanheimo, 0
+1942 XB  Strattonia, 0
+1941 CG  Fricke, 0
+1943 EE  Gondolatsch, 0
+1943 EG  Noel, 0
+1936 TB  Srbija, 0
+1948 WA  Lemaitre, 0
+1949 MA  Icarus, 0
+1941 HN  Alikoski, 0
+1946 QB  Aisleen, 0
+1948 PA  Evita, 0
+1948 TX  Brunonia, 0
+1950 FJ  Cesco, 0
+1949 SC  Posnania, 0
+1949 UA  Vaisala, 0
+1949 FD  Meyer, 0
+1950 HH  Winifred, 0
+1948 SA  Fabiola, 0
+1949 BA  Reiss, 0
+1951 AT  Kirkwood, 0
+1948 SB  Herrick, 0
+1950 KA  Betulia, 0
+1950 LA1 Abanderada, 0
+1950 LY  Martir, 0
+1950 SA  Antilochus, 0
+1927 CR  Fuji, 0
+1947 RG  Union, 0
+1939 CJ  Thiele, 0
+1933 FS1 Kahrstedt, 0
+1951 MH  Descamisada, 0
+1950 RK  Fanatica, 0
+1933 NA  Tsiolkovskaja, 0
+1951 KA  Baize, 0
+1951 LA  Mathieu, 0
+1951 LB  Fagnes, 0
+1949 WA  Danjon, 0
+1930 ME  Tanga, 0
+1951 EV  Itzigsohn, 0
+1949 EB  Laugier, 0
+1950 CA  Paloque, 0
+1950 WA  Giomus, 0
+1947 UC  Vyssotsky, 0
+1942 KA  Patry, 0
+1950 GF  Indiana, 0
+1926 VH  Neva, 0
+1931 FH  Tombaugh, 0
+1936 GA  Milankovitch, 0
+1950 RH  Jekhovsky, 0
+1950 RA  Mavis, 0
+1951 RZ  Munoz, 0
+1951 NL  Brenda, 0
+1928 RT  Mirnaya, 0
+1950 DJ  Beyer, 0
+1950 BJ  Hirose, 0
+1950 SD  Smiley, 0
+1952 HA  Goldschmidt, 0
+1950 BW  Bardwell, 0
+1950 EA  Filipoff, 0
+1952 FB  Alschmitt, 0
+1948 NF  Dawn, 0
+1953 TA  Ueta, 0
+1951 RA  Geographos, 0
+1926 TM  Druzhba, 0
+1952 EA  Chacornac, 0
+1948 PL  Vivian, 0
+1931 TT1 Rabe, 0
+1953 RB  The NORC, 0
+1927 AA  Sadeya, 0
+1929 SH  Ivar, 0
+1923 OG  Strobel, 0
+1952 DB  Pecker, 0
+1952 DA  Milet, 0
+1936 UC  Kopff, 0
+1941 DF  Siebohme, 0
+1929 EC  Chimay, 0
+1935 QP  Ndola, 0
+1924 QW  Bohrmann, 0
+1950 BH  Porter, 0
+1936 QO  Swings, 0
+1935 JF  Ruanda, 0
+1951 RB  Bower, 0
+1951 QA  Nemo, 0
+1935 OJ  Tana, 0
+1951 RU  Hill, 0
+1951 RQ  Brown, 0
+1935 YA  Rafita, 0
+1933 OJ  Waterfield, 0
+1939 BG  Rosseland, 0
+1957 MK  Menelaus, 0
+1935 RF  Shajna, 0
+1951 DE  Fabre, 0
+1937 TG  Heckmann, 0
+1936 HD  Behrens, 0
+1953 PA  Herge, 0
+1937 RA  Yakhontovia, 0
+1931 TL  Bojeva, 0
+1929 WG  Comas Sola, 0
+1942 EC  Suomi, 0
+1961 EA  Roemera, 0
+1953 NA  Innes, 0
+1940 YL  Punkaharju, 0
+1953 GA  Wood, 0
+A916 FA  Granule, 0
+A923 RB  Hoffmann, 0
+1926 PE  van den Bos, 0
+1929 CD  Felix, 0
+1930 DQ  Gaby, 0
+1930 OG  van Gent, 0
+1930 SY  Pels, 0
+1933 OK  Hanna, 0
+1934 RS  Dagmar, 0
+1934 RZ  Minnaert, 0
+1934 TD  Chaika, 0
+1935 BD  Gezelle, 0
+1937 TH  van Houten, 0
+1938 DS  Groeneveld, 0
+1938 FB  Simonida, 0
+1939 LC  Kariba, 0
+1940 RO  Tycho Brahe, 0
+1940 YH  Hveen, 0
+1941 FR  Nevanlinna, 0
+1942 CH  Per Brahe, 0
+1948 WE  Steinmetz, 0
+1949 PH  Karel, 0
+1950 SL  Castafiore, 0
+1951 QE  Iguassu, 0
+1948 OA  Toro, 0
+1935 SR1 De Sitter, 0
+1965 SC  Glarona, 0
+1951 EQ1 Wilkens, 0
+1930 SO  Floris-Jan, 0
+1948 VB  Mayrhofer, 0
+1956 RB  Oort, 0
+1936 QD  Subbotina, 0
+1935 LA  Hertzsprung, 0
+1934 SB  Kaiser, 0
+1941 UO  Walbeck, 0
+1939 FF  Nurmela, 0
+1940 RM  Koskenniemi, 0
+1934 CS  Christophe, 0
+1941 QD  Honkasalo, 0
+1940 QC  Zvezdara, 0
+1953 NJ  Okavango, 0
+A924 NC  Kalahari, 0
+1930 RB  Barry, 0
+A924 EE  Wachmann, 0
+1941 SL1 Tapio, 0
+1931 TS  Dieckvoss, 0
+1932 RL  Chantal, 0
+1929 XA  Polit, 0
+1925 QA  Ukraina, 0
+1941 UF  Gothard, 0
+1935 BB  Sandrine, 0
+1935 KC  Angola, 0
+1951 SC  Bancilhon, 0
+1951 OA  Sy, 0
+1938 GK  Salli, 0
+1934 GF  Peter, 0
+1954 AC  Arlon, 0
+1942 RX  Namibia, 0
+1950 DP  Jens, 0
+1935 CQ  Niels, 0
+1953 TD3 Wells, 0
+1938 EG  Goffin, 0
+1936 FX  Klemola, 0
+1932 DC  Vladimir, 0
+1930 SK  CrAO, 0
+1933 OE  Hoffmeister, 0
+1965 BA  Mette, 0
+1964 TO  Goethe Link, 0
+1963 SL  Beryl, 0
+1936 UA  Marceline, 0
+1948 PH  Smuts, 0
+1943 EY  Heike, 0
+1938 DL1 Silke, 0
+1928 TJ  Zhongolovich, 0
+1948 RJ1 ITA, 0
+1967 RA  Floirac, 0
+1966 TJ  Severny, 0
+1930 SP  Oosterhoff, 0
+1939 PF  Meyermann, 0
+1939 UA  Paavo Nurmi, 0
+1960 BC  Giclas, 0
+1934 RO  Schaifers, 0
+4109 P-L Schmidt, 0
+6557 P-L Harriet, 0
+1941 SY1 Ferguson, 0
+1963 RF  Brouwer, 0
+1947 NH  Wright, 0
+1966 RA  Mauderli, 0
+1949 SB  Telamon, 0
+1950 NA1 Eckert, 0
+1955 OC  Herget, 0
+1930 OK  van Herk, 0
+1934 JM  Mieke, 0
+1935 FE  Cunningham, 0
+1936 VD  Lorbach, 0
+1937 YA  Giacobini, 0
+1939 FC  Porvoo, 0
+1942 DK  Naantali, 0
+1942 RF  Kienle, 0
+1950 GB  Sandra, 0
+1952 FN  Edmondson, 0
+1953 TZ  Russell, 0
+1953 TN2 Williams, 0
+1953 VM1 Cogshall, 0
+1957 XB  Wrubel, 0
+1962 RF  Slipher, 0
+1962 RJ  Lampland, 0
+1965 SA  Appenzella, 0
+1966 QP  Carlostorres, 0
+1967 JR  Schlesinger, 0
+1968 BD  Makover, 0
+1968 CB  Gagarin, 0
+1968 HE  Rumpelstilz, 0
+1968 UG1 Kulikov, 0
+1969 JA  Zimmerwald, 0
+2520 P-L Kuiper, 0
+4007 P-L Gehrels, 0
+4506 P-L Alfven, 0
+1950 LZ  Parana, 0
+A906 RA  Kippes, 0
+A906 UB  Van Biesbroeck, 0
+1931 TL1 Schneller, 0
+1935 FJ  Albitskij, 0
+1935 MG  Benguella, 0
+1941 CD  Wurm, 0
+1948 TL  Raahe, 0
+1950 SK  Chiny, 0
+1952 OZ  Kiess, 0
+1966 QC  Dobrovolsky, 0
+1967 ER  Volkov, 0
+1967 RE  Patsayev, 0
+1968 BG  Reni, 0
+1968 DW  Zoya, 0
+1970 GA  Finsen, 0
+4010 P-L Woltjer, 0
+1966 KB  Riga, 0
+1936 VH  Schaumasse, 0
+1949 GC  Watts, 0
+1950 OE  Koussevitzky, 0
+1950 RJ  Aguilar, 0
+1952 SP1 Titicaca, 0
+1964 TW1 Zhang Heng, 0
+1967 CA  Zwicky, 0
+1967 GG  Chebotarev, 0
+1970 GD  Dirikis, 0
+1971 LC  Derice, 0
+1971 QA  Slovakia, 0
+2517 P-L Bellerophon, 0
+2522 P-L Prometheus, 0
+4196 P-L Epimetheus, 0
+4576 P-L Bruwer, 0
+4645 P-L Gilgamesh, 0
+7589 P-L Imhotep, 0
+1931 TW1 Bach, 0
+1932 CE1 Beethoven, 0
+1936 BD  Liberia, 0
+1939 MB  Katanga, 0
+1939 PE  Brahms, 0
+1948 PC  Laputa, 0
+1949 PO  Lohmann, 0
+1950 MB  Aconcagua, 0
+1950 OO  Waterman, 0
+1951 RD  Gliese, 0
+1952 FM  Haworth, 0
+1954 QH  Klare, 0
+1955 RC1 Miller, 0
+1962 RK  Atkinson, 0
+1966 PH  Kashirina, 0
+1967 JJ  Dawson, 0
+1968 HA  Pogson, 0
+1968 HC  Nicholson, 0
+1969 PC  Mrkos, 0
+1969 PN  Shmakova, 0
+1969 QP  Palach, 0
+1970 OE  Gajdariya, 0
+1971 OT  Komarov, 0
+1971 QZ1 Osita, 0
+1971 UC  Ursa, 0
+1971 UF  Ragazza, 0
+1971 UY  Hus, 0
+1971 UO1 Masaryk, 0
+1972 AA  Hynek, 0
+1972 AB  Jarmila, 0
+1972 UB  Susilva, 0
+1972 UC  Helewalda, 0
+6553 P-L Bengt, 0
+A916 CA  Stobbe, 0
+1933 QD  Delvaux, 0
+1942 AB  Kresak, 0
+1942 EN  Kohoutek, 0
+1950 VA  Lacroute, 0
+1955 GA  Carpenter, 0
+1957 XE  McElroy, 0
+1968 UE1 Skvortsov, 0
+1969 TU1 Korolev, 0
+1969 TW1 Ruzena, 0
+1971 QS1 Parchomenko, 0
+1972 QL  Lobachevskij, 0
+1972 RS2 Kovalevskaya, 0
+         Celuta, 0
+1970 WB  Komensky, 0
+1932 HA  Apollo, 0
+1948 EA  Antinous, 0
+1971 FA  Daedalus, 0
+1971 UA  Cerberus, 0
+1972 XA  Sisyphus, 0
+1971 EA  Deiphobus, 0
+2008 P-L Thersites, 0
+4596 P-L Philoctetes, 0
+1971 FE  Glaukos, 0
+1971 FF  Astyanax, 0
+1971 FG  Helenos, 0
+1971 FH  Agenor, 0
+A924 RC  Kacivelia, 0
+1969 QQ  Neruda, 0
+1970 BA  Napolitania, 0
+1971 FC  Marsden, 0
+1933 QC  Hughes, 0
+1935 UN  Broederstroom, 0
+1940 AN  McCrosky, 0
+1940 PC  Shao, 0
+1941 UJ  Rauma, 0
+1942 XA  Rimito, 0
+1943 EB1 Skip, 0
+1948 PJ  Herero, 0
+1949 MP  Lowell, 0
+1950 TD  Virton, 0
+1964 VO1 Zu Chong-Zhi, 0
+1968 BE  Pakhmutova, 0
+1968 CD  Konoshenkova, 0
+1969 RA  Gondola, 0
+1971 SD  Lucienne, 0
+1971 UD  Jakoba, 0
+1971 UH  Haffner, 0
+1971 UZ  Larink, 0
+1971 UC1 Beer, 0
+1971 UE1 Hind, 0
+1971 UF1 Cowell, 0
+1971 UR1 Crommelin, 0
+1971 YB  Katyusha, 0
+1972 AD  Moravia, 0
+1972 HU  Shaposhnikov, 0
+1972 JL  Adzhimushkaj, 0
+1972 JM  Massevitch, 0
+1972 JZ  Ambartsumian, 0
+1972 RC  Naef, 0
+1972 RC2 Rudneva, 0
+1972 RL2 Pobeda, 0
+1972 RW2 Alekhin, 0
+1972 TZ1 Mikhailov, 0
+1973 UD  Schubart, 0
+6534 P-L Anubis, 0
+1928 SF  Sekanina, 0
+1930 SB1 Hartbeespoortdam, 0
+1953 EA  Quetzalcoatl, 0
+1953 RA  Boreas, 0
+1968 AA  Cuyo, 0
+1968 UA  Aiguillon, 0
+1971 SA  Clemence, 0
+1971 VO  Sarmiento, 0
+1973 SE  Pala, 0
+1949 HC  Zulu, 0
+4011 P-L Osiris, 0
+4023 P-L Horus, 0
+1934 RY  Franklin-Adams, 0
+1935 JA  Demiddelaer, 0
+1936 FP  Suvanto, 0
+1938 SO  Summa, 0
+1939 BS  Kollaa, 0
+1964 UA  Lucifer, 0
+1969 QB  Capek, 0
+1971 UB1 Jansky, 0
+1972 AC  Tinchen, 0
+1972 XB  Jeffers, 0
+1973 RB  Lucerna, 0
+1973 WD  Lugano, 0
+1973 YA  Locarno, 0
+1974 HC  Lausanna, 0
+1974 UC  Loretta, 0
+1975 CA  Whipple, 0
+1931 TN1 Wild, 0
+1972 SA  Jablunka, 0
+1973 EC  Anteros, 0
+1925 RA  Gunter, 0
+1930 OL  Wesselink, 0
+1931 PH  Walraven, 0
+1935 EA  Iso-Heikkila, 0
+1935 GL  Kampala, 0
+1936 NE  Messina, 0
+1942 EO  Wempe, 0
+1949 OA  Lick, 0
+1951 JC  Hesburgh, 0
+1951 UK  Rupertwildt, 0
+1952 PH  Kukarkin, 0
+1963 SR  McMath, 0
+1969 TX1 Artek, 0
+1970 GF  Angara, 0
+1970 SB  Chandra, 0
+1972 NB  Karbyshev, 0
+1973 UA  Guisan, 0
+1973 WA  Dufour, 0
+1973 WE  Dunant, 0
+1975 CB  Bezovec, 0
+2007 P-L Luyten, 0
+2521 P-L van de Kamp, 0
+2552 P-L Tristan, 0
+A905 VC  Menzel, 0
+1932 BK  Mehltretter, 0
+1935 CG  Alain, 0
+1954 ER  Sumeria, 0
+1955 RD1 Hagihara, 0
+1964 VQ1 Yi Xing, 0
+1968 OA  Colocolo, 0
+1968 OE  Caupolican, 0
+1969 PH  Pikelner, 0
+1970 GC  Kaverin, 0
+1970 QY  Shura, 0
+1971 LD  Patrice, 0
+2006 P-L Sakharov, 0
+1950 LA  Tezcatlipoca, 0
+1973 EA  Midas, 0
+1975 VA  Cline, 0
+1975 LB  Bok, 0
+1926 TN  Fedynskij, 0
+1929 AE  Hopmann, 0
+1935 SV1 Plaut, 0
+1952 RH  Kaplan, 0
+1952 SV  Delores, 0
+1955 FG  Tatry, 0
+1956 EE  Pilcher, 0
+1967 JL  Darwin, 0
+1968 OD  Galvarino, 0
+1968 OH1 Guacolda, 0
+1961 TE  Shane, 0
+1971 UP1 Hajek, 0
+1961 UA  Adams, 0
+1963 RC  Leverrier, 0
+1938 DX1 Titius, 0
+1973 DR  Hirayama, 0
+1960 OA  Herschel, 0
+1973 EB  Einstein, 0
+1973 QQ1 Euler, 0
+6559 P-L Harding, 0
+1973 SV2 Lexell, 0
+1973 RA  Hencke, 0
+1973 SB3 Polonskaya, 0
+1963 SQ  McCuskey, 0
+1973 SV4 Konstitutsiya, 0
+1968 UL  Voloshina, 0
+1969 TL4 Chebyshev, 0
+1970 QB1 Veteraniya, 0
+1964 TE2 Guo Shou-Jing, 0
+1971 UH4 Tucapel, 0
+1973 JA  Vasilevskis, 0
+1972 RA3 Kachuevskaya, 0
+1938 SE  Heinemann, 0
+A903 SC  Wesson, 0
+1931 UC  Schuster, 0
+1935 SX1 van Albada, 0
+1936 FR  Ukko, 0
+1936 MA  Poincare, 0
+1938 CK  West, 0
+1952 SA  Asaph, 0
+1952 UR  McLaughlin, 0
+1953 LG  Nortia, 0
+1955 FF  Cottrell, 0
+1964 VR1 Shen Guo, 0
+1968 OB1 Janequeo, 0
+1969 RB  Binomi, 0
+1969 TA2 Belyaev, 0
+1969 TG2 BAM, 0
+1970 OH  Ethel, 0
+1973 CA  Basilea, 0
+1973 EE  Bernoulli, 0
+1973 SC  Stearns, 0
+1973 SY2 Sheragul, 0
+1973 UB  Tripaxeptalis, 0
+1973 WF  Bistro, 0
+1974 CA  Payne-Gaposchkin, 0
+1974 HA  Chalonge, 0
+2523 P-L Lancelot, 0
+4633 P-L Sitarski, 0
+1936 TH  Ortutay, 0
+1950 VE  Wirt, 0
+1964 TB1 Peking, 0
+1968 UD1 Leningrad, 0
+1971 UA1 Smetana, 0
+1973 QA  Dwornik, 0
+1973 SH  Grietje, 0
+1974 KA  Francis, 0
+1976 UC  Chang, 0
+1976 UN  Tamriko, 0
+1976 UO  Nuki, 0
+4097 P-L Gawain, 0
+1974 DB  Dvorak, 0
+A909 TB  Nancy, 0
+1934 RQ  Rosemary, 0
+1938 BH  Roka, 0
+1963 UA  Baboquivari, 0
+1977 UB  Chiron, 0
+1960 UA  Anza, 0
+1976 AA  Aten, 0
+1977 HB  Bacchus, 0
+1942 RQ  Thomsen, 0
+1959 RN  Spicer, 0
+1934 LB  Palala, 0
+1936 DD  Aksnes, 0
+1948 AD  Dangreen, 0
+1955 FT  Hubble, 0
+1964 TQ  Humason, 0
+1971 QS  Nadezhda, 0
+1973 QE2 Kosmodemyanskaya, 0
+1974 DK  Janacek, 0
+1974 UA  Shoemaker, 0
+1974 VA  Martinez, 0
+1974 WA  Levin, 0
+1974 YA  Kiangsu, 0
+1975 AD  Nanking, 0
+1976 DB  Jacchia, 0
+1976 DG  Jihlava, 0
+1976 DH  Sazava, 0
+7588 P-L Galahad, 0
+1973 WB  Smither, 0
+1935 CK  Okayama, 0
+1965 YA  Henan, 0
+1966 BC  Newell, 0
+1975 YC  Kochera, 0
+1976 DJ  Sahlia, 0
+1977 VF  Cetacea, 0
+1978 EA  Mizuho, 0
+1941 HO  Sampo, 0
+1969 UP  Sumiana, 0
+1971 HX  Genichesk, 0
+1971 TC2 Magnitka, 0
+6036 P-L Parsifal, 0
+1939 UC  Vaino, 0
+1953 PV  Galle, 0
+1972 QE  Zyskin, 0
+1977 VB  Opik, 0
+1978 RA  Ra-Shalom, 0
+1936 CA  Adonis, 0
+1975 YA  Tantalus, 0
+1960 FL  Laverna, 0
+1963 PD  Toronto, 0
+1976 DA  Gudy, 0
+1936 UF  Hugo, 0
+1941 VA  Ilmari, 0
+1948 TR1 Otto Schmidt, 0
+1950 TH2 Dhotel, 0
+1962 RD  Moore-Sitterly, 0
+1969 LG  Tselina, 0
+1972 NP  Ulyanov, 0
+1972 RJ2 Ehrdni, 0
+1976 HA  Wallenquist, 0
+1976 UD  Irakli, 0
+1976 UM  Mtskheta, 0
+1978 AC  Danmark, 0
+1978 PB  Flagstaff, 0
+1930 QG  Schwall, 0
+1967 RM  Tyumenia, 0
+1971 ME  Sevastopol, 0
+1971 XB  Pyatiletka, 0
+1973 SL2 Vltava, 0
+1974 MK  Nissen, 0
+2005 P-L Karl-Ontjes, 0
+1970 QZ  Gerasimovich, 0
+1971 KB1 Tanya, 0
+1973 SB  Wetherill, 0
+1973 SJ  Cosicosi, 0
+1974 QH1 Evdokiya, 0
+1975 RA  Mayall, 0
+1975 TW3 Zhukov, 0
+1976 WB  Franceswright, 0
+1976 YB  Dennispalm, 0
+1977 HA  Aristaeus, 0
+1933 OC  Jugta, 0
+1936 QZ  Priscilla, 0
+1968 HB  Swissair, 0
+1970 MC  Makharadze, 0
+1970 PE  Kemerovo, 0
+1970 QC1 Simferopol, 0
+1972 GA  Landau, 0
+1973 SA  Jimarnold, 0
+1975 BC1 Marietta, 0
+1976 UF  Blaauw, 0
+1976 UQ  Stentor, 0
+1976 US  Kharadze, 0
+1976 UW  Epeios, 0
+1977 FX  Schwambraniya, 0
+1977 TA  Nyctimene, 0
+1977 VX  Hadwiger, 0
+1978 WK  Hannibal, 0
+1978 XD  Akiyama, 0
+2015 P-L Underhill, 0
+6542 P-L Wodan, 0
+A917 SH  Kate, 0
+A924 EF  Ashbrook, 0
+1933 OS  Tietjen, 0
+1941 UX  Kukkamaki, 0
+1956 RL  Spitzer, 0
+1963 UD  Grissom, 0
+1966 BE  Anhui, 0
+1971 SP1 Korczak, 0
+1972 RM2 Lyalya, 0
+1956 RJ  Young, 0
+1936 QB  Handahl, 0
+1971 LA  Erin, 0
+1955 RF1 Swope, 0
+1964 VP1 Taiwan, 0
+1971 SZ  Byelorussia, 0
+1973 QD1 Kiev, 0
+1973 QA2 Plavsk, 0
+1974 QG1 Maresjev, 0
+1975 TA  Asmodeus, 0
+1977 TY  Andrea Doria, 0
+2529 P-L Donar, 0
+6551 P-L Oliver, 0
+1972 RA2 Kazakhstania, 0
+1965 MA  Platzeck, 0
+1940 RJ  Marjaleena, 0
+1942 YA  Fogelin, 0
+1953 FH1 Semirot, 0
+1959 OB  Neufang, 0
+1964 TV2 Fujian, 0
+1965 WO  Guangdong, 0
+1973 SQ4 Keldysh, 0
+1976 UH  La Silla, 0
+1976 UL4 Orlenok, 0
+1975 QK  Zaragoza, 0
+1976 GV3 Coubertin, 0
+1977 PA1 Uppsala, 0
+1972 HP  Pyatigoriya, 0
+1926 KB  Jackson, 0
+1940 GE  Arpola, 0
+1941 SP1 Tengstrom, 0
+1965 BC  Ellicott, 0
+1965 YN  Shanghai, 0
+1975 VF  Ceplecha, 0
+1978 LA  Klet, 0
+6090 P-L Pasadena, 0
+1947 XC  Oljato, 0
+1972 RA  Pele, 0
+1935 SQ1 van Rhijn, 0
+1943 EQ  Lyyli, 0
+1973 SU4 Glinka, 0
+1976 GR3 Gabrova, 0
+1977 QH1 Antenor, 0
+1977 QL3 Pushkin, 0
+1978 US1 Tianjin, 0
+9597 P-L Lois, 0
+1951 WO2 Hanuman, 0
+1978 SB  Hephaistos, 0
+1935 SO1 Meeus, 0
+1953 GF  Carol, 0
+1964 VX2 Sichuan, 0
+1971 LF  Kerch, 0
+1971 SK2 Eltigen, 0
+1975 AK  Wotho, 0
+1975 LU  Mannucci, 0
+1975 VB  Hicks, 0
+1976 QC  Chilton, 0
+1977 ST1 Lermontov, 0
+1977 TL3 Sarpedon, 0
+2528 P-L Tucson, 0
+6546 P-L Serkowski, 0
+1936 QC1 Cunitza, 0
+1955 RX  Otto Struve, 0
+1977 OH  Soyuz-Apollo, 0
+1977 RO  Mezzarco, 0
+1978 UT1 Yunnan, 0
+1941 SG  Durrell, 0
+1969 RD2 Altaj, 0
+1972 XE1 Kuznetsov, 0
+1977 HD  Schmadel, 0
+A924 GA  Vittore, 0
+1933 FX  Austrasia, 0
+1938 TB  Melnikov, 0
+1972 RQ1 Steshenko, 0
+1978 RC  Paracelsus, 0
+1978 YA  Tsai, 0
+1979 WM  Alcathous, 0
+1936 TG  Balaton, 0
+1941 SA1 Lonnrot, 0
+1952 UW1 Tesla, 0
+1968 BC  Hekatostos, 0
+1979 XH  Bowell, 0
+6512 P-L Hiroshima, 0
+1933 DE  Kanda, 0
+1942 GA  Yamamoto, 0
+1972 HN  Stalingrad, 0
+1977 SU1 Tikhov, 0
+1978 VT  CERGA, 0
+1932 PB  Espinette, 0
+1977 QJ1 Requiem, 0
+1977 VK1 Qinghai, 0
+4519 P-L Wisniewski, 0
+1939 QB  Kaarina, 0
+1939 TA  Viipuri, 0
+1971 OG  Sofievka, 0
+1975 WM1 Neoptolemus, 0
+1977 HC  Keeler, 0
+1978 RB  Mitidika, 0
+1978 UW1 Shaanxi, 0
+1979 YK  Sabrina, 0
+1950 DB  Verbaandert, 0
+1974 VK  Tchaikovsky, 0
+1977 RF  Agassiz, 0
+1942 VW  Szmytowna, 0
+1976 JA2 Efremiana, 0
+1980 ED  Yazhi, 0
+1976 UV5 Kiso, 0
+1972 FA  Montezuma, 0
+1975 EV1 Yarilo, 0
+1976 EA  Ehrsson, 0
+1979 MH  Cuitlahuac, 0
+1933 QA  Warck, 0
+1950 DS  Moreau, 0
+1953 GE  Gotz, 0
+1968 DL  Barto, 0
+1971 SL2 Kunikov, 0
+1971 UQ1 Biela, 0
+1974 FE  Andres Bello, 0
+1974 SV4 Bunke, 0
+1974 TG1 San Juan, 0
+1976 QB  Ron Helin, 0
+1977 NH  Fesenkov, 0
+1977 QK3 Kalmykia, 0
+1979 UZ  Karolinum, 0
+6567 P-L McMillan, 0
+1932 CD1 Helffrich, 0
+1941 FS  Kevo, 0
+1942 RM  Seili, 0
+1977 EH1 Guernica, 0
+1977 PL1 Andronikov, 0
+1977 QD1 Matusovskij, 0
+1975 BA1 Kugultinov, 0
+1978 RE  Daghestan, 0
+A915 TA  Cindijon, 0
+1941 SZ  Hanko, 0
+1953 TG2 Stebbins, 0
+1965 WJ  Whitford, 0
+1972 TL2 Florya, 0
+1979 FK  Retsina, 0
+1979 KB  Slavia, 0
+1980 RJ1 King, 0
+1939 PM  Bauschinger, 0
+1957 HJ  Garuda, 0
+1967 JM  Schilt, 0
+1971 QX1 Mr. Spock, 0
+1974 SU4 Olshaniya, 0
+1974 TA1 El Leoncito, 0
+1976 GU2 Duboshin, 0
+1976 TA  Aruna, 0
+1977 VD  Field, 0
+1980 DZ  Czechoslovakia, 0
+1980 RH  Jo-Ann, 0
+2524 P-L Galya, 0
+6521 P-L Lubarsky, 0
+7631 P-L Aristides, 0
+1979 QJ  Blarney, 0
+1980 DB1 Luznice, 0
+1954 UQ2 Kitt Peak, 0
+1976 SF2 Zverev, 0
+1978 VS4 Janice, 0
+1979 SP  Chernykh, 0
+1965 QC  Tololo, 0
+1969 TQ4 Gershberg, 0
+1972 HW  Robeson, 0
+1976 WA  Orthos, 0
+1977 DS3 Ontake, 0
+1936 EA  Parvulesco, 0
+1940 GH  Kalm, 0
+1943 EP  Porthan, 0
+1962 HD  Cuffey, 0
+1974 UB  James, 0
+1975 WL1 Xinjiang, 0
+1976 UH1 Boubin, 0
+1977 QA3 Bokhan, 0
+2509 P-L Anacreon, 0
+1976 UA  Hathor, 0
+1976 YU1 Aoluta, 0
+1968 UQ  Lebedev, 0
+1979 MD4 Siding Spring, 0
+1979 SC1 Xizang, 0
+1974 OS  Fucik, 0
+1934 CB  Lilio, 0
+1936 TK  Vinata, 0
+1939 AA  Michkovitch, 0
+1970 OG  Kurchenko, 0
+1938 CG  von Lude, 0
+1964 VD  O'Higgins, 0
+1969 RY  Kurchatov, 0
+1975 UD  Alva, 0
+1978 PZ3 Lavrov, 0
+1978 UV1 Nei Monggol, 0
+1979 UJ  Hirons, 0
+1981 AC  Phereclos, 0
+1929 RE  Bahner, 0
+1931 TV  Debehogne, 0
+1975 VD3 Volgo-Don, 0
+1976 GQ1 Gogol, 0
+1976 SH2 Mark Twain, 0
+1977 TJ3 Cebriones, 0
+1978 GD  Seillier, 0
+1980 YQ  Interkosmos, 0
+1981 AC1 Aaryn, 0
+1981 AK1 Praha, 0
+1977 RA  Beltrovata, 0
+1976 GC8 Chekhov, 0
+1965 LA  van Altena, 0
+1975 VR3 Dimitrov, 0
+1977 RA8 Proskurin, 0
+1929 PC  Immo, 0
+1974 QE1 Vladvysotskij, 0
+1975 AA  Radek, 0
+1977 QG3 Martynov, 0
+1978 QT1 Shcheglov, 0
+1935 CY  Pannekoek, 0
+1941 ST  Heiskanen, 0
+1965 SN  Heilongjiang, 0
+1976 AF  Landi, 0
+1977 GA  Nonie, 0
+1981 GN  Bradley, 0
+1943 EC1 Schulhof, 0
+1969 VW  Mustel, 0
+1974 SN1 Nikonov, 0
+1975 FX  Xi'an, 0
+1977 EA2 Gase, 0
+1977 QC1 Dibaj, 0
+1980 PA1 Nezarka, 0
+1957 AA  Tomita, 0
+1979 MN1 Jonathan Murray, 0
+1955 WB  Suzuki, 0
+1973 SZ2 Nadeev, 0
+1977 FA  Aho, 0
+1981 CB  Kochi, 0
+1938 DV  Lappajarvi, 0
+1965 UD2 Jilin, 0
+1971 MA  Terradas, 0
+1972 KJ  Derevskaya, 0
+1975 VM2 Aehlita, 0
+1979 OR13Satpaev, 0
+1979 SQ  Sumava, 0
+1980 TE  Antarctica, 0
+1963 UF  Welch, 0
+1966 QG  Orelskaya, 0
+1973 DH  Haug, 0
+1978 QK1 Astapovich, 0
+1979 UG  Chapman, 0
+1981 AF  Morrison, 0
+1981 JK  Zellner, 0
+3537 P-L Wil, 0
+6816 P-L van de Hulst, 0
+1931 UG  Vibeke, 0
+1978 UJ  Ganesa, 0
+1979 OF13Sharonov, 0
+1964 CD  McVittie, 0
+1971 UV  Voskovec-Werich, 0
+1974 SJ  Moldavia, 0
+1975 TN  Ciurlionis, 0
+1979 UD  Nininger, 0
+1968 HK1 Perovskaya, 0
+1972 NC  Ibarruri, 0
+1973 UT5 Tautenburg, 0
+1975 FW  Shenzhen, 0
+1976 KV  Simonov, 0
+1976 YQ7 Kobzar, 0
+1977 RZ6 Kamenyar, 0
+1977 TZ  Schurer, 0
+1977 VC  Bruce Helin, 0
+1978 PF3 Skovoroda, 0
+1981 FA  Soomana, 0
+1981 GJ  Sootiyo, 0
+1981 KA  Bateson, 0
+4578 P-L Horemheb, 0
+6066 P-L Hatshepsut, 0
+1942 RZ  Amnestia, 0
+1975 VO2 Oleshko, 0
+1977 QX2 Ulugbek, 0
+1978 VQ4 Educatio, 0
+1979 MN2 Hibbs, 0
+1980 TO  Corbett, 0
+A906 BJ  Tomeileen, 0
+1934 CD  Lederle, 0
+1935 TC  Blazhko, 0
+1971 TS2 Lunacharsky, 0
+1973 QY1 Kronstadt, 0
+1975 BU  Sholokhov, 0
+1978 GC  Kenos, 0
+1978 RP  Ioannisiani, 0
+1980 RQ  Dollfus, 0
+1981 FE  Lyot, 0
+A921 SA  Wabash, 0
+1941 SS  Olaus Magnus, 0
+1950 TO4 Somville, 0
+1966 BA1 Palamedes, 0
+1975 TU2 Rublyov, 0
+1977 RC7 Veniakaverin, 0
+1980 LB1 Spellmann, 0
+1980 TX4 Mitlincoln, 0
+1981 EC1 Clavel, 0
+6578 P-L Nehalennia, 0
+1934 FF  Sterpin, 0
+1939 BF  Nordenskiold, 0
+1949 PK  Wilson, 0
+1959 RJ  Golson, 0
+1966 PJ  Kollontai, 0
+1969 TO1 Repin, 0
+1970 HA  Tadjikistan, 0
+1976 UW15Agematsu, 0
+6545 P-L Ultrajectum, 0
+1973 DG  Bradman, 0
+1977 RX7 Heyerdahl, 0
+1979 PB  Ruby, 0
+1972 TF2 Semenov, 0
+1976 JF2 Andersen, 0
+1977 PY1 Biryukov, 0
+1981 JC  Tokai, 0
+1942 CB  Sodankyla, 0
+1976 YS1 Papanov, 0
+1977 UQ  Burgi, 0
+1980 CO  Perkin, 0
+1928 QB  Guinevere, 0
+1928 TK  Parenago, 0
+1932 BH  Scheffler, 0
+1939 FY  Metsahovi, 0
+1940 RL  Juhani, 0
+1952 UT  Bryan, 0
+1975 NY  Suvorov, 0
+1976 AG  Bussolini, 0
+1977 CB  Tvashtri, 0
+1977 NT  Kutuzov, 0
+1978 XC  Elmer, 0
+1981 LF  Inge, 0
+7071 P-L Noviomagum, 0
+1953 TC1 Fernandus, 0
+1977 PZ1 Kulikovskij, 0
+1977 QM3 Tsesevich, 0
+1978 VJ7 Brunk, 0
+1926 GC  Alascattalo, 0
+1942 GD  Lohja, 0
+1943 EO  Nummela, 0
+1965 UB1 Liaoning, 0
+1967 JO  Gaviola, 0
+1975 UJ  Hebei, 0
+1976 QG1 Pirogov, 0
+1976 WB1 Bobone, 0
+1977 ET1 Alupka, 0
+1977 NG  Chukotka, 0
+1979 TH  Shandong, 0
+1980 LM  Patterson, 0
+1940 GG  Tavastia, 0
+1950 SH  Baetsle, 0
+1964 TA1 Taiyuan, 0
+1964 TX1 Gansu, 0
+1964 VY  Roman, 0
+1968 SB  Orma, 0
+1974 FG  Rutllant, 0
+1975 VD2 Annagerman, 0
+1976 QF1 Novorossijsk, 0
+1979 DK  Heidi, 0
+1980 PP  Triglav, 0
+1980 PV  Ryba, 0
+1981 QB1 Budovicium, 0
+1981 VG  O'Steen, 0
+1979 KX  Alisary, 0
+1981 RE  Gregory, 0
+1953 TF1 Mohler, 0
+1977 QL2 Rockwell Kent, 0
+1978 NC3 Shipka, 0
+1980 LD  Cambridge, 0
+1980 TU5 Sutton, 0
+A905 VA  Fechtig, 0
+1931 VD  Houzeau, 0
+1939 DH  Hameenlinna, 0
+1939 PJ  Kozyrev, 0
+1951 RL  Gilmore, 0
+1954 UD  Vanderlinden, 0
+1964 TS2 Ningxia, 0
+1971 TH2 Blok, 0
+1973 DE  Edebono, 0
+1980 CF  Calpurnia, 0
+1980 LJ  Machado, 0
+1980 PS  Gubarev, 0
+1933 BB  Verbiest, 0
+1950 FC  Libitina, 0
+1964 TC2 Hubei, 0
+1975 DA  Leloir, 0
+1976 UB  Baker, 0
+1976 UP20Houssay, 0
+1976 YX1 Decabrina, 0
+1978 SP  Remek, 0
+1979 FS2 Viljev, 0
+1980 OB  Skiff, 0
+1980 OC  Thomas, 0
+1981 CS  Louise, 0
+1981 SL1 Putnam, 0
+1981 SP1 Viv, 0
+1981 UH  Svoboda, 0
+1932 CW  Siegma, 0
+1969 TK2 Margolin, 0
+1973 FF1 Chaliapin, 0
+1977 FZ  Boyarchuk, 0
+1977 QX  Kayala, 0
+1977 TB1 Grogler, 0
+1979 FR2 Kirghizia, 0
+1979 KA  Elba, 0
+1980 GH  Maksutov, 0
+1980 MA  Madeline, 0
+1980 PG  Porphyro, 0
+1981 UC  Geisei, 0
+1950 DL  Annschnell, 0
+1953 EN  Hannu Olavi, 0
+1968 UP  Ladoga, 0
+1970 PL  Bulgaria, 0
+1974 QL  Yesenin, 0
+1975 EE3 Litva, 0
+1975 VW3 Saint-Exupery, 0
+1977 PA2 Spartacus, 0
+1977 QP4 Smilevskia, 0
+1980 VX  Radegast, 0
+1981 SA  Harimaya-Bashi, 0
+1975 XA3 Fatyanov, 0
+1979 FG2 Turkmenia, 0
+1979 OJ15Irpedina, 0
+1980 LO  Matson, 0
+1980 OH  Gardner, 0
+1981 VQ  Flavia, 0
+1979 QU2 Daniel, 0
+1980 KJ  Mourao, 0
+1949 PS  Dworetsky, 0
+1966 BW  Hunan, 0
+1976 GB8 Buryatia, 0
+1978 TB  Acamas, 0
+1979 KL  Gudiachvili, 0
+1979 KN  Vainu Bappu, 0
+1980 PN  Arthur, 0
+1980 RY  Merlin, 0
+1980 SO  Veseli, 0
+1980 VP  Lumme, 0
+1980 XA  Bologna, 0
+1982 BR  Moore, 0
+1982 BW1 Taylor, 0
+1972 LD1 Marshak, 0
+1974 QA  Sahade, 0
+1976 GX2 Odessa, 0
+1977 NR  Yakutia, 0
+1978 DA  Seneca, 0
+1978 PB4 Kiril-Metodi, 0
+1978 RO1 Tuva, 0
+1978 VQ5 Boyce, 0
+1979 DE  Kathryn, 0
+1979 QE  Plzen, 0
+1980 LP  Torrence, 0
+1951 RJ  Saito, 0
+1970 QV  Lesya, 0
+1975 WO1 Jiangxi, 0
+1979 MX2 Coonabarabran, 0
+1979 MZ3 Skalnate Pleso, 0
+1980 TN  Santana, 0
+1981 CA  Goto, 0
+1981 CM  Bolzano, 0
+A919 SA  Zech, 0
+1962 RE  Samitchell, 0
+1976 JQ2 Jack London, 0
+1978 PP2 Belnika, 0
+1978 PP3 Churyumov, 0
+1979 MS8 Kopal, 0
+1980 RB1 Rudra, 0
+1980 TF3 Hermod, 0
+1980 TY5 Zhejiang, 0
+1980 VJ1 Guizhou, 0
+1981 WR1 Bishop, 0
+1982 DL  James Bradley, 0
+1982 DS  Huggins, 0
+1982 DZ  Lassell, 0
+A919 SB  Bobrovnikoff, 0
+1939 SG  Gadolin, 0
+1940 GN  Planman, 0
+1941 FN  Hallstrom, 0
+1949 GJ  Lipschutz, 0
+1961 RA  Vesale, 0
+1973 SD  Bernhard, 0
+1973 SO2 Victor Jara, 0
+1976 QD  Daphne Plane, 0
+1977 EC1 Abetti, 0
+1980 SP  Sova, 0
+1980 VJ  Owa, 0
+1980 WA  Oongaq, 0
+1931 EG  Elinor, 0
+1949 QD  Karen, 0
+1953 GM  Yabuuti, 0
+1964 VP  Principia, 0
+1968 OG  Ristenpart, 0
+1974 XX  Guangxi, 0
+1979 HD5 Evenkia, 0
+1979 SB7 Bashkiria, 0
+1980 CK  Gingerich, 0
+1981 JX  Millis, 0
+1982 FG  Wasserman, 0
+1982 FC1 Bydzovsky, 0
+4021 P-L Kandinsky, 0
+6561 P-L Miltiades, 0
+1934 RR  Everhart, 0
+1938 DW1 Schrutka, 0
+1951 TA  Gramme, 0
+1967 UO  Oikawa, 0
+1976 QV  Tataria, 0
+1976 YQ2 Shostakovich, 0
+1977 PW1 Chuvashia, 0
+1977 QR2 Abkhazia, 0
+1979 KC  Pisek, 0
+1980 KN  Lossignol, 0
+1982 BC3 Pandarus, 0
+1982 GB  Tolkien, 0
+1933 QV  Aarhus, 0
+1935 FF  Joan, 0
+1938 DF1 Aavasaksa, 0
+1939 TG  Kittisvaara, 0
+1975 NF  Mateo, 0
+1975 VF2 Ostrovskij, 0
+1979 MF4 Soromundi, 0
+1981 AD1 Brian, 0
+1981 AH1 Douglas, 0
+1981 JN  Masursky, 0
+1981 JW1 Linda Susan, 0
+1982 HG  Tortali, 0
+1982 HG1 Halley, 0
+1935 CF  Bruxelles, 0
+1938 DG1 Ristiina, 0
+1974 KB  Sersic, 0
+1976 YT3 Chkalov, 0
+1977 VM1 Yan'an, 0
+1979 QL1 Pino Torinese, 0
+1979 UE  Christabel, 0
+1980 HB  Magion, 0
+1969 TC3 Albina, 0
+1971 TZ  Azerbajdzhan, 0
+1976 YX  Kalinin, 0
+1976 YP7 Baikonur, 0
+1978 RT  Cherson, 0
+1978 SZ2 Batrakov, 0
+1979 FT2 Rodari, 0
+1979 MR4 Julian Loewe, 0
+1980 TD4 Wu, 0
+1980 VW  Borovsky, 0
+1981 QS3 Ueferji, 0
+1981 WT  Burns, 0
+1982 FH  Sagan, 0
+1982 FQ  Veverka, 0
+1978 QB2 Aleksandrov, 0
+1937 YD  Keaton, 0
+1938 EA  Luxembourg, 0
+1938 GC  Matti, 0
+1938 US  Mielikki, 0
+1939 TM  Tuulikki, 0
+1940 WJ  Tellervo, 0
+1951 OM  Handley, 0
+1965 SU  Suzhou, 0
+1972 RV3 Pyotr Pervyj, 0
+1973 SP2 Vsekhsvyatskij, 0
+1976 GM2 Abalakin, 0
+1978 QL2 Gorshkov, 0
+1978 RZ5 Orlov, 0
+1978 VG3 David Bender, 0
+1979 SE9 Kotelnikov, 0
+1979 SO9 Paton, 0
+1979 ST9 Yatskiv, 0
+1979 UA2 Urumqi, 0
+1981 QH  Barks, 0
+1982 KJ  Cucula, 0
+1926 FG  Witt, 0
+1938 DQ  Hamina, 0
+1976 GJ3 Hasek, 0
+1977 RB  Ellen, 0
+1979 OC  Ops, 0
+1938 DU  Kotka, 0
+1940 EC  Viracocha, 0
+1952 UZ1 Taguacipa, 0
+1974 SY4 Tsoj, 0
+1975 XG  Valdivia, 0
+1981 JG3 Gibson, 0
+1965 WR  Chengdu, 0
+1975 RB  Birgitta, 0
+1976 SR10San Martin, 0
+1979 SJ9 Hissao, 0
+1980 DW  Cesky Krumlov, 0
+1981 JF2 Patrick Gene, 0
+1937 TD  Walterhorn, 0
+1940 YK  Loviisa, 0
+1962 RP  Campbell, 0
+1965 SP  Wu Chien-Shiung, 0
+1966 DH  Duncan, 0
+1966 PD  Efimov, 0
+1973 SJ4 Avicenna, 0
+1974 SG1 Dzhangar, 0
+1977 VN  Crisser, 0
+1978 RF  Cordelia, 0
+1980 GC  Idomeneus, 0
+1980 TU6 Kacha, 0
+1981 AE  Eddington, 0
+1981 AT  Fowler, 0
+1982 OG  Jeans, 0
+1981 CN  Moeller, 0
+1981 EY  Dinant, 0
+1982 FE1 Leeuwenhoek, 0
+1967 UM  Takenouchi, 0
+1972 RX3 Gorky, 0
+1976 GZ2 Mendeleev, 0
+1977 SM1 Tsvet, 0
+1978 SP7 Polzunov, 0
+1979 XE  Dugan, 0
+1981 JZ2 Brooks, 0
+1942 TJ  Tenojoki, 0
+1953 TX2 Odishaw, 0
+1976 SZ7 Baikal, 0
+1979 SY11Shukshin, 0
+1979 XP  Tangshan, 0
+1981 CX  Mary, 0
+1981 DO2 Monnig, 0
+1982 QH  Kleczek, 0
+2605 P-L Leonidas, 0
+1974 RA2 Chernyshevskij, 0
+1975 GA  Domeyko, 0
+1978 QN2 Sedov, 0
+1978 RR5 Grinevia, 0
+1978 RC6 Tovarishch, 0
+1981 EL  Andenne, 0
+1956 XA  Foshan, 0
+1965 UU1 Needham, 0
+1977 CA  Paradise, 0
+1977 EY1 Ponomarev, 0
+1977 QV  Valdaj, 0
+1978 PS3 Kulik, 0
+1979 YM  Lepage, 0
+1980 EC  Kron, 0
+1981 LK  Teucer, 0
+2009 P-L Vergilius, 0
+3071 P-L Justus, 0
+4585 P-L Ovidius, 0
+1935 SU1 Huygens, 0
+1939 BU  Weisell, 0
+1940 WG  Vilho, 0
+1941 HF  Yrjo, 0
+1941 UM  Kalle, 0
+1953 GG  Graz, 0
+1969 TH6 Karl Marx, 0
+1976 HS  Belgrano, 0
+1978 QW2 Vernadskij, 0
+1978 RU5 Lev Tolstoj, 0
+1980 JA  Stremchovi, 0
+1981 FN  Scaltriti, 0
+1981 WZ  Zappala, 0
+1982 FA3 Vieira, 0
+1982 RL  Soma, 0
+1982 SO  Pien, 0
+1982 UJ  Perec, 0
+2580 P-L Juvenalis, 0
+1933 UR  Ensor, 0
+1942 RU  Iisalmi, 0
+1978 SQ  Slavka, 0
+1980 EG  Sacajawea, 0
+2010 P-L van der Laan, 0
+1934 CZ  Franke, 0
+1938 SD1 Crosby, 0
+1939 UJ  Ahti, 0
+1942 CC  Vellamo, 0
+1942 DL  Iku-Turso, 0
+1948 PK  Bobhope, 0
+1980 GA  Greenwich, 0
+1930 SZ  Stevin, 0
+1975 EC1 Lada, 0
+1978 PC4 Radishchev, 0
+1980 TB4 Christy Carol, 0
+1982 WF  Ryoma, 0
+1978 YQ  Sobolev, 0
+1971 TJ2 Griboedov, 0
+1971 UM1 Takase, 0
+1929 TP  Annette, 0
+1941 UP  Kallavesi, 0
+1943 DM  Puijo, 0
+1950 OD  Unsold, 0
+1975 XQ  Yeti, 0
+1981 JP  Hess, 0
+1981 OF  Franklinken, 0
+1942 CJ  Ylppo, 0
+1959 CC1 Parvati, 0
+1959 VF  ASP, 0
+1976 GN3 Shklovskij, 0
+1978 TM7 Mozhaiskij, 0
+1978 UQ2 Harbin, 0
+1981 QU2 Declercq, 0
+1963 RG  Harvill, 0
+1964 JE  Rawson, 0
+1931 TB2 Bastian, 0
+1933 GB  Roser, 0
+1942 DA  NOT, 0
+1975 XB  Carlosporter, 0
+1978 RW1 Paganini, 0
+1978 TA  Pasacentennium, 0
+1981 VL2 Lambrecht, 0
+1977 JP  Vavilov, 0
+1981 QG2 Ben Mayer, 0
+1983 AZ  Soderblom, 0
+1935 OK  Laurel, 0
+1961 TA  Hardy, 0
+1969 VC  Steins, 0
+1972 UA  Upupa, 0
+1980 RM2 Nepryadva, 0
+1981 LD  Haupt, 0
+1981 QC2 Schober, 0
+1981 RU  Gentelec, 0
+1982 FR  Binzel, 0
+1982 TH  Jim Young, 0
+1983 CL  Lagerkvist, 0
+6558 P-L Aeschylus, 0
+1969 TR2 Likhachev, 0
+1980 RX  Panacea, 0
+1932 CB1 Shimizu, 0
+1983 CA  Nihondaira, 0
+1983 AA1 Meiden, 0
+1981 OG  Tedesco, 0
+1978 RG6 Barabashov, 0
+1981 ES22Reddish, 0
+1939 TC  Palva, 0
+1965 YG  Tinkaping, 0
+1977 QD5 Krinov, 0
+1982 TO  Hodgson, 0
+1981 WT1 Brno, 0
+1978 SY7 Vilyujsk, 0
+1980 MD  McGetchin, 0
+1983 AX2 Filipenko, 0
+1975 QD  Peiroos, 0
+1978 SH5 Kakhovka, 0
+1981 AE1 Memnon, 0
+1931 RN  Preiss, 0
+1932 CK  Ole Romer, 0
+1938 DN  Neuvo, 0
+1964 TR2 Runrun Shaw, 0
+1972 AR  Lubos Perek, 0
+1973 DP  Bagehot, 0
+1980 FN3 Westerlund, 0
+1981 UV9 Zhuhai, 0
+1981 YB  Millman, 0
+1982 BZ2 Plaskett, 0
+1983 AE2 Caltech, 0
+1975 TT2 Nekrasov, 0
+1981 WA  Shimoyama, 0
+1983 JA  Hoshi-no-ie, 0
+1980 TK13Yoshkar-Ola, 0
+1938 GJ  Miahelena, 0
+1942 DM  Lapalma, 0
+1931 TK  Horta, 0
+1965 SB  Glarnisch, 0
+1977 QY2 Moskvina, 0
+1978 PW2 Voronveliya, 0
+1980 RR  Sawyer Hogg, 0
+1980 TU4 Salazar, 0
+1981 EX18Dali, 0
+1981 JR  Automedon, 0
+6525 P-L Sophocles, 0
+1976 GY1 Dikan'ka, 0
+1977 DA  Schuyler, 0
+1977 DJ2 Mitake-mura, 0
+1978 VC5 Beatty, 0
+1980 KG  Caldeira, 0
+1981 TM  Alamosa, 0
+1976 GN8 Epstein, 0
+1982 BK1 Harris, 0
+6554 P-L Euripides, 0
+1969 UC  Mayakovsky, 0
+1980 TK4 Kempchinsky, 0
+1983 HN  Amber, 0
+4006 P-L Aristophanes, 0
+1976 UU  Naerum, 0
+1979 SF  Nechvile, 0
+1980 LA  Gibbs, 0
+1980 LB  Hopi, 0
+1982 DP  Coconino, 0
+3042 P-L Bacon, 0
+1930 YV  Alden, 0
+1932 BG  Cordie, 0
+1933 QU  Heinrich, 0
+1935 QF  Peyo, 0
+1935 ST1 Zanstra, 0
+1941 UV  Muchachos, 0
+1955 QP1 Kippenhahn, 0
+1969 TD2 Amosov, 0
+1970 PR  Kaverznev, 0
+1974 VQ2 Rousseau, 0
+1977 RB8 Perepadin, 0
+1979 SF2 Lilliputia, 0
+1979 SV11Vysheslavia, 0
+1982 BT1 Delsemme, 0
+1982 BX1 Newburn, 0
+1982 HN1 Yeomans, 0
+1934 CB1 Tatsuo, 0
+1981 DG  Arpetito, 0
+1983 RE2 Scholl, 0
+1977 DK3 Ohtaki, 0
+1982 XA  Katsurahama, 0
+1940 YF  Otto, 0
+1964 VM1 Chen Jiageng, 0
+1974 OA1 Jaschek, 0
+1975 BX  Surikov, 0
+1977 EB2 Korsunia, 0
+1977 SS1 Vladisvyat, 0
+1978 QJ  Iliya, 0
+1978 RU1 Mikula, 0
+1978 UC  Pestalozzi, 0
+1980 YL  Mohr, 0
+1939 TB  Niilo, 0
+1951 AJ  Paola, 0
+1955 QK  Holden, 0
+1970 AF1 Spahr, 0
+1974 HR  Lautaro, 0
+1974 SP  Chivilikhin, 0
+1978 SR  Roudebush, 0
+1978 TB7 Murmansk, 0
+1981 EU17Cameron, 0
+1981 EE20Chagall, 0
+1981 JA3 Muriel, 0
+1981 RW2 Poltava, 0
+1981 YD  Chaucer, 0
+1983 TV1 Shakespeare, 0
+2525 P-L Mrinalini, 0
+4583 P-L Sarabhai, 0
+1943 EM  Korhonen, 0
+1976 UF1 Imago, 0
+1981 EN27Trimberger, 0
+1982 HV  Bilbo, 0
+2540 P-L Vondel, 0
+1970 PA  Wendy, 0
+1975 PA  Flynn, 0
+1978 QK  Taratuta, 0
+1954 RJ  Bowman, 0
+1974 MJ  Cabrera, 0
+1975 TR3 Berendeya, 0
+1981 CY  Dante, 0
+1981 EG19Leonardo, 0
