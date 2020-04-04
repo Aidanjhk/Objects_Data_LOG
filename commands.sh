@@ -15,8 +15,8 @@ sleep 2
 ./Data_Sorting.exe
 sleep 6
 
+./Pre_Process.exe
+
 git add -A
 git commit -m "Update Current"
 git push origin master
-
-./Pre_Process.exe
