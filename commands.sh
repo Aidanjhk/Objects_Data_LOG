@@ -17,6 +17,7 @@ sleep 6
 
 ./Pre_Process.exe
 
+sleep 2
 git add -A
 git commit -m "Update Current"
 git push origin master
