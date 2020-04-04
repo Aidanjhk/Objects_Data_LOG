@@ -16,6 +16,8 @@ sleep 2
 sleep 6
 
 ./Pre_Process.exe
+sleep 1
+./Pre_Process.exe
 
 sleep 2
 git add -A
