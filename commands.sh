@@ -12,9 +12,9 @@ sleep 4
 ./Data_Sorting.exe
 sleep 6
 
-./Pre_Process.exe
-sleep 1
-./Pre_Process.exe
+#./Pre_Process.exe
+#sleep 1
+#./Pre_Process.exe
 
 sleep 4
 git add -A
