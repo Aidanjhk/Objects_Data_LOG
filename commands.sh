@@ -9,7 +9,7 @@ sleep 1
 sleep 4
 
 ./Data_Sorting_MAJOR.exe
-./Data_Sorting_MINOR.exe
+#./Data_Sorting_MINOR.exe
 ./Data_Sorting.exe
 sleep 6
 
