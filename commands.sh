@@ -1,7 +1,7 @@
 ./Setup.exe
 start chrome "https://www.minorplanetcenter.net/iau/MPEph/MPEph.html"
 sleep 6
-./Planet_Data_Request.exe
+./Planets_Data_Request.exe
 ./planet_hunt.sh
 
 sleep 4
