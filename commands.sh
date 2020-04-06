@@ -4,10 +4,9 @@ start chrome "https://www.minorplanetcenter.net/iau/MPEph/MPEph.html"
 sleep 1
 ./Planets_Data_Request.exe
 ./planet_hunt.sh
-./PRE.exe
 
 sleep 4
-
+./PRE.exe
 ./Data_Sorting_MAJOR.exe
 #./Data_Sorting_MINOR.exe
 ./Data_Sorting.exe
